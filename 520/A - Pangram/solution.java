@@ -1,37 +1,19 @@
+import java.util.HashSet;
 import java.util.Scanner;
- 
 public class Main {
- 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        String str = scanner.next().toUpperCase(); // Convert input to uppercase
- 
-        int count = 0;
- 
-        // For every letter A to Z
-        for (char ch = 'A'; ch <= 'Z'; ch++) {
-            boolean found = false;
- 
-            // Check if that letter is present in the string
-            for (int i = 0; i < n; i++) {
-                if (str.charAt(i) == ch) {
-                    found = true;
-                    break; // no need to search further
-                }
-            }
- 
-            if (found) {
-                count++; // this letter was found at least once
-            }
+        Scanner input = new Scanner(System.in);
+        int n = input.nextInt();
+        String s=input.next().toLowerCase();
+        HashSet<Character> set = new HashSet<>();
+        for(int i=0;i<s.length();i++){
+            set.add(s.charAt(i));
         }
- 
-        if (count == 26) {
+        if(set.size()==26){
             System.out.println("YES");
-        } else {
+        }
+        else {
             System.out.println("NO");
         }
- 
-        scanner.close();
     }
 }
