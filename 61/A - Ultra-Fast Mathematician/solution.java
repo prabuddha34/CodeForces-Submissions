@@ -1,23 +1,22 @@
 import java.util.Scanner;
- 
 public class Main {
- 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
+        String a = input.next();
+        String b = input.next();
+        String result = "";
  
-        String a=scanner.nextLine();
-        String b=scanner.nextLine();
- 
-        String c=" ";
- 
-        for(int i=0;i<a.length();i++){
+        for(int i = 0; i < a.length(); i++){
             if(a.charAt(i) == b.charAt(i)){
-                c +='0';
-            } else {
-                c += '1';
+                result=result+"0";
+ 
+            }
+            else {
+                result=result+"1";
             }
         }
-        System.out.println(c.trim());
-        scanner.close();
-     }
+        System.out.println(result);
+ 
+ 
+    }
 }
