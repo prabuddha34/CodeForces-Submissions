@@ -1,24 +1,23 @@
-import java.util.Scanner;
+import java.util.*;
  
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
  
-        int n = scanner.nextInt();
-        int[] p = new int[n];
-        int[] ans = new int[n];
+        Scanner sc = new Scanner(System.in);
  
-        for (int i = 0; i < n; i++) {
-            p[i] = scanner.nextInt();
+        int n = sc.nextInt();
+ 
+        int[] result = new int[n + 1];
+ 
+        for (int i = 1; i <= n; i++) {
+ 
+            int p = sc.nextInt();
+ 
+            result[p] = i;
         }
  
-        for (int i = 0; i < n; i++) {
-            int receiver = p[i];
-            ans[receiver - 1] = i + 1; 
-        }
- 
-        for (int i = 0; i < n; i++) {
-            System.out.print(ans[i] + " ");
+        for (int i = 1; i <= n; i++) {
+            System.out.print(result[i] + " ");
         }
     }
 }
