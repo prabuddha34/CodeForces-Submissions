@@ -1,36 +1,49 @@
-import java.util.*;
+import java.util.Scanner;
  
 public class Main {
+ 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        int p = scanner.nextInt();
-        int[] arr = new int[n + 1];
+ 
+        Scanner sc = new Scanner(System.in);
+ 
+        int n = sc.nextInt();
+ 
+        boolean[] levels = new boolean[n + 1];
+ 
+        // Little X
+        int p = sc.nextInt();
+ 
         for (int i = 0; i < p; i++) {
-            int level = scanner.nextInt();
-            arr[level] = 1;
+ 
+            int x = sc.nextInt();
+ 
+            levels[x] = true;
         }
  
-        int q = scanner.nextInt(); 
+        // Little Y
+        int q = sc.nextInt();
+ 
         for (int i = 0; i < q; i++) {
-            int level = scanner.nextInt();
-            arr[level] = 1;
+ 
+            int y = sc.nextInt();
+ 
+            levels[y] = true;
         }
  
-        boolean allCovered = true;
+        boolean canPass = true;
+ 
         for (int i = 1; i <= n; i++) {
-            if (arr[i] == 0) {
-                allCovered = false;
+ 
+            if (!levels[i]) {
+                canPass = false;
                 break;
             }
         }
  
-        if (allCovered) {
+        if (canPass) {
             System.out.println("I become the guy.");
         } else {
             System.out.println("Oh, my keyboard!");
         }
- 
-        scanner.close();
     }
 }
