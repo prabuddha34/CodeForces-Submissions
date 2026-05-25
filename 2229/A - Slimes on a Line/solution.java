@@ -1,6 +1,7 @@
 import java.util.Scanner;
  
 public class Main {
+ 
     public static void main(String[] args) {
  
         Scanner sc = new Scanner(System.in);
@@ -11,18 +12,28 @@ public class Main {
  
             int n = sc.nextInt();
  
-            int min = Integer.MAX_VALUE;
-            int max = Integer.MIN_VALUE;
+            int[] arr = new int[n];
  
             for (int i = 0; i < n; i++) {
- 
-                int x = sc.nextInt();
- 
-                min = Math.min(min, x);
-                max = Math.max(max, x);
+                arr[i] = sc.nextInt();
             }
  
-            System.out.println((max - min + 1) / 2);
+            int maxDiff = 0;
+ 
+            // Compare every pair
+            for (int i = 0; i < n; i++) {
+ 
+                for (int j = 0; j < n; j++) {
+ 
+                    int diff = Math.abs(arr[i] - arr[j]);
+ 
+                    if (diff > maxDiff) {
+                        maxDiff = diff;
+                    }
+                }
+            }
+ 
+            System.out.println((maxDiff + 1) / 2);
         }
     }
 }
