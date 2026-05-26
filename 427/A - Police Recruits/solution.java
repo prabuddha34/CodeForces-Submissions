@@ -1,28 +1,28 @@
-import java.util.Scanner;
+import java.util.*;
  
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        
-        int n = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+ 
+        int n = sc.nextInt();
+ 
+        int police = 0;
         int untreated = 0;
-        int available = 0;
  
         for (int i = 0; i < n; i++) {
-            int event = scanner.nextInt();
-            
+            int event = sc.nextInt();
+ 
             if (event == -1) {
-                if (available > 0) {
-                    available--; 
+                if (police > 0) {
+                    police--;
                 } else {
-                    untreated++;  
+                    untreated++;
                 }
             } else {
-                available += event; 
+                police += event;
             }
         }
  
         System.out.println(untreated);
-        scanner.close();
     }
 }
