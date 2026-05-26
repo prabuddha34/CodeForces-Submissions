@@ -2,29 +2,28 @@ import java.util.Scanner;
  
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
  
-        int n  = scanner.nextInt();
-        int k  = scanner.nextInt();
-        int l  = scanner.nextInt();
-        int c  = scanner.nextInt();
-        int d  = scanner.nextInt();
-        int p  = scanner.nextInt();
-        int nl = scanner.nextInt();
-        int np = scanner.nextInt();
+        Scanner input = new Scanner(System.in);
+ 
+        int n = input.nextInt();
+        int k = input.nextInt();
+        int l = input.nextInt();
+        int c = input.nextInt();
+        int d = input.nextInt();
+        int p = input.nextInt();
+        int nl = input.nextInt();
+        int np = input.nextInt();
  
         int totalDrink = k * l;
-        int totalLimes = c * d;
-        int totalSalt = p;
+        int toastPossible = totalDrink / nl;
  
-        int toastsByDrink = totalDrink / (nl * n);
-        int toastsByLimes = totalLimes / n;
-        int toastsBySalt = totalSalt / (np * n);
+        int totalLime = c * d;
  
-        int maxToasts = Math.min(toastsByDrink, Math.min(toastsByLimes, toastsBySalt));
+        int toastFromSalt = p / np;
  
-        System.out.println(maxToasts);
-        scanner.close();
+        int min = Math.min(toastPossible,
+                  Math.min(totalLime, toastFromSalt));
+ 
+        System.out.println(min / n);
     }
 }
- 
