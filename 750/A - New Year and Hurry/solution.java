@@ -1,20 +1,22 @@
 import java.util.Scanner;
  
 public class Main {
- 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        
-        int n = sc.nextInt(); // number of problems
-        int k = sc.nextInt(); // time needed to reach the party
  
-        int timeLeft = 240 - k;
-        int timeUsed = 0;
+        Scanner scanner = new Scanner(System.in);
+ 
+        int n = scanner.nextInt(); // total problems
+        int k = scanner.nextInt(); // travel time
+ 
+        int remainingTime = 240 - k;
+        int totalTime = 0;
         int count = 0;
  
         for (int i = 1; i <= n; i++) {
-            timeUsed += 5 * i;
-            if (timeUsed <= timeLeft) {
+ 
+            totalTime += 5 * i;
+ 
+            if (totalTime <= remainingTime) {
                 count++;
             } else {
                 break;
@@ -22,6 +24,5 @@ public class Main {
         }
  
         System.out.println(count);
-        sc.close();
     }
 }
