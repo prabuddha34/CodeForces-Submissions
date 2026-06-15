@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
@@ -24,6 +25,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 169B | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/169/B%20-%20Replacing%20Digits/solution.cpp) |
 
 ### implementation
 
