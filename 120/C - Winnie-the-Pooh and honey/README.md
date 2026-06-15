@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/120/problem/C" target="_blank" rel="noopener noreferrer">120C — Winnie-the-Pooh and honey</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 120C](https://codeforces.com/contest/120/problem/C) |
+
+## Topics
+`implementation` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Winnie-the-Pooh and honey</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file" style="font-weight: bold"><div class="property-title">input</div>input.txt</div><div class="output-file" style="font-weight: bold"><div class="property-title">output</div>output.txt</div></div><div><p>As we all know, Winnie-the-Pooh just adores honey. Ones he and the Piglet found out that the Rabbit has recently gotten hold of an impressive amount of this sweet and healthy snack. As you may guess, Winnie and the Piglet asked to come at the Rabbit's place. Thus, there are <span class="tex-span"><i>n</i></span> jars of honey lined up in front of Winnie-the-Pooh, jar number <span class="tex-span"><i>i</i></span> contains <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> kilos of honey. Winnie-the-Pooh eats the honey like that: each time he chooses a jar containing most honey. If the jar has less that <span class="tex-span"><i>k</i></span> kilos of honey or if Winnie-the-Pooh has already eaten from it three times, he gives the jar to Piglet. Otherwise he eats exactly <span class="tex-span"><i>k</i></span> kilos of honey from the jar and puts it back. Winnie does so until he gives all jars to the Piglet. Count how much honey Piglet will overall get after Winnie satisfies his hunger.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains two integers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100, 1 ≤ <i>k</i> ≤ 100</span>). The second line contains <span class="tex-span"><i>n</i></span> integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub></span>, <span class="tex-span"><i>a</i><sub class="lower-index">2</sub></span>, ..., <span class="tex-span"><i>a</i><sub class="lower-index"><i>n</i></sub></span>, separated by spaces (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single number — how many kilos of honey gets Piglet.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0015081329983266822" id="id0016563578772505894" class="input-output-copier">Copy</div></div><pre id="id0015081329983266822">3 3<br>15 8 10<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006401739865088334" id="id005866021120740698" class="input-output-copier">Copy</div></div><pre id="id006401739865088334">9<br></pre></div></div></div>
