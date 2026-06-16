@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 11 |
+| 35 | 12 |
 
 ---
 
@@ -15,9 +15,10 @@
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (25)
+- [implementation](#implementation) (26)
 - [math](#math) (9)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
@@ -50,6 +51,12 @@
 |---|---------|------------|----------|
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 
 ### graphs
 
@@ -103,6 +110,7 @@
 | 366A | [Dima and Guards](https://codeforces.com/contest/366/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/A%20-%20Dima%20and%20Guards/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
 | 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
+| 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 
 ### math
 
