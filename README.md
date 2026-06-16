@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 12 |
+| 38 | 12 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (28)
+- [implementation](#implementation) (29)
 - [math](#math) (9)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
@@ -114,6 +114,7 @@
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
 | 471A | [MUH and Sticks](https://codeforces.com/contest/471/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/471/A%20-%20MUH%20and%20Sticks/solution.cpp) |
+| 475A | [Bayan Bus](https://codeforces.com/contest/475/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/475/A%20-%20Bayan%20Bus/solution.cpp) |
 
 ### math
 
