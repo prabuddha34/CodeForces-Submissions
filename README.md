@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 8 |
+| 24 | 8 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (17)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (18)
 - [math](#math) (6)
 - [sortings](#sortings) (3)
 - [strings](#strings) (3)
@@ -57,6 +57,7 @@
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 285A | [Slightly Decreasing Permutations](https://codeforces.com/contest/285/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/A%20-%20Slightly%20Decreasing%20Permutations/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
+| 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 
 ### implementation
 
@@ -79,6 +80,7 @@
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
+| 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 
 ### math
 
