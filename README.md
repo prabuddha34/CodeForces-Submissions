@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 8 |
+| 19 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -36,6 +36,7 @@
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
+| 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
 
 ### constructive algorithms
 
@@ -71,6 +72,7 @@
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 285A | [Slightly Decreasing Permutations](https://codeforces.com/contest/285/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/A%20-%20Slightly%20Decreasing%20Permutations/solution.cpp) |
+| 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
 
 ### math
 
