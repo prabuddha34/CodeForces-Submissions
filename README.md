@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 11 |
+| 33 | 11 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (24)
+- [greedy](#greedy) (11)
+- [implementation](#implementation) (25)
 - [math](#math) (8)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
@@ -70,6 +70,7 @@
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
+| 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### implementation
@@ -100,6 +101,7 @@
 | 365B | [The Fibonacci Segment](https://codeforces.com/contest/365/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/365/B%20-%20The%20Fibonacci%20Segment/solution.cpp) |
 | 366A | [Dima and Guards](https://codeforces.com/contest/366/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/A%20-%20Dima%20and%20Guards/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
+| 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 
 ### math
 
