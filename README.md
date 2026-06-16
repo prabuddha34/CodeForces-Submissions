@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 8 |
+| 13 | 8 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (3)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
 ---
@@ -62,6 +62,7 @@
 | 218B | [Airport](https://codeforces.com/contest/218/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/218/B%20-%20Airport/solution.cpp) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
+| 242B | [Big Segment](https://codeforces.com/contest/242/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/B%20-%20Big%20Segment/solution.cpp) |
 
 ### math
 
@@ -76,6 +77,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
+| 242B | [Big Segment](https://codeforces.com/contest/242/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/B%20-%20Big%20Segment/solution.cpp) |
 
 ### strings
 
