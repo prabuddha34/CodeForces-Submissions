@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 8 |
+| 14 | 8 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (3)
 - [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -63,6 +63,7 @@
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 242B | [Big Segment](https://codeforces.com/contest/242/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/B%20-%20Big%20Segment/solution.cpp) |
+| 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
 
 ### math
 
@@ -84,6 +85,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
+| 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
 
 ---
 
