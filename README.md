@@ -6,20 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 8 |
+| 29 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (22)
-- [math](#math) (6)
+- [math](#math) (7)
 - [sortings](#sortings) (4)
 - [strings](#strings) (3)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -28,6 +29,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
+| 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### brute force
 
@@ -59,6 +61,7 @@
 | 285A | [Slightly Decreasing Permutations](https://codeforces.com/contest/285/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/A%20-%20Slightly%20Decreasing%20Permutations/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
+| 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### implementation
 
@@ -97,6 +100,7 @@
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
+| 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### sortings
 
@@ -114,6 +118,12 @@
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ---
 
