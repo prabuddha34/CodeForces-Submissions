@@ -6,20 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 12 |
+| 40 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (30)
-- [math](#math) (9)
+- [implementation](#implementation) (31)
+- [math](#math) (10)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (3)
@@ -45,6 +46,7 @@
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
+| 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 
 ### constructive algorithms
 
@@ -116,6 +118,7 @@
 | 471A | [MUH and Sticks](https://codeforces.com/contest/471/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/471/A%20-%20MUH%20and%20Sticks/solution.cpp) |
 | 475A | [Bayan Bus](https://codeforces.com/contest/475/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/475/A%20-%20Bayan%20Bus/solution.cpp) |
 | 478A | [Initial Bet](https://codeforces.com/contest/478/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/A%20-%20Initial%20Bet/solution.cpp) |
+| 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 
 ### math
 
@@ -129,7 +132,14 @@
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 370A | [Rook, Bishop and King](https://codeforces.com/contest/370/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/370/A%20-%20Rook%2C%20Bishop%20and%20King/solution.cpp) |
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
+| 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 
 ### shortest paths
 
