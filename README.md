@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 17 |
+| 47 | 17 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (11)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -155,6 +155,7 @@
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
+| 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
 
 ### math
 
@@ -203,6 +204,7 @@
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
+| 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
 
 ### two pointers
 
