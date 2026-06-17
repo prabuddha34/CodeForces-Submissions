@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 17 |
+| 51 | 17 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (37)
+- [implementation](#implementation) (38)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -161,6 +161,7 @@
 | 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
 | 557A | [Ilya and Diplomas](https://codeforces.com/contest/557/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/557/A%20-%20Ilya%20and%20Diplomas/solution.cpp) |
+| 570A | [Elections](https://codeforces.com/contest/570/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/570/A%20-%20Elections/solution.cpp) |
 
 ### math
 
