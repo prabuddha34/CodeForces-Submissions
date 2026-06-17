@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 17 |
+| 53 | 17 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (39)
-- [math](#math) (13)
+- [math](#math) (14)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
@@ -180,6 +180,7 @@
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 557A | [Ilya and Diplomas](https://codeforces.com/contest/557/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/557/A%20-%20Ilya%20and%20Diplomas/solution.cpp) |
 | 581B | [Luxurious Houses](https://codeforces.com/contest/581/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/581/B%20-%20Luxurious%20Houses/solution.cpp) |
+| 592B | [The Monster and the Squirrel](https://codeforces.com/contest/592/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/592/B%20-%20The%20Monster%20and%20the%20Squirrel/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### number theory
