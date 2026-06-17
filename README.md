@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 18 |
+| 64 | 18 |
 
 ---
 
@@ -21,14 +21,14 @@
 - [dsu](#dsu) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (17)
+- [greedy](#greedy) (18)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (45)
+- [implementation](#implementation) (46)
 - [math](#math) (16)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (5)
-- [strings](#strings) (8)
+- [strings](#strings) (9)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -127,6 +127,7 @@
 | 557A | [Ilya and Diplomas](https://codeforces.com/contest/557/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/557/A%20-%20Ilya%20and%20Diplomas/solution.cpp) |
 | 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 624B | [Making a String](https://codeforces.com/contest/624/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/624/B%20-%20Making%20a%20String/solution.cpp) |
+| 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### hashing
@@ -184,6 +185,7 @@
 | 609B | [The Best Gift](https://codeforces.com/contest/609/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/609/B%20-%20The%20Best%20Gift/solution.cpp) |
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
+| 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 
 ### math
 
@@ -243,6 +245,7 @@
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
+| 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 
 ### two pointers
 
