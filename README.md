@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 18 |
+| 66 | 18 |
 
 ---
 
@@ -21,13 +21,13 @@
 - [dsu](#dsu) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (46)
 - [math](#math) (16)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (1)
 
@@ -130,6 +130,7 @@
 | 624B | [Making a String](https://codeforces.com/contest/624/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/624/B%20-%20Making%20a%20String/solution.cpp) |
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 779B | [Weird Rounding](https://codeforces.com/contest/779/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/B%20-%20Weird%20Rounding/solution.cpp) |
+| 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### hashing
@@ -234,6 +235,7 @@
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 362B | [Petya and Staircases](https://codeforces.com/contest/362/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/362/B%20-%20Petya%20and%20Staircases/solution.cpp) |
 | 624B | [Making a String](https://codeforces.com/contest/624/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/624/B%20-%20Making%20a%20String/solution.cpp) |
+| 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
 
 ### strings
 
