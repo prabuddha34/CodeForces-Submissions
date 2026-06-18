@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 72 | 18 |
+| 73 | 18 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (51)
+- [implementation](#implementation) (52)
 - [math](#math) (18)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
@@ -196,6 +196,7 @@
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
 | 799A | [Carrot Cakes](https://codeforces.com/contest/799/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/799/A%20-%20Carrot%20Cakes/solution.cpp) |
 | 813A | [The Contest](https://codeforces.com/contest/813/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/813/A%20-%20The%20Contest/solution.cpp) |
+| 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 
 ### math
 
