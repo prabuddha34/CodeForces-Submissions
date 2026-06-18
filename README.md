@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 19 |
+| 77 | 19 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [data structures](#data-structures) (3)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
-- [geometry](#geometry) (1)
+- [geometry](#geometry) (2)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (21)
 - [hashing](#hashing) (1)
@@ -111,6 +111,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
+| 842B | [Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/842/B%20-%20Gleb%20And%20Pizza/solution.cpp) |
 
 ### graphs
 
