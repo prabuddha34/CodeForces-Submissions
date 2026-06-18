@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 18 |
+| 75 | 18 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [dsu](#dsu) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (20)
+- [greedy](#greedy) (21)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (53)
 - [math](#math) (18)
@@ -134,6 +134,7 @@
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 779B | [Weird Rounding](https://codeforces.com/contest/779/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/B%20-%20Weird%20Rounding/solution.cpp) |
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
+| 835B | [The number on the board](https://codeforces.com/contest/835/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/835/B%20-%20The%20number%20on%20the%20board/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ### hashing
