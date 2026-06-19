@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 89 | 20 |
+| 90 | 20 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (24)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (59)
+- [implementation](#implementation) (60)
 - [math](#math) (22)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
@@ -229,6 +229,7 @@
 | 884B | [Japanese Crosswords Strike Back](https://codeforces.com/contest/884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/884/B%20-%20Japanese%20Crosswords%20Strike%20Back/solution.cpp) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 | 902A | [Visiting a Friend](https://codeforces.com/contest/902/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/902/A%20-%20Visiting%20a%20Friend/solution.cpp) |
+| 911A | [Nearest Minimums](https://codeforces.com/contest/911/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/A%20-%20Nearest%20Minimums/solution.cpp) |
 
 ### math
 
