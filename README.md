@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 97 | 21 |
+| 98 | 21 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
-- [geometry](#geometry) (2)
+- [geometry](#geometry) (3)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (25)
 - [hashing](#hashing) (1)
@@ -134,6 +134,7 @@
 |---|---------|------------|----------|
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 842B | [Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/842/B%20-%20Gleb%20And%20Pizza/solution.cpp) |
+| 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
 
 ### graphs
 
