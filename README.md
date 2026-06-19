@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 107 | 21 |
+| 108 | 21 |
 
 ---
 
@@ -17,17 +17,17 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (25)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [geometry](#geometry) (3)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (27)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (66)
-- [math](#math) (29)
+- [math](#math) (30)
 - [number theory](#number-theory) (9)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (10)
@@ -103,6 +103,7 @@
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
 | 609B | [The Best Gift](https://codeforces.com/contest/609/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/609/B%20-%20The%20Best%20Gift/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
+| 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 
 ### data structures
@@ -130,6 +131,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
+| 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 
 ### geometry
 
@@ -285,6 +287,7 @@
 | 1085B | [Div Times Mod](https://codeforces.com/contest/1085/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1085/B%20-%20Div%20Times%20Mod/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
+| 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 
