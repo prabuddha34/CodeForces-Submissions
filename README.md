@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 104 | 21 |
+| 105 | 21 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (24)
+- [brute force](#brute-force) (25)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (3)
@@ -26,7 +26,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (26)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (63)
+- [implementation](#implementation) (64)
 - [math](#math) (28)
 - [number theory](#number-theory) (9)
 - [shortest paths](#shortest-paths) (1)
@@ -87,6 +87,7 @@
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
+| 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 
 ### combinatorics
 
@@ -248,6 +249,7 @@
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 967A | [Mind the Gap](https://codeforces.com/contest/967/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/967/A%20-%20Mind%20the%20Gap/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
+| 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 
 ### math
 
