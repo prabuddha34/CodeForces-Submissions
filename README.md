@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 20 |
+| 88 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (21)
+- [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (3)
@@ -25,9 +25,9 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (23)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (57)
+- [implementation](#implementation) (58)
 - [math](#math) (22)
-- [number theory](#number-theory) (5)
+- [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (8)
 - [strings](#strings) (10)
@@ -81,6 +81,7 @@
 | 799A | [Carrot Cakes](https://codeforces.com/contest/799/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/799/A%20-%20Carrot%20Cakes/solution.cpp) |
 | 801A | [Vicious Keyboard](https://codeforces.com/contest/801/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/801/A%20-%20Vicious%20Keyboard/solution.cpp) |
 | 869A | [The Artful Expedient](https://codeforces.com/contest/869/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/869/A%20-%20The%20Artful%20Expedient/solution.cpp) |
+| 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 
 ### combinatorics
 
@@ -225,6 +226,7 @@
 | 869A | [The Artful Expedient](https://codeforces.com/contest/869/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/869/A%20-%20The%20Artful%20Expedient/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 884B | [Japanese Crosswords Strike Back](https://codeforces.com/contest/884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/884/B%20-%20Japanese%20Crosswords%20Strike%20Back/solution.cpp) |
+| 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 
 ### math
 
@@ -262,6 +264,7 @@
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
+| 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 
 ### shortest paths
 
