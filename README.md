@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 131 | 21 |
+| 132 | 21 |
 
 ---
 
@@ -24,9 +24,9 @@
 - [games](#games) (2)
 - [geometry](#geometry) (4)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (35)
+- [greedy](#greedy) (36)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (76)
+- [implementation](#implementation) (77)
 - [math](#math) (37)
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
@@ -171,6 +171,7 @@
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 | 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
+| 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 169B | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/169/B%20-%20Replacing%20Digits/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
@@ -220,6 +221,7 @@
 | 18C | [Stripe](https://codeforces.com/contest/18/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/18/C%20-%20Stripe/solution.cpp) |
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 31A | [Worms Evolution](https://codeforces.com/contest/31/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/31/A%20-%20Worms%20Evolution/solution.cpp) |
+| 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 121A | [Lucky Sum](https://codeforces.com/contest/121/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/121/A%20-%20Lucky%20Sum/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
