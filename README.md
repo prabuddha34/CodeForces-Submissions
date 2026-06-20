@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 125 | 21 |
+| 126 | 21 |
 
 ---
 
@@ -15,18 +15,18 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (27)
+- [brute force](#brute-force) (28)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (2)
-- [geometry](#geometry) (3)
+- [geometry](#geometry) (4)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (34)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (71)
+- [implementation](#implementation) (72)
 - [math](#math) (36)
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
@@ -65,6 +65,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
@@ -148,6 +149,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 842B | [Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/842/B%20-%20Gleb%20And%20Pizza/solution.cpp) |
 | 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
@@ -209,6 +211,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
+| 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 121A | [Lucky Sum](https://codeforces.com/contest/121/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/121/A%20-%20Lucky%20Sum/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
