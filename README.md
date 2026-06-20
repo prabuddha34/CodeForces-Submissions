@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 134 | 21 |
+| 135 | 21 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (31)
+- [brute force](#brute-force) (32)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (5)
@@ -26,7 +26,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (36)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (79)
+- [implementation](#implementation) (80)
 - [math](#math) (38)
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
@@ -69,6 +69,7 @@
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
 | 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
+| 48B | [Land Lot](https://codeforces.com/contest/48/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/48/B%20-%20Land%20Lot/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
@@ -225,6 +226,7 @@
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
 | 47B | [Coins](https://codeforces.com/contest/47/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/47/B%20-%20Coins/solution.cpp) |
+| 48B | [Land Lot](https://codeforces.com/contest/48/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/48/B%20-%20Land%20Lot/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 121A | [Lucky Sum](https://codeforces.com/contest/121/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/121/A%20-%20Lucky%20Sum/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
