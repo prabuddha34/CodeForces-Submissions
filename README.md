@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 137 | 21 |
+| 138 | 21 |
 
 ---
 
@@ -26,9 +26,9 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (36)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (81)
+- [implementation](#implementation) (82)
 - [math](#math) (39)
-- [number theory](#number-theory) (10)
+- [number theory](#number-theory) (11)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (12)
 - [strings](#strings) (14)
@@ -229,6 +229,7 @@
 | 47B | [Coins](https://codeforces.com/contest/47/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/47/B%20-%20Coins/solution.cpp) |
 | 48B | [Land Lot](https://codeforces.com/contest/48/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/48/B%20-%20Land%20Lot/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
+| 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 121A | [Lucky Sum](https://codeforces.com/contest/121/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/121/A%20-%20Lucky%20Sum/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
@@ -348,6 +349,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
