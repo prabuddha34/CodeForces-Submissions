@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 124 | 21 |
+| 125 | 21 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (11)
-- [strings](#strings) (13)
+- [strings](#strings) (14)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -363,6 +363,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
+| 8A | [Train and Peter](https://codeforces.com/contest/8/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/8/A%20-%20Train%20and%20Peter/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
