@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 138 | 21 |
+| 139 | 21 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (36)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (82)
+- [implementation](#implementation) (83)
 - [math](#math) (39)
 - [number theory](#number-theory) (11)
 - [shortest paths](#shortest-paths) (1)
@@ -230,6 +230,7 @@
 | 48B | [Land Lot](https://codeforces.com/contest/48/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/48/B%20-%20Land%20Lot/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
 | 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
+| 63B | [Settlers' Training](https://codeforces.com/contest/63/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/63/B%20-%20Settlers'%20Training/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 121A | [Lucky Sum](https://codeforces.com/contest/121/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/121/A%20-%20Lucky%20Sum/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
