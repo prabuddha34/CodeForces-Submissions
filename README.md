@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 117 | 21 |
+| 118 | 21 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (2)
 - [geometry](#geometry) (3)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (30)
+- [greedy](#greedy) (31)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (69)
 - [math](#math) (35)
@@ -32,7 +32,7 @@
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (10)
 - [strings](#strings) (11)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -187,6 +187,7 @@
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1506B | [Partial Replacement](https://codeforces.com/contest/1506/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/B%20-%20Partial%20Replacement/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
+| 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 
@@ -366,6 +367,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
 ---
