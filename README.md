@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 128 | 21 |
+| 129 | 21 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (29)
+- [brute force](#brute-force) (30)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (5)
@@ -24,7 +24,7 @@
 - [games](#games) (2)
 - [geometry](#geometry) (4)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (34)
+- [greedy](#greedy) (35)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (74)
 - [math](#math) (37)
@@ -67,6 +67,7 @@
 |---|---------|------------|----------|
 | 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
+| 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
@@ -169,6 +170,7 @@
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
+| 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
 | 169B | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/169/B%20-%20Replacing%20Digits/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
