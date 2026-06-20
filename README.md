@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 114 | 21 |
+| 115 | 21 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (27)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
@@ -27,8 +27,8 @@
 - [greedy](#greedy) (29)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (68)
-- [math](#math) (33)
-- [number theory](#number-theory) (9)
+- [math](#math) (34)
+- [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (10)
 - [strings](#strings) (11)
@@ -108,6 +108,7 @@
 | 609B | [The Best Gift](https://codeforces.com/contest/609/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/609/B%20-%20The%20Best%20Gift/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
+| 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 
 ### data structures
@@ -301,6 +302,7 @@
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1496B | [Max and Mex](https://codeforces.com/contest/1496/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1496/B%20-%20Max%20and%20Mex/solution.cpp) |
+| 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 
@@ -317,6 +319,7 @@
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 946B | [Weird Subtraction Process](https://codeforces.com/contest/946/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/946/B%20-%20Weird%20Subtraction%20Process/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
+| 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 
 ### shortest paths
 
