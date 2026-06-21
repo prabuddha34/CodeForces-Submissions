@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 168 | 22 |
+| 169 | 22 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (38)
+- [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (5)
@@ -25,9 +25,9 @@
 - [games](#games) (2)
 - [geometry](#geometry) (5)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (46)
+- [greedy](#greedy) (47)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (99)
+- [implementation](#implementation) (100)
 - [math](#math) (49)
 - [number theory](#number-theory) (13)
 - [shortest paths](#shortest-paths) (1)
@@ -91,6 +91,7 @@
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
+| 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 488A | [Giga Tower](https://codeforces.com/contest/488/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/488/A%20-%20Giga%20Tower/solution.cpp) |
@@ -211,6 +212,7 @@
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
+| 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
 | 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
@@ -293,6 +295,7 @@
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
+| 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
 | 362B | [Petya and Staircases](https://codeforces.com/contest/362/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/362/B%20-%20Petya%20and%20Staircases/solution.cpp) |
 | 365A | [Good Number](https://codeforces.com/contest/365/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/365/A%20-%20Good%20Number/solution.cpp) |
