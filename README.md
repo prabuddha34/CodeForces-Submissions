@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 157 | 22 |
+| 158 | 22 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (42)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (92)
-- [math](#math) (43)
+- [math](#math) (44)
 - [number theory](#number-theory) (13)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (14)
@@ -345,6 +345,7 @@
 | 131B | [Opposites Attract](https://codeforces.com/contest/131/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/131/B%20-%20Opposites%20Attract/solution.cpp) |
 | 174A | [Problem About Equation](https://codeforces.com/contest/174/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/174/A%20-%20Problem%20About%20Equation/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
+| 194B | [Square](https://codeforces.com/contest/194/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/194/B%20-%20Square/solution.cpp) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
