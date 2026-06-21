@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 161 | 22 |
+| 162 | 22 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (43)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (95)
+- [implementation](#implementation) (96)
 - [math](#math) (46)
 - [number theory](#number-theory) (13)
 - [shortest paths](#shortest-paths) (1)
@@ -278,6 +278,7 @@
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 285A | [Slightly Decreasing Permutations](https://codeforces.com/contest/285/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/A%20-%20Slightly%20Decreasing%20Permutations/solution.cpp) |
+| 285B | [Find Marble](https://codeforces.com/contest/285/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/B%20-%20Find%20Marble/solution.cpp) |
 | 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
