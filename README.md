@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 154 | 22 |
+| 155 | 22 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (92)
 - [math](#math) (43)
-- [number theory](#number-theory) (12)
+- [number theory](#number-theory) (13)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (13)
 - [strings](#strings) (15)
@@ -383,6 +383,7 @@
 |---|---------|------------|----------|
 | 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
+| 177B2 | [Rectangular Game](https://codeforces.com/contest/177/problem/B2) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/177/B2%20-%20Rectangular%20Game/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
