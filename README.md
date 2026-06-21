@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 149 | 22 |
+| 150 | 22 |
 
 ---
 
@@ -25,9 +25,9 @@
 - [games](#games) (2)
 - [geometry](#geometry) (5)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (39)
+- [greedy](#greedy) (40)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (89)
+- [implementation](#implementation) (90)
 - [math](#math) (43)
 - [number theory](#number-theory) (11)
 - [shortest paths](#shortest-paths) (1)
@@ -188,6 +188,7 @@
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 79A | [Bus Game](https://codeforces.com/contest/79/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/79/A%20-%20Bus%20Game/solution.cpp) |
 | 101A | [Homework](https://codeforces.com/contest/101/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/101/A%20-%20Homework/solution.cpp) |
+| 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
 | 169B | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/169/B%20-%20Replacing%20Digits/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
@@ -252,6 +253,7 @@
 | 131B | [Opposites Attract](https://codeforces.com/contest/131/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/131/B%20-%20Opposites%20Attract/solution.cpp) |
 | 133B | [Unary](https://codeforces.com/contest/133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/133/B%20-%20Unary/solution.cpp) |
 | 134A | [Average Numbers](https://codeforces.com/contest/134/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/134/A%20-%20Average%20Numbers/solution.cpp) |
+| 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
