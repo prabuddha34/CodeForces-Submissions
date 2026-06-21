@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/216/problem/A" target="_blank" rel="noopener noreferrer">216A — Tiling with Hexagons</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 216A](https://codeforces.com/contest/216/problem/A) |
+
+## Topics
+`implementation` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Tiling with Hexagons</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Several ages ago Berland was a kingdom. The King of Berland adored math. That's why, when he first visited one of his many palaces, he first of all paid attention to the floor in one hall. The floor was tiled with hexagonal tiles.</p><p>The hall also turned out hexagonal in its shape. The King walked along the perimeter of the hall and concluded that each of the six sides has <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span>, <span class="tex-span"><i>c</i></span>, <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> and <span class="tex-span"><i>c</i></span> adjacent tiles, correspondingly.</p><p>To better visualize the situation, look at the picture showing a similar hexagon for <span class="tex-span"><i>a</i> = 2</span>, <span class="tex-span"><i>b</i> = 3</span> and <span class="tex-span"><i>c</i> = 4</span>.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/ef313c846e1ffa799bd7c7645372f0ee0e56a554.png" style="max-width: 100.0%;max-height: 100.0%;"> </center><p>According to the legend, as the King of Berland obtained the values <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> and <span class="tex-span"><i>c</i></span>, he almost immediately calculated the total number of tiles on the hall floor. Can you do the same?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains three integers: <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> and <span class="tex-span"><i>c</i></span> (<span class="tex-span">2 ≤ <i>a</i>, <i>b</i>, <i>c</i> ≤ 1000</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single number — the total number of tiles on the hall floor.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008382522564535562" id="id008811225756417311" class="input-output-copier">Copy</div></div><pre id="id008382522564535562">2 3 4<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007901113924222997" id="id00062156784671852705" class="input-output-copier">Copy</div></div><pre id="id007901113924222997">18</pre></div></div></div>
