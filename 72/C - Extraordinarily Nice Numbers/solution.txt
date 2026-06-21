@@ -1,0 +1,6 @@
+x := File standardInput readLine asNumber
+ 
+if(x % 2 == 0 and x % 4 != 0,
+    writeln("yes"),
+    writeln("no")
+)
