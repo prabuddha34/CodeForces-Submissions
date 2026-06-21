@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 145 | 22 |
+| 146 | 22 |
 
 ---
 
@@ -27,8 +27,8 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (39)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (85)
-- [math](#math) (41)
+- [implementation](#implementation) (86)
+- [math](#math) (42)
 - [number theory](#number-theory) (11)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (12)
@@ -245,6 +245,7 @@
 | 63B | [Settlers' Training](https://codeforces.com/contest/63/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/63/B%20-%20Settlers'%20Training/solution.cpp) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 88A | [Chord](https://codeforces.com/contest/88/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/88/A%20-%20Chord/solution.cpp) |
+| 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 121A | [Lucky Sum](https://codeforces.com/contest/121/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/121/A%20-%20Lucky%20Sum/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
@@ -325,6 +326,7 @@
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
 | 72C | [Extraordinarily Nice Numbers](https://codeforces.com/contest/72/problem/C) | 1200 | [Io](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/72/C%20-%20Extraordinarily%20Nice%20Numbers/solution.txt) |
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
+| 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 174A | [Problem About Equation](https://codeforces.com/contest/174/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/174/A%20-%20Problem%20About%20Equation/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
