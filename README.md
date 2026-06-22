@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 186 | 23 |
+| 187 | 23 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (45)
+- [brute force](#brute-force) (46)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (5)
@@ -25,7 +25,7 @@
 - [games](#games) (2)
 - [geometry](#geometry) (5)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (52)
+- [greedy](#greedy) (53)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (113)
 - [math](#math) (54)
@@ -33,7 +33,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (19)
-- [strings](#strings) (16)
+- [strings](#strings) (17)
 - [two pointers](#two-pointers) (4)
 
 ---
@@ -106,6 +106,7 @@
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
+| 554B | [Ohana Cleans Up](https://codeforces.com/contest/554/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/554/B%20-%20Ohana%20Cleans%20Up/solution.cpp) |
 | 602A | [Two Bases](https://codeforces.com/contest/602/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/602/A%20-%20Two%20Bases/solution.cpp) |
 | 629B | [Far Relative’s Problem](https://codeforces.com/contest/629/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/629/B%20-%20Far%20Relative%E2%80%99s%20Problem/solution.cpp) |
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
@@ -233,6 +234,7 @@
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 545B | [Equidistant String](https://codeforces.com/contest/545/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/B%20-%20Equidistant%20String/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
+| 554B | [Ohana Cleans Up](https://codeforces.com/contest/554/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/554/B%20-%20Ohana%20Cleans%20Up/solution.cpp) |
 | 557A | [Ilya and Diplomas](https://codeforces.com/contest/557/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/557/A%20-%20Ilya%20and%20Diplomas/solution.cpp) |
 | 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 624B | [Making a String](https://codeforces.com/contest/624/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/624/B%20-%20Making%20a%20String/solution.cpp) |
@@ -508,6 +510,7 @@
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
+| 554B | [Ohana Cleans Up](https://codeforces.com/contest/554/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/554/B%20-%20Ohana%20Cleans%20Up/solution.cpp) |
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
