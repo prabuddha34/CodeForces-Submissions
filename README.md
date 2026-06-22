@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 196 | 23 |
+| 197 | 23 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (56)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (121)
-- [math](#math) (55)
+- [math](#math) (56)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -429,6 +429,7 @@
 | 581B | [Luxurious Houses](https://codeforces.com/contest/581/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/581/B%20-%20Luxurious%20Houses/solution.cpp) |
 | 592B | [The Monster and the Squirrel](https://codeforces.com/contest/592/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/592/B%20-%20The%20Monster%20and%20the%20Squirrel/solution.cpp) |
 | 612B | [HDD is Outdated Technology](https://codeforces.com/contest/612/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/B%20-%20HDD%20is%20Outdated%20Technology/solution.cpp) |
+| 630B | [Moore's Law](https://codeforces.com/contest/630/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/B%20-%20Moore's%20Law/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
 | 789A | [Anastasia and pebbles](https://codeforces.com/contest/789/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/789/A%20-%20Anastasia%20and%20pebbles/solution.cpp) |
