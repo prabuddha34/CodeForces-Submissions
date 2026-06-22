@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 193 | 23 |
+| 194 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (55)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (119)
+- [implementation](#implementation) (120)
 - [math](#math) (54)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
@@ -360,6 +360,7 @@
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 602A | [Two Bases](https://codeforces.com/contest/602/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/602/A%20-%20Two%20Bases/solution.cpp) |
+| 606A | [Magic Spheres](https://codeforces.com/contest/606/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/606/A%20-%20Magic%20Spheres/solution.cpp) |
 | 609B | [The Best Gift](https://codeforces.com/contest/609/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/609/B%20-%20The%20Best%20Gift/solution.cpp) |
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
