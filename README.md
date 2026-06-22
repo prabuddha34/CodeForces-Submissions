@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 181 | 23 |
+| 182 | 23 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [greedy](#greedy) (50)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (110)
-- [math](#math) (52)
-- [number theory](#number-theory) (14)
+- [math](#math) (53)
+- [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (17)
@@ -399,6 +399,7 @@
 | 370A | [Rook, Bishop and King](https://codeforces.com/contest/370/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/370/A%20-%20Rook%2C%20Bishop%20and%20King/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
+| 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 557A | [Ilya and Diplomas](https://codeforces.com/contest/557/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/557/A%20-%20Ilya%20and%20Diplomas/solution.cpp) |
@@ -436,6 +437,7 @@
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
 | 177B2 | [Rectangular Game](https://codeforces.com/contest/177/problem/B2) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/177/B2%20-%20Rectangular%20Game/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
+| 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
