@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 180 | 23 |
+| 181 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (50)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (109)
+- [implementation](#implementation) (110)
 - [math](#math) (52)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
@@ -326,6 +326,7 @@
 | 431B | [Shower Line](https://codeforces.com/contest/431/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/431/B%20-%20Shower%20Line/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
 | 439B | [Devu, the Dumb Guy](https://codeforces.com/contest/439/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/439/B%20-%20Devu%2C%20the%20Dumb%20Guy/solution.cpp) |
+| 454B | [Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/454/B%20-%20Little%20Pony%20and%20Sort%20by%20Shift/solution.cpp) |
 | 471A | [MUH and Sticks](https://codeforces.com/contest/471/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/471/A%20-%20MUH%20and%20Sticks/solution.cpp) |
 | 475A | [Bayan Bus](https://codeforces.com/contest/475/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/475/A%20-%20Bayan%20Bus/solution.cpp) |
 | 478A | [Initial Bet](https://codeforces.com/contest/478/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/A%20-%20Initial%20Bet/solution.cpp) |
