@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 191 | 23 |
+| 192 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (55)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (117)
+- [implementation](#implementation) (118)
 - [math](#math) (54)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
@@ -354,6 +354,7 @@
 | 581B | [Luxurious Houses](https://codeforces.com/contest/581/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/581/B%20-%20Luxurious%20Houses/solution.cpp) |
 | 583B | [Robot's Task](https://codeforces.com/contest/583/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/583/B%20-%20Robot's%20Task/solution.cpp) |
 | 591B | [Rebranding](https://codeforces.com/contest/591/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/591/B%20-%20Rebranding/solution.cpp) |
+| 592A | [PawnChess](https://codeforces.com/contest/592/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/592/A%20-%20PawnChess/solution.cpp) |
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 602A | [Two Bases](https://codeforces.com/contest/602/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/602/A%20-%20Two%20Bases/solution.cpp) |
