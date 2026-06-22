@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 187 | 23 |
+| 188 | 23 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (46)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (14)
+- [constructive algorithms](#constructive-algorithms) (15)
 - [data structures](#data-structures) (5)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (53)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (113)
+- [implementation](#implementation) (114)
 - [math](#math) (54)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
@@ -141,6 +141,7 @@
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 379B | [New Year Present](https://codeforces.com/contest/379/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/B%20-%20New%20Year%20Present/solution.cpp) |
+| 560B | [Gerald is into Art](https://codeforces.com/contest/560/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/560/B%20-%20Gerald%20is%20into%20Art/solution.cpp) |
 | 609B | [The Best Gift](https://codeforces.com/contest/609/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/609/B%20-%20The%20Best%20Gift/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
@@ -345,6 +346,7 @@
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
 | 552B | [Vanya and Books](https://codeforces.com/contest/552/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/552/B%20-%20Vanya%20and%20Books/solution.cpp) |
 | 557A | [Ilya and Diplomas](https://codeforces.com/contest/557/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/557/A%20-%20Ilya%20and%20Diplomas/solution.cpp) |
+| 560B | [Gerald is into Art](https://codeforces.com/contest/560/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/560/B%20-%20Gerald%20is%20into%20Art/solution.cpp) |
 | 570A | [Elections](https://codeforces.com/contest/570/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/570/A%20-%20Elections/solution.cpp) |
 | 581B | [Luxurious Houses](https://codeforces.com/contest/581/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/581/B%20-%20Luxurious%20Houses/solution.cpp) |
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
