@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 173 | 22 |
+| 174 | 22 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (40)
+- [brute force](#brute-force) (41)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (5)
@@ -25,14 +25,14 @@
 - [games](#games) (2)
 - [geometry](#geometry) (5)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (47)
+- [greedy](#greedy) (48)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (103)
-- [math](#math) (51)
+- [implementation](#implementation) (104)
+- [math](#math) (52)
 - [number theory](#number-theory) (14)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (15)
-- [strings](#strings) (15)
+- [strings](#strings) (16)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -93,6 +93,7 @@
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
 | 366B | [Dima and To-do List](https://codeforces.com/contest/366/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/B%20-%20Dima%20and%20To-do%20List/solution.cpp) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 488A | [Giga Tower](https://codeforces.com/contest/488/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/488/A%20-%20Giga%20Tower/solution.cpp) |
@@ -217,6 +218,7 @@
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
@@ -308,6 +310,7 @@
 | 366B | [Dima and To-do List](https://codeforces.com/contest/366/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/B%20-%20Dima%20and%20To-do%20List/solution.cpp) |
 | 379B | [New Year Present](https://codeforces.com/contest/379/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/B%20-%20New%20Year%20Present/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
@@ -381,6 +384,7 @@
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/353/A%20-%20Domino/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 370A | [Rook, Bishop and King](https://codeforces.com/contest/370/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/370/A%20-%20Rook%2C%20Bishop%20and%20King/solution.cpp) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
@@ -466,6 +470,7 @@
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
