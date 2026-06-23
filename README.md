@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 229 | 24 |
+| 230 | 24 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (68)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (141)
+- [implementation](#implementation) (142)
 - [math](#math) (64)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
@@ -439,6 +439,7 @@
 | 913B | [Christmas Spruce](https://codeforces.com/contest/913/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/913/B%20-%20Christmas%20Spruce/solution.cpp) |
 | 914B | [Conan and Agasa play a Card Game](https://codeforces.com/contest/914/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/914/B%20-%20Conan%20and%20Agasa%20play%20a%20Card%20Game/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+| 920B | [Tea Queue](https://codeforces.com/contest/920/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/920/B%20-%20Tea%20Queue/solution.cpp) |
 | 967A | [Mind the Gap](https://codeforces.com/contest/967/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/967/A%20-%20Mind%20the%20Gap/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
