@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 211 | 23 |
+| 212 | 23 |
 
 ---
 
@@ -27,8 +27,8 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (60)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (128)
-- [math](#math) (60)
+- [implementation](#implementation) (129)
+- [math](#math) (61)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -384,6 +384,7 @@
 | 714B | [Filya and Homework](https://codeforces.com/contest/714/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/714/B%20-%20Filya%20and%20Homework/solution.cpp) |
 | 717C | [Potions Homework](https://codeforces.com/contest/717/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/717/C%20-%20Potions%20Homework/solution.cpp) |
 | 722B | [Verse Pattern](https://codeforces.com/contest/722/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/B%20-%20Verse%20Pattern/solution.cpp) |
+| 725B | [Food on the Plane](https://codeforces.com/contest/725/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/725/B%20-%20Food%20on%20the%20Plane/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 789A | [Anastasia and pebbles](https://codeforces.com/contest/789/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/789/A%20-%20Anastasia%20and%20pebbles/solution.cpp) |
@@ -454,6 +455,7 @@
 | 645B | [Mischievous Mess Makers](https://codeforces.com/contest/645/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/B%20-%20Mischievous%20Mess%20Makers/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
 | 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
+| 725B | [Food on the Plane](https://codeforces.com/contest/725/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/725/B%20-%20Food%20on%20the%20Plane/solution.cpp) |
 | 789A | [Anastasia and pebbles](https://codeforces.com/contest/789/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/789/A%20-%20Anastasia%20and%20pebbles/solution.cpp) |
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
