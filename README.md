@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 230 | 24 |
+| 231 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (5)
+- [*special](#special) (6)
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (1)
@@ -33,7 +33,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (23)
-- [strings](#strings) (20)
+- [strings](#strings) (21)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (5)
 
@@ -48,6 +48,7 @@
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
 | 774C | [Maximum Number](https://codeforces.com/contest/774/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/774/C%20-%20Maximum%20Number/solution.cpp) |
+| 928A | [Login Verification](https://codeforces.com/contest/928/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/928/A%20-%20Login%20Verification/solution.cpp) |
 
 ### Uncategorized
 
@@ -602,6 +603,7 @@
 | 722B | [Verse Pattern](https://codeforces.com/contest/722/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/B%20-%20Verse%20Pattern/solution.cpp) |
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
+| 928A | [Login Verification](https://codeforces.com/contest/928/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/928/A%20-%20Login%20Verification/solution.cpp) |
 | 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
