@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 224 | 23 |
+| 225 | 23 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [games](#games) (3)
 - [geometry](#geometry) (7)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (66)
+- [greedy](#greedy) (67)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (137)
 - [math](#math) (64)
@@ -279,6 +279,7 @@
 | 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 902A | [Visiting a Friend](https://codeforces.com/contest/902/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/902/A%20-%20Visiting%20a%20Friend/solution.cpp) |
 | 903B | [The Modcrab](https://codeforces.com/contest/903/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/903/B%20-%20The%20Modcrab/solution.cpp) |
+| 903C | [Boxes Packing](https://codeforces.com/contest/903/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/903/C%20-%20Boxes%20Packing/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
 | 1060B | [Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1060/B%20-%20Maximum%20Sum%20of%20Digits/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
