@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 207 | 23 |
+| 208 | 23 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (48)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (17)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (3)
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (60)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (125)
-- [math](#math) (59)
+- [math](#math) (60)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -163,6 +163,7 @@
 | 18C | [Stripe](https://codeforces.com/contest/18/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/18/C%20-%20Stripe/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
+| 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
@@ -449,6 +450,7 @@
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
 | 645B | [Mischievous Mess Makers](https://codeforces.com/contest/645/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/B%20-%20Mischievous%20Mess%20Makers/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
+| 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
 | 789A | [Anastasia and pebbles](https://codeforces.com/contest/789/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/789/A%20-%20Anastasia%20and%20pebbles/solution.cpp) |
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
