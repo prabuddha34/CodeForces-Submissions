@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/749/problem/B" target="_blank" rel="noopener noreferrer">749B — Parallelogram is Back</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 749B](https://codeforces.com/contest/749/problem/B) |
+
+## Topics
+`brute force` `constructive algorithms` `geometry`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Parallelogram is Back</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Long time ago Alex created an interesting problem about parallelogram. The input data for this problem contained four integer points on the Cartesian plane, that defined the set of vertices of some non-degenerate (positive area) parallelogram. Points not necessary were given in the order of clockwise or counterclockwise traversal.</p><p>Alex had very nice test for this problem, but is somehow happened that the last line of the input was lost and now he has only three out of four points of the original parallelogram. He remembers that test was so good that he asks you to restore it given only these three points.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The input consists of three lines, each containing a pair of integer coordinates <span class="tex-span"><i>x</i><sub class="lower-index"><i>i</i></sub></span> and <span class="tex-span"><i>y</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span"> - 1000 ≤ <i>x</i><sub class="lower-index"><i>i</i></sub>, <i>y</i><sub class="lower-index"><i>i</i></sub> ≤ 1000</span>). It's guaranteed that these three points do not lie on the same line and no two of them coincide.</p></div><div class="output-specification"><div class="section-title">Output</div><p>First print integer <span class="tex-span"><i>k</i></span> — the number of ways to add one new integer point such that the obtained set defines some parallelogram of positive area. There is no requirement for the points to be arranged in any special order (like traversal), they just define the set of vertices.</p><p>Then print <span class="tex-span"><i>k</i></span> lines, each containing a pair of integer — possible coordinates of the fourth point.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00564922057879029" id="id007451245697244815" class="input-output-copier">Copy</div></div><pre id="id00564922057879029">0 0<br>1 0<br>0 1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00811939165363412" id="id006159685345894784" class="input-output-copier">Copy</div></div><pre id="id00811939165363412">3<br>1 -1<br>-1 1<br>1 1<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>If you need clarification of what parallelogram is, please check Wikipedia page:</p><p>https://en.wikipedia.org/wiki/Parallelogram</p></div>
