@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/774/problem/C" target="_blank" rel="noopener noreferrer">774C — Maximum Number</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 774C](https://codeforces.com/contest/774/problem/C) |
+
+## Topics
+`*special` `constructive algorithms` `greedy` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Maximum Number</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Stepan has the newest electronic device with a display. Different digits can be shown on it. Each digit is shown on a seven-section indicator like it is shown on the picture below.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/1b26f8faef5a8a5117060246d28eb2aea6e5ebe8.png" style="max-width: 100.0%;max-height: 100.0%;"> </center><p>So, for example, to show the digit <span class="tex-span">3</span> on the display, <span class="tex-span">5</span> sections must be highlighted; and for the digit <span class="tex-span">6</span>, <span class="tex-span">6</span> sections must be highlighted. </p><p>The battery of the newest device allows to highlight at most <span class="tex-span"><i>n</i></span> sections on the display. </p><p>Stepan wants to know the maximum possible integer number which can be shown on the display of his newest device. Your task is to determine this number. Note that this number must not contain leading zeros. Assume that the size of the display is enough to show any integer.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains the integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 100 000</span>) — the maximum number of sections which can be highlighted on the display.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the maximum integer which can be shown on the display of Stepan's newest device.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0040103629641795135" id="id006230719366521854" class="input-output-copier">Copy</div></div><pre id="id0040103629641795135">2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0040219438722260215" id="id008849579854141719" class="input-output-copier">Copy</div></div><pre id="id0040219438722260215">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005000656863890721" id="id004615513271123979" class="input-output-copier">Copy</div></div><pre id="id005000656863890721">3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id001909544140826166" id="id00512988295702203" class="input-output-copier">Copy</div></div><pre id="id001909544140826166">7<br></pre></div></div></div>
