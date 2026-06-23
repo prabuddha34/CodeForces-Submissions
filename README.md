@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 205 | 23 |
+| 206 | 23 |
 
 ---
 
@@ -32,7 +32,7 @@
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (20)
+- [sortings](#sortings) (21)
 - [strings](#strings) (19)
 - [two pointers](#two-pointers) (4)
 
@@ -520,6 +520,7 @@
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
 | 624B | [Making a String](https://codeforces.com/contest/624/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/624/B%20-%20Making%20a%20String/solution.cpp) |
 | 651B | [Beautiful Paintings](https://codeforces.com/contest/651/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/651/B%20-%20Beautiful%20Paintings/solution.cpp) |
+| 682B | [Alyona and Mex](https://codeforces.com/contest/682/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/682/B%20-%20Alyona%20and%20Mex/solution.cpp) |
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
 | 792A | [New Bus Route](https://codeforces.com/contest/792/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/792/A%20-%20New%20Bus%20Route/solution.cpp) |
 | 845A | [Chess Tourney](https://codeforces.com/contest/845/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/845/A%20-%20Chess%20Tourney/solution.cpp) |
