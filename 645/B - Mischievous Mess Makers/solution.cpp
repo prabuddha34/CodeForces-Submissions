@@ -7,5 +7,5 @@ int main(){
 	cin >> n >> k;
 	LL c = max(n-2*k,0LL);
 	LL a = n*(n-1)/2-c*(c-1)/2;
-	cout << a << endl;
+	cout << a << " ";
 }
