@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 225 | 23 |
+| 226 | 23 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (50)
+- [brute force](#brute-force) (51)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (23)
 - [data structures](#data-structures) (7)
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (67)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (137)
+- [implementation](#implementation) (138)
 - [math](#math) (64)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
@@ -125,6 +125,7 @@
 | 869A | [The Artful Expedient](https://codeforces.com/contest/869/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/869/A%20-%20The%20Artful%20Expedient/solution.cpp) |
 | 875A | [Classroom Watch](https://codeforces.com/contest/875/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/875/A%20-%20Classroom%20Watch/solution.cpp) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
+| 908B | [New Year and Buggy Bot](https://codeforces.com/contest/908/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/908/B%20-%20New%20Year%20and%20Buggy%20Bot/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
@@ -427,6 +428,7 @@
 | 899B | [Months and Years](https://codeforces.com/contest/899/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/899/B%20-%20Months%20and%20Years/solution.cpp) |
 | 902A | [Visiting a Friend](https://codeforces.com/contest/902/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/902/A%20-%20Visiting%20a%20Friend/solution.cpp) |
 | 903B | [The Modcrab](https://codeforces.com/contest/903/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/903/B%20-%20The%20Modcrab/solution.cpp) |
+| 908B | [New Year and Buggy Bot](https://codeforces.com/contest/908/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/908/B%20-%20New%20Year%20and%20Buggy%20Bot/solution.cpp) |
 | 911A | [Nearest Minimums](https://codeforces.com/contest/911/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/A%20-%20Nearest%20Minimums/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 967A | [Mind the Gap](https://codeforces.com/contest/967/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/967/A%20-%20Mind%20the%20Gap/solution.cpp) |
