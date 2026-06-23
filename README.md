@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 215 | 23 |
+| 216 | 23 |
 
 ---
 
@@ -16,14 +16,14 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (48)
+- [brute force](#brute-force) (49)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (20)
+- [constructive algorithms](#constructive-algorithms) (21)
 - [data structures](#data-structures) (6)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (3)
-- [geometry](#geometry) (6)
+- [geometry](#geometry) (7)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (62)
 - [hashing](#hashing) (1)
@@ -116,6 +116,7 @@
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
 | 645A | [Amity Assessment](https://codeforces.com/contest/645/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/A%20-%20Amity%20Assessment/solution.cpp) |
+| 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
 | 779B | [Weird Rounding](https://codeforces.com/contest/779/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/B%20-%20Weird%20Rounding/solution.cpp) |
 | 799A | [Carrot Cakes](https://codeforces.com/contest/799/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/799/A%20-%20Carrot%20Cakes/solution.cpp) |
@@ -153,6 +154,7 @@
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 740B | [Alyona and flowers](https://codeforces.com/contest/740/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/740/B%20-%20Alyona%20and%20flowers/solution.cpp) |
 | 743A | [Vladik and flights](https://codeforces.com/contest/743/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/743/A%20-%20Vladik%20and%20flights/solution.cpp) |
+| 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
@@ -200,6 +202,7 @@
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
+| 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 842B | [Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/842/B%20-%20Gleb%20And%20Pizza/solution.cpp) |
 | 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
 
