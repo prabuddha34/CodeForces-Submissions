@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 214 | 23 |
+| 215 | 23 |
 
 ---
 
@@ -18,16 +18,16 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (48)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (19)
+- [constructive algorithms](#constructive-algorithms) (20)
 - [data structures](#data-structures) (6)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (6)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (61)
+- [greedy](#greedy) (62)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (130)
+- [implementation](#implementation) (131)
 - [math](#math) (62)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
@@ -152,6 +152,7 @@
 | 645A | [Amity Assessment](https://codeforces.com/contest/645/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/A%20-%20Amity%20Assessment/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 740B | [Alyona and flowers](https://codeforces.com/contest/740/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/740/B%20-%20Alyona%20and%20flowers/solution.cpp) |
+| 743A | [Vladik and flights](https://codeforces.com/contest/743/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/743/A%20-%20Vladik%20and%20flights/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
@@ -259,6 +260,7 @@
 | 659C | [Tanya and Toys](https://codeforces.com/contest/659/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/C%20-%20Tanya%20and%20Toys/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
+| 743A | [Vladik and flights](https://codeforces.com/contest/743/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/743/A%20-%20Vladik%20and%20flights/solution.cpp) |
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 779B | [Weird Rounding](https://codeforces.com/contest/779/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/B%20-%20Weird%20Rounding/solution.cpp) |
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
@@ -390,6 +392,7 @@
 | 722B | [Verse Pattern](https://codeforces.com/contest/722/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/B%20-%20Verse%20Pattern/solution.cpp) |
 | 725B | [Food on the Plane](https://codeforces.com/contest/725/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/725/B%20-%20Food%20on%20the%20Plane/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
+| 743A | [Vladik and flights](https://codeforces.com/contest/743/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/743/A%20-%20Vladik%20and%20flights/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 789A | [Anastasia and pebbles](https://codeforces.com/contest/789/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/789/A%20-%20Anastasia%20and%20pebbles/solution.cpp) |
