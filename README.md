@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 231 | 24 |
+| 232 | 24 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (52)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (23)
+- [constructive algorithms](#constructive-algorithms) (24)
 - [data structures](#data-structures) (7)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (68)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (142)
+- [implementation](#implementation) (143)
 - [math](#math) (64)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
@@ -164,6 +164,7 @@
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 754A | [Lesha and array splitting](https://codeforces.com/contest/754/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/754/A%20-%20Lesha%20and%20array%20splitting/solution.cpp) |
 | 774C | [Maximum Number](https://codeforces.com/contest/774/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/774/C%20-%20Maximum%20Number/solution.cpp) |
+| 931B | [World Cup](https://codeforces.com/contest/931/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/931/B%20-%20World%20Cup/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
@@ -441,6 +442,7 @@
 | 914B | [Conan and Agasa play a Card Game](https://codeforces.com/contest/914/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/914/B%20-%20Conan%20and%20Agasa%20play%20a%20Card%20Game/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 920B | [Tea Queue](https://codeforces.com/contest/920/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/920/B%20-%20Tea%20Queue/solution.cpp) |
+| 931B | [World Cup](https://codeforces.com/contest/931/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/931/B%20-%20World%20Cup/solution.cpp) |
 | 967A | [Mind the Gap](https://codeforces.com/contest/967/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/967/A%20-%20Mind%20the%20Gap/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
