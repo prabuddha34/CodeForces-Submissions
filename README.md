@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 221 | 23 |
+| 222 | 23 |
 
 ---
 
@@ -25,16 +25,16 @@
 - [games](#games) (3)
 - [geometry](#geometry) (7)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (64)
+- [greedy](#greedy) (65)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (134)
+- [implementation](#implementation) (135)
 - [math](#math) (64)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (23)
 - [strings](#strings) (20)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -276,6 +276,7 @@
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
 | 835B | [The number on the board](https://codeforces.com/contest/835/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/835/B%20-%20The%20number%20on%20the%20board/solution.cpp) |
 | 883M | [Quadcopter Competition](https://codeforces.com/contest/883/problem/M) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/883/M%20-%20Quadcopter%20Competition/solution.cpp) |
+| 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 902A | [Visiting a Friend](https://codeforces.com/contest/902/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/902/A%20-%20Visiting%20a%20Friend/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
 | 1060B | [Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1060/B%20-%20Maximum%20Sum%20of%20Digits/solution.cpp) |
@@ -419,6 +420,7 @@
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 879B | [Table Tennis](https://codeforces.com/contest/879/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/879/B%20-%20Table%20Tennis/solution.cpp) |
 | 884B | [Japanese Crosswords Strike Back](https://codeforces.com/contest/884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/884/B%20-%20Japanese%20Crosswords%20Strike%20Back/solution.cpp) |
+| 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 | 902A | [Visiting a Friend](https://codeforces.com/contest/902/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/902/A%20-%20Visiting%20a%20Friend/solution.cpp) |
 | 911A | [Nearest Minimums](https://codeforces.com/contest/911/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/A%20-%20Nearest%20Minimums/solution.cpp) |
@@ -594,6 +596,7 @@
 |---|---------|------------|----------|
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
+| 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
