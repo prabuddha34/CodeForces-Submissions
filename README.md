@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 276 | 24 |
+| 277 | 24 |
 
 ---
 
@@ -32,7 +32,7 @@
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (31)
+- [sortings](#sortings) (32)
 - [strings](#strings) (26)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (7)
@@ -661,6 +661,7 @@
 | 1075B | [Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1075/B%20-%20Taxi%20drivers%20and%20Lyft/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
+| 1174B | [Ehab Is an Odd Person](https://codeforces.com/contest/1174/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1174/B%20-%20Ehab%20Is%20an%20Odd%20Person/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### strings
