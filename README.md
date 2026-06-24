@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 248 | 24 |
+| 249 | 24 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (6)
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (9)
+- [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (54)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (29)
-- [data structures](#data-structures) (7)
+- [data structures](#data-structures) (8)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (4)
@@ -35,7 +35,7 @@
 - [sortings](#sortings) (28)
 - [strings](#strings) (22)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (5)
+- [two pointers](#two-pointers) (6)
 
 ---
 
@@ -68,6 +68,7 @@
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+| 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
@@ -189,6 +190,7 @@
 | 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
 | 879B | [Table Tennis](https://codeforces.com/contest/879/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/879/B%20-%20Table%20Tennis/solution.cpp) |
+| 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### dp
@@ -652,6 +654,7 @@
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
 | 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
+| 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
