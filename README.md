@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 257 | 24 |
+| 258 | 24 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [greedy](#greedy) (75)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (156)
-- [math](#math) (69)
-- [number theory](#number-theory) (18)
+- [math](#math) (70)
+- [number theory](#number-theory) (19)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (28)
@@ -545,6 +545,7 @@
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1064B | [Equations of Mathematical Magic](https://codeforces.com/contest/1064/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1064/B%20-%20Equations%20of%20Mathematical%20Magic/solution.cpp) |
 | 1066A | [Vova and Train](https://codeforces.com/contest/1066/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1066/A%20-%20Vova%20and%20Train/solution.cpp) |
+| 1068B | [LCM](https://codeforces.com/contest/1068/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1068/B%20-%20LCM/solution.cpp) |
 | 1085B | [Div Times Mod](https://codeforces.com/contest/1085/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1085/B%20-%20Div%20Times%20Mod/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
@@ -579,6 +580,7 @@
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 946B | [Weird Subtraction Process](https://codeforces.com/contest/946/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/946/B%20-%20Weird%20Subtraction%20Process/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
+| 1068B | [LCM](https://codeforces.com/contest/1068/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1068/B%20-%20LCM/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 
 ### schedules
