@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 272 | 24 |
+| 273 | 24 |
 
 ---
 
@@ -27,13 +27,13 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (79)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (163)
+- [implementation](#implementation) (164)
 - [math](#math) (75)
 - [number theory](#number-theory) (21)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
-- [strings](#strings) (25)
+- [strings](#strings) (26)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (7)
 
@@ -497,6 +497,7 @@
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
 | 1121B | [Mike and Children](https://codeforces.com/contest/1121/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1121/B%20-%20Mike%20and%20Children/solution.cpp) |
+| 1140B | [Good String](https://codeforces.com/contest/1140/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1140/B%20-%20Good%20String/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1506B | [Partial Replacement](https://codeforces.com/contest/1506/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/B%20-%20Partial%20Replacement/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
@@ -684,6 +685,7 @@
 | 1023A | [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1023/A%20-%20Single%20Wildcard%20Pattern%20Matching/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
 | 1076A | [Minimizing the String](https://codeforces.com/contest/1076/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/A%20-%20Minimizing%20the%20String/solution.cpp) |
+| 1140B | [Good String](https://codeforces.com/contest/1140/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1140/B%20-%20Good%20String/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### trees
