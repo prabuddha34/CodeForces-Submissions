@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 239 | 24 |
+| 240 | 24 |
 
 ---
 
@@ -23,12 +23,12 @@
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (4)
-- [geometry](#geometry) (7)
+- [geometry](#geometry) (8)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (69)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (145)
-- [math](#math) (65)
+- [math](#math) (66)
 - [number theory](#number-theory) (18)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -221,6 +221,7 @@
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
+| 794B | [Cutting Carrot](https://codeforces.com/contest/794/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/794/B%20-%20Cutting%20Carrot/solution.cpp) |
 | 842B | [Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/842/B%20-%20Gleb%20And%20Pizza/solution.cpp) |
 | 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
 
@@ -510,6 +511,7 @@
 | 765C | [Table Tennis Game 2](https://codeforces.com/contest/765/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/C%20-%20Table%20Tennis%20Game%202/solution.cpp) |
 | 787A | [The Monster](https://codeforces.com/contest/787/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/787/A%20-%20The%20Monster/solution.cpp) |
 | 789A | [Anastasia and pebbles](https://codeforces.com/contest/789/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/789/A%20-%20Anastasia%20and%20pebbles/solution.cpp) |
+| 794B | [Cutting Carrot](https://codeforces.com/contest/794/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/794/B%20-%20Cutting%20Carrot/solution.cpp) |
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
 | 869B | [The Eternal Immortality](https://codeforces.com/contest/869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/869/B%20-%20The%20Eternal%20Immortality/solution.cpp) |
