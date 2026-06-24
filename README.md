@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 264 | 24 |
+| 265 | 24 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (6)
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (10)
+- [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (55)
 - [combinatorics](#combinatorics) (2)
@@ -23,12 +23,12 @@
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (4)
-- [geometry](#geometry) (8)
+- [geometry](#geometry) (9)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (77)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (161)
-- [math](#math) (72)
+- [math](#math) (73)
 - [number theory](#number-theory) (20)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -70,6 +70,7 @@
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
+| 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
@@ -229,6 +230,7 @@
 | 794B | [Cutting Carrot](https://codeforces.com/contest/794/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/794/B%20-%20Cutting%20Carrot/solution.cpp) |
 | 842B | [Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/842/B%20-%20Gleb%20And%20Pizza/solution.cpp) |
 | 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
+| 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 
 ### graphs
 
@@ -558,6 +560,7 @@
 | 1082A | [Vasya and Book](https://codeforces.com/contest/1082/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1082/A%20-%20Vasya%20and%20Book/solution.cpp) |
 | 1085B | [Div Times Mod](https://codeforces.com/contest/1085/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1085/B%20-%20Div%20Times%20Mod/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
+| 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
