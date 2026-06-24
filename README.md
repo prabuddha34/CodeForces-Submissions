@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 263 | 24 |
+| 264 | 24 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (55)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (29)
+- [constructive algorithms](#constructive-algorithms) (30)
 - [data structures](#data-structures) (8)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (77)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (160)
+- [implementation](#implementation) (161)
 - [math](#math) (72)
 - [number theory](#number-theory) (20)
 - [schedules](#schedules) (1)
@@ -175,6 +175,7 @@
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/982/A%20-%20Row/solution.cpp) |
 | 989B | [A Tide of Riverscape](https://codeforces.com/contest/989/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/989/B%20-%20A%20Tide%20of%20Riverscape/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
+| 1099C | [Postcard](https://codeforces.com/contest/1099/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/C%20-%20Postcard/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 | 1523B | [Lord of the Values](https://codeforces.com/contest/1523/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1523/B%20-%20Lord%20of%20the%20Values/solution.cpp) |
@@ -482,6 +483,7 @@
 | 1076B | [Divisor Subtraction](https://codeforces.com/contest/1076/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/B%20-%20Divisor%20Subtraction/solution.cpp) |
 | 1082A | [Vasya and Book](https://codeforces.com/contest/1082/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1082/A%20-%20Vasya%20and%20Book/solution.cpp) |
 | 1084B | [Kvass and the Fair Nut](https://codeforces.com/contest/1084/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1084/B%20-%20Kvass%20and%20the%20Fair%20Nut/solution.cpp) |
+| 1099C | [Postcard](https://codeforces.com/contest/1099/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/C%20-%20Postcard/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
