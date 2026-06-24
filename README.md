@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 246 | 24 |
+| 247 | 24 |
 
 ---
 
@@ -25,9 +25,9 @@
 - [games](#games) (4)
 - [geometry](#geometry) (8)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (71)
+- [greedy](#greedy) (72)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (148)
+- [implementation](#implementation) (149)
 - [math](#math) (66)
 - [number theory](#number-theory) (18)
 - [schedules](#schedules) (1)
@@ -300,6 +300,7 @@
 | 914B | [Conan and Agasa play a Card Game](https://codeforces.com/contest/914/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/914/B%20-%20Conan%20and%20Agasa%20play%20a%20Card%20Game/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
 | 990B | [Micro-World](https://codeforces.com/contest/990/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/990/B%20-%20Micro-World/solution.cpp) |
+| 1000A | [Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1000/A%20-%20Codehorses%20T-shirts/solution.cpp) |
 | 1060B | [Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1060/B%20-%20Maximum%20Sum%20of%20Digits/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
@@ -460,6 +461,7 @@
 | 967A | [Mind the Gap](https://codeforces.com/contest/967/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/967/A%20-%20Mind%20the%20Gap/solution.cpp) |
 | 985B | [Switches and Lamps](https://codeforces.com/contest/985/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/985/B%20-%20Switches%20and%20Lamps/solution.cpp) |
 | 999C | [Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/999/C%20-%20Alphabetic%20Removals/solution.cpp) |
+| 1000A | [Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1000/A%20-%20Codehorses%20T-shirts/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
