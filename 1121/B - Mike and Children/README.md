@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/1121/problem/B" target="_blank" rel="noopener noreferrer">1121B — Mike and Children</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1121B](https://codeforces.com/contest/1121/problem/B) |
+
+## Topics
+`brute force` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Mike and Children</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Mike decided to teach programming to children in an elementary school. He knows that it is not an easy task to interest children in that age to code. That is why he decided to give each child <span class="tex-font-style-bf">two</span> sweets.</p><p>Mike has $$$n$$$ sweets with sizes $$$a_1, a_2, \ldots, a_n$$$. All his sweets have <span class="tex-font-style-bf">different</span> sizes. That is, there is no such pair $$$(i, j)$$$ ($$$1 \leq i, j \leq n$$$) such that $$$i \ne j$$$ and $$$a_i = a_j$$$.</p><p>Since Mike has taught for many years, he knows that if he gives two sweets with sizes $$$a_i$$$ and $$$a_j$$$ to one child and $$$a_k$$$ and $$$a_p$$$ to another, where $$$(a_i + a_j) \neq (a_k + a_p)$$$, then a child who has a smaller sum of sizes will be upset. That is, if there are two children who have different sums of sweets, then one of them will be upset. Apparently, Mike does not want somebody to be upset. </p><p>Mike wants to invite children giving each of them <span class="tex-font-style-bf">two</span> sweets. Obviously, he can't give one sweet to two or more children. His goal is to invite as many children as he can. </p><p>Since Mike is busy preparing to his first lecture in the elementary school, he is asking you to find the maximum number of children he can invite giving each of them two sweets in such way that nobody will be upset.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$n$$$ ($$$2 \leq n \leq 1\,000$$$) — the number of sweets Mike has.</p><p>The second line contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \leq a_i \leq 10^5$$$) — the sizes of the sweets. It is guaranteed that all integers are distinct.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print one integer — the maximum number of children Mike can invite giving each of them two sweets in such way that nobody will be upset.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00369893623125889" id="id008036837257077765" class="input-output-copier">Copy</div></div><pre id="id00369893623125889">8
+1 8 3 11 4 9 2 7
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008135893499608253" id="id0039685906327110954" class="input-output-copier">Copy</div></div><pre id="id008135893499608253">3
+</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006885812379587248" id="id006222216954415992" class="input-output-copier">Copy</div></div><pre id="id006885812379587248">7
+3 1 7 11 9 2 12
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007736335289998549" id="id006605318215769752" class="input-output-copier">Copy</div></div><pre id="id007736335289998549">2
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example, Mike can give $$$9+2=11$$$ to one child, $$$8+3=11$$$ to another one, and $$$7+4=11$$$ to the third child. Therefore, Mike can invite three children. Note that it is <span class="tex-font-style-bf">not</span> the only solution.</p><p>In the second example, Mike can give $$$3+9=12$$$ to one child and $$$1+11$$$ to another one. Therefore, Mike can invite two children. Note that it is <span class="tex-font-style-bf">not</span> the only solution.</p></div>
