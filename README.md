@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 243 | 24 |
+| 244 | 24 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (70)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (146)
+- [implementation](#implementation) (147)
 - [math](#math) (66)
 - [number theory](#number-theory) (18)
 - [schedules](#schedules) (1)
@@ -433,6 +433,7 @@
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
 | 799A | [Carrot Cakes](https://codeforces.com/contest/799/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/799/A%20-%20Carrot%20Cakes/solution.cpp) |
 | 811B | [Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/811/B%20-%20Vladik%20and%20Complicated%20Book/solution.cpp) |
+| 812A | [Sagheer and Crossroads](https://codeforces.com/contest/812/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/812/A%20-%20Sagheer%20and%20Crossroads/solution.cpp) |
 | 813A | [The Contest](https://codeforces.com/contest/813/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/813/A%20-%20The%20Contest/solution.cpp) |
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
