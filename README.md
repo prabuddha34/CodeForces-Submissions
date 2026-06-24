@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 265 | 24 |
+| 266 | 24 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [data structures](#data-structures) (8)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
-- [games](#games) (4)
+- [games](#games) (5)
 - [geometry](#geometry) (9)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (77)
@@ -216,6 +216,7 @@
 | 630R | [Game](https://codeforces.com/contest/630/problem/R) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/R%20-%20Game/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
 | 914B | [Conan and Agasa play a Card Game](https://codeforces.com/contest/914/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/914/B%20-%20Conan%20and%20Agasa%20play%20a%20Card%20Game/solution.cpp) |
+| 1102C | [Doors Breaking and Repairing](https://codeforces.com/contest/1102/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1102/C%20-%20Doors%20Breaking%20and%20Repairing/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 
 ### geometry
