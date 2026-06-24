@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 242 | 24 |
+| 243 | 24 |
 
 ---
 
@@ -27,12 +27,12 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (70)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (145)
+- [implementation](#implementation) (146)
 - [math](#math) (66)
 - [number theory](#number-theory) (18)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (25)
+- [sortings](#sortings) (26)
 - [strings](#strings) (22)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (5)
@@ -432,6 +432,7 @@
 | 792A | [New Bus Route](https://codeforces.com/contest/792/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/792/A%20-%20New%20Bus%20Route/solution.cpp) |
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
 | 799A | [Carrot Cakes](https://codeforces.com/contest/799/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/799/A%20-%20Carrot%20Cakes/solution.cpp) |
+| 811B | [Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/811/B%20-%20Vladik%20and%20Complicated%20Book/solution.cpp) |
 | 813A | [The Contest](https://codeforces.com/contest/813/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/813/A%20-%20The%20Contest/solution.cpp) |
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
@@ -596,6 +597,7 @@
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
 | 792A | [New Bus Route](https://codeforces.com/contest/792/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/792/A%20-%20New%20Bus%20Route/solution.cpp) |
 | 802M1 | [April Fools' Problem (easy)](https://codeforces.com/contest/802/problem/M1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/802/M1%20-%20April%20Fools'%20Problem%20(easy)/solution.cpp) |
+| 811B | [Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/811/B%20-%20Vladik%20and%20Complicated%20Book/solution.cpp) |
 | 845A | [Chess Tourney](https://codeforces.com/contest/845/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/845/A%20-%20Chess%20Tourney/solution.cpp) |
 | 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
 | 1015C | [Songs Compression](https://codeforces.com/contest/1015/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1015/C%20-%20Songs%20Compression/solution.cpp) |
