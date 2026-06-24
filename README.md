@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 245 | 24 |
+| 246 | 24 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (71)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (147)
+- [implementation](#implementation) (148)
 - [math](#math) (66)
 - [number theory](#number-theory) (18)
 - [schedules](#schedules) (1)
@@ -459,6 +459,7 @@
 | 960A | [Check the string](https://codeforces.com/contest/960/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/960/A%20-%20Check%20the%20string/solution.cpp) |
 | 967A | [Mind the Gap](https://codeforces.com/contest/967/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/967/A%20-%20Mind%20the%20Gap/solution.cpp) |
 | 985B | [Switches and Lamps](https://codeforces.com/contest/985/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/985/B%20-%20Switches%20and%20Lamps/solution.cpp) |
+| 999C | [Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/999/C%20-%20Alphabetic%20Removals/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
