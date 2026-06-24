@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 269 | 24 |
+| 270 | 24 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (6)
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (11)
+- [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (56)
 - [combinatorics](#combinatorics) (2)
@@ -25,14 +25,14 @@
 - [games](#games) (5)
 - [geometry](#geometry) (9)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (78)
+- [greedy](#greedy) (79)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (163)
 - [math](#math) (74)
 - [number theory](#number-theory) (20)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (29)
+- [sortings](#sortings) (30)
 - [strings](#strings) (25)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (6)
@@ -71,6 +71,7 @@
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
+| 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
@@ -318,6 +319,7 @@
 | 1084B | [Kvass and the Fair Nut](https://codeforces.com/contest/1084/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1084/B%20-%20Kvass%20and%20the%20Fair%20Nut/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
 | 1130B | [Two Cakes](https://codeforces.com/contest/1130/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1130/B%20-%20Two%20Cakes/solution.cpp) |
+| 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1506B | [Partial Replacement](https://codeforces.com/contest/1506/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/B%20-%20Partial%20Replacement/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
@@ -648,6 +650,7 @@
 | 1006B | [Polycarp's Practice](https://codeforces.com/contest/1006/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/B%20-%20Polycarp's%20Practice/solution.cpp) |
 | 1015C | [Songs Compression](https://codeforces.com/contest/1015/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1015/C%20-%20Songs%20Compression/solution.cpp) |
 | 1075B | [Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1075/B%20-%20Taxi%20drivers%20and%20Lyft/solution.cpp) |
+| 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### strings
