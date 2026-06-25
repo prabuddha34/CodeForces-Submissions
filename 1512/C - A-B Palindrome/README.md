@@ -1,0 +1,45 @@
+<h2><a href="https://codeforces.com/contest/1512/problem/C" target="_blank" rel="noopener noreferrer">1512C — A-B Palindrome</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1512C](https://codeforces.com/contest/1512/problem/C) |
+
+## Topics
+`constructive algorithms` `implementation` `strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. A-B Palindrome</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a string $$$s$$$ consisting of the characters '<span class="tex-font-style-tt">0</span>', '<span class="tex-font-style-tt">1</span>', and '<span class="tex-font-style-tt">?</span>'. You need to replace all the characters with '<span class="tex-font-style-tt">?</span>' in the string $$$s$$$ by '<span class="tex-font-style-tt">0</span>' or '<span class="tex-font-style-tt">1</span>' so that the string becomes a palindrome and has <span class="tex-font-style-bf">exactly</span> $$$a$$$ characters '<span class="tex-font-style-tt">0</span>' and <span class="tex-font-style-bf">exactly</span> $$$b$$$ characters '<span class="tex-font-style-tt">1</span>'. Note that each of the characters '<span class="tex-font-style-tt">?</span>' is replaced <span class="tex-font-style-bf">independently</span> from the others.</p><p>A string $$$t$$$ of length $$$n$$$ is called a palindrome if the equality $$$t[i] = t[n-i+1]$$$ is true for all $$$i$$$ ($$$1 \le i \le n$$$).</p><p>For example, if $$$s=$$$"<span class="tex-font-style-tt">01?????0</span>", $$$a=4$$$ and $$$b=4$$$, then you can replace the characters '<span class="tex-font-style-tt">?</span>' in the following ways: </p><ul> <li> "<span class="tex-font-style-tt">01011010</span>"; </li><li> "<span class="tex-font-style-tt">01100110</span>". </li></ul><p>For the given string $$$s$$$ and the numbers $$$a$$$ and $$$b$$$, replace all the characters with '<span class="tex-font-style-tt">?</span>' in the string $$$s$$$ by '<span class="tex-font-style-tt">0</span>' or '<span class="tex-font-style-tt">1</span>' so that the string becomes a palindrome and has <span class="tex-font-style-bf">exactly</span> $$$a$$$ characters '<span class="tex-font-style-tt">0</span>' and <span class="tex-font-style-bf">exactly</span> $$$b$$$ characters '<span class="tex-font-style-tt">1</span>'.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \le t \le 10^4$$$). Then $$$t$$$ test cases follow.</p><p>The first line of each test case contains two integers $$$a$$$ and $$$b$$$ ($$$0 \le a, b \le 2 \cdot 10^5$$$, $$$a + b \ge 1$$$).</p><p>The second line of each test case contains the string $$$s$$$ of length $$$a+b$$$, consisting of the characters '<span class="tex-font-style-tt">0</span>', '<span class="tex-font-style-tt">1</span>', and '<span class="tex-font-style-tt">?</span>'.</p><p>It is guaranteed that the sum of the string lengths of $$$s$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output: </p><ul> <li> "<span class="tex-font-style-tt">-1</span>", if you can't replace all the characters '<span class="tex-font-style-tt">?</span>' in the string $$$s$$$ by '<span class="tex-font-style-tt">0</span>' or '<span class="tex-font-style-tt">1</span>' so that the string becomes a palindrome and that it contains <span class="tex-font-style-bf">exactly</span> $$$a$$$ characters '<span class="tex-font-style-tt">0</span>' and <span class="tex-font-style-bf">exactly</span> $$$b$$$ characters '<span class="tex-font-style-tt">1</span>'; </li><li> the string that is obtained as a result of the replacement, otherwise. </li></ul><p>If there are several suitable ways to replace characters, you can output any.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006338288835352054" id="id0009507147079605716" class="input-output-copier">Copy</div></div><pre id="id006338288835352054">9
+4 4
+01?????0
+3 3
+??????
+1 0
+?
+2 2
+0101
+2 2
+01?0
+0 1
+0
+0 3
+1?1
+2 2
+?00?
+4 3
+??010?0
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00635975325398206" id="id0023676569112952195" class="input-output-copier">Copy</div></div><pre id="id00635975325398206">01011010
+-1
+0
+-1
+0110
+-1
+111
+1001
+0101010
+</pre></div></div></div>
