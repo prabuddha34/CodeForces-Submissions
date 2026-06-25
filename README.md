@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 284 | 24 |
+| 285 | 24 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (60)
+- [brute force](#brute-force) (61)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (32)
-- [data structures](#data-structures) (9)
+- [data structures](#data-structures) (10)
 - [dp](#dp) (3)
 - [dsu](#dsu) (1)
 - [games](#games) (5)
@@ -29,13 +29,13 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (166)
 - [math](#math) (82)
-- [number theory](#number-theory) (23)
+- [number theory](#number-theory) (24)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (33)
 - [strings](#strings) (26)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (7)
+- [two pointers](#two-pointers) (8)
 
 ---
 
@@ -144,6 +144,7 @@
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 
@@ -203,6 +204,7 @@
 | 879B | [Table Tennis](https://codeforces.com/contest/879/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/879/B%20-%20Table%20Tennis/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1104B | [Game with string](https://codeforces.com/contest/1104/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1104/B%20-%20Game%20with%20string/solution.cpp) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### dp
@@ -628,6 +630,7 @@
 | 1133B | [Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/B%20-%20Preparation%20for%20International%20Women's%20Day/solution.cpp) |
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 
 ### schedules
@@ -726,6 +729,7 @@
 | 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
 | 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 
