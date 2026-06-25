@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 303 | 24 |
+| 304 | 24 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (63)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (40)
+- [constructive algorithms](#constructive-algorithms) (41)
 - [data structures](#data-structures) (10)
 - [dp](#dp) (5)
 - [dsu](#dsu) (1)
@@ -27,13 +27,13 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (94)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (171)
+- [implementation](#implementation) (172)
 - [math](#math) (92)
 - [number theory](#number-theory) (25)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (35)
-- [strings](#strings) (28)
+- [strings](#strings) (29)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (9)
 
@@ -199,6 +199,7 @@
 | 1497C1 | [k-LCM (easy version)](https://codeforces.com/contest/1497/problem/C1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1497/C1%20-%20k-LCM%20(easy%20version)/solution.cpp) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
+| 1512C | [A-B Palindrome](https://codeforces.com/contest/1512/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1512/C%20-%20A-B%20Palindrome/solution.cpp) |
 | 1523B | [Lord of the Values](https://codeforces.com/contest/1523/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1523/B%20-%20Lord%20of%20the%20Values/solution.cpp) |
 | 1602B | [Divine Array](https://codeforces.com/contest/1602/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1602/B%20-%20Divine%20Array/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
@@ -546,6 +547,7 @@
 | 1485B | [Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1485/B%20-%20Replace%20and%20Keep%20Sorted/solution.cpp) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
 | 1506B | [Partial Replacement](https://codeforces.com/contest/1506/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/B%20-%20Partial%20Replacement/solution.cpp) |
+| 1512C | [A-B Palindrome](https://codeforces.com/contest/1512/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1512/C%20-%20A-B%20Palindrome/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
 | 1602B | [Divine Array](https://codeforces.com/contest/1602/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1602/B%20-%20Divine%20Array/solution.cpp) |
 
@@ -759,6 +761,7 @@
 | 1140B | [Good String](https://codeforces.com/contest/1140/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1140/B%20-%20Good%20String/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
+| 1512C | [A-B Palindrome](https://codeforces.com/contest/1512/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1512/C%20-%20A-B%20Palindrome/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### trees
