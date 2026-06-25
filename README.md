@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 290 | 24 |
+| 291 | 24 |
 
 ---
 
@@ -25,9 +25,9 @@
 - [games](#games) (5)
 - [geometry](#geometry) (9)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (86)
+- [greedy](#greedy) (87)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (167)
+- [implementation](#implementation) (168)
 - [math](#math) (83)
 - [number theory](#number-theory) (24)
 - [schedules](#schedules) (1)
@@ -338,6 +338,7 @@
 | 1375B | [Neighbor Grid](https://codeforces.com/contest/1375/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1375/B%20-%20Neighbor%20Grid/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
 | 1385C | [Make It Good](https://codeforces.com/contest/1385/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1385/C%20-%20Make%20It%20Good/solution.cpp) |
+| 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1506B | [Partial Replacement](https://codeforces.com/contest/1506/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/B%20-%20Partial%20Replacement/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
@@ -519,6 +520,7 @@
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
+| 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1506B | [Partial Replacement](https://codeforces.com/contest/1506/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/B%20-%20Partial%20Replacement/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
