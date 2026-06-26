@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 317 | 25 |
+| 318 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (6)
+- [*special](#special) (7)
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (2)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (97)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (181)
+- [implementation](#implementation) (182)
 - [math](#math) (93)
 - [number theory](#number-theory) (25)
 - [schedules](#schedules) (1)
@@ -44,6 +44,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 64A | [Factorial](https://codeforces.com/contest/64/problem/A) | 1300 | [Tcl](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/64/A%20-%20Factorial/solution.txt) |
 | 72C | [Extraordinarily Nice Numbers](https://codeforces.com/contest/72/problem/C) | 1200 | [Io](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/72/C%20-%20Extraordinarily%20Nice%20Numbers/solution.txt) |
 | 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
@@ -412,6 +413,7 @@
 | 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 60A | [Where Are My Flakes?](https://codeforces.com/contest/60/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/60/A%20-%20Where%20Are%20My%20Flakes%3F/solution.cpp) |
 | 63B | [Settlers' Training](https://codeforces.com/contest/63/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/63/B%20-%20Settlers'%20Training/solution.cpp) |
+| 64A | [Factorial](https://codeforces.com/contest/64/problem/A) | 1300 | [Tcl](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/64/A%20-%20Factorial/solution.txt) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 88A | [Chord](https://codeforces.com/contest/88/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/88/A%20-%20Chord/solution.cpp) |
 | 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.cpp) |
