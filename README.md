@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 327 | 25 |
+| 328 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (67)
+- [brute force](#brute-force) (68)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (10)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (98)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (188)
+- [implementation](#implementation) (189)
 - [math](#math) (94)
 - [number theory](#number-theory) (26)
 - [schedules](#schedules) (1)
@@ -108,6 +108,7 @@
 | 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 203A | [Two Problems](https://codeforces.com/contest/203/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/A%20-%20Two%20Problems/solution.cpp) |
+| 203B | [Game on Paper](https://codeforces.com/contest/203/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/B%20-%20Game%20on%20Paper/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
 | 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
@@ -445,6 +446,7 @@
 | 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 203A | [Two Problems](https://codeforces.com/contest/203/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/A%20-%20Two%20Problems/solution.cpp) |
+| 203B | [Game on Paper](https://codeforces.com/contest/203/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/B%20-%20Game%20on%20Paper/solution.cpp) |
 | 216A | [Tiling with Hexagons](https://codeforces.com/contest/216/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/216/A%20-%20Tiling%20with%20Hexagons/solution.cpp) |
 | 218B | [Airport](https://codeforces.com/contest/218/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/218/B%20-%20Airport/solution.cpp) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
