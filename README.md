@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 330 | 25 |
+| 331 | 25 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (6)
-- [geometry](#geometry) (11)
+- [geometry](#geometry) (12)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (99)
 - [hashing](#hashing) (1)
@@ -272,6 +272,7 @@
 | 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
+| 227A | [Where do I Turn?](https://codeforces.com/contest/227/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/227/A%20-%20Where%20do%20I%20Turn%3F/solution.cpp) |
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
