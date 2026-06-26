@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 325 | 25 |
+| 326 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (7)
+- [*special](#special) (8)
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (14)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (65)
+- [brute force](#brute-force) (66)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (10)
@@ -30,7 +30,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (187)
 - [math](#math) (94)
-- [number theory](#number-theory) (25)
+- [number theory](#number-theory) (26)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (36)
@@ -46,6 +46,7 @@
 |---|---------|------------|----------|
 | 64A | [Factorial](https://codeforces.com/contest/64/problem/A) | 1300 | [Tcl](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/64/A%20-%20Factorial/solution.txt) |
 | 72C | [Extraordinarily Nice Numbers](https://codeforces.com/contest/72/problem/C) | 1200 | [Io](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/72/C%20-%20Extraordinarily%20Nice%20Numbers/solution.txt) |
+| 158D | [Ice Sculptures](https://codeforces.com/contest/158/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/158/D%20-%20Ice%20Sculptures/solution.cpp) |
 | 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
@@ -101,6 +102,7 @@
 | 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
 | 134A | [Average Numbers](https://codeforces.com/contest/134/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/134/A%20-%20Average%20Numbers/solution.cpp) |
 | 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
+| 158D | [Ice Sculptures](https://codeforces.com/contest/158/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/158/D%20-%20Ice%20Sculptures/solution.cpp) |
 | 177D1 | [Encrypting Messages](https://codeforces.com/contest/177/problem/D1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/177/D1%20-%20Encrypting%20Messages/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 203A | [Two Problems](https://codeforces.com/contest/203/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/A%20-%20Two%20Problems/solution.cpp) |
@@ -689,6 +691,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
+| 158D | [Ice Sculptures](https://codeforces.com/contest/158/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/158/D%20-%20Ice%20Sculptures/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
 | 177B2 | [Rectangular Game](https://codeforces.com/contest/177/problem/B2) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/177/B2%20-%20Rectangular%20Game/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
