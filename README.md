@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 329 | 25 |
+| 330 | 25 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (99)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (189)
+- [implementation](#implementation) (190)
 - [math](#math) (95)
 - [number theory](#number-theory) (26)
 - [schedules](#schedules) (1)
@@ -450,6 +450,7 @@
 | 203B | [Game on Paper](https://codeforces.com/contest/203/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/B%20-%20Game%20on%20Paper/solution.cpp) |
 | 216A | [Tiling with Hexagons](https://codeforces.com/contest/216/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/216/A%20-%20Tiling%20with%20Hexagons/solution.cpp) |
 | 218B | [Airport](https://codeforces.com/contest/218/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/218/B%20-%20Airport/solution.cpp) |
+| 221B | [Little Elephant and Numbers](https://codeforces.com/contest/221/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/221/B%20-%20Little%20Elephant%20and%20Numbers/solution.cpp) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
