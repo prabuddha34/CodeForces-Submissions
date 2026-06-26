@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 314 | 25 |
+| 315 | 25 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (6)
 - [geometry](#geometry) (11)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (96)
+- [greedy](#greedy) (97)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (180)
 - [math](#math) (93)
@@ -288,6 +288,7 @@
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 39B | [Company Income Growth](https://codeforces.com/contest/39/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/B%20-%20Company%20Income%20Growth/solution.cpp) |
 | 43C | [Lucky Tickets](https://codeforces.com/contest/43/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/43/C%20-%20Lucky%20Tickets/solution.cpp) |
+| 58B | [Coins](https://codeforces.com/contest/58/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/58/B%20-%20Coins/solution.cpp) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 79A | [Bus Game](https://codeforces.com/contest/79/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/79/A%20-%20Bus%20Game/solution.cpp) |
 | 101A | [Homework](https://codeforces.com/contest/101/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/101/A%20-%20Homework/solution.cpp) |
