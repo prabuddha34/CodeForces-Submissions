@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 318 | 25 |
+| 319 | 25 |
 
 ---
 
@@ -28,13 +28,13 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (97)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (182)
+- [implementation](#implementation) (183)
 - [math](#math) (93)
 - [number theory](#number-theory) (25)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (35)
-- [strings](#strings) (30)
+- [strings](#strings) (31)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (10)
 
@@ -414,6 +414,7 @@
 | 60A | [Where Are My Flakes?](https://codeforces.com/contest/60/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/60/A%20-%20Where%20Are%20My%20Flakes%3F/solution.cpp) |
 | 63B | [Settlers' Training](https://codeforces.com/contest/63/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/63/B%20-%20Settlers'%20Training/solution.cpp) |
 | 64A | [Factorial](https://codeforces.com/contest/64/problem/A) | 1300 | [Tcl](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/64/A%20-%20Factorial/solution.txt) |
+| 66A | [Petya and Java](https://codeforces.com/contest/66/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/66/A%20-%20Petya%20and%20Java/solution.cpp) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 88A | [Chord](https://codeforces.com/contest/88/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/88/A%20-%20Chord/solution.cpp) |
 | 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.cpp) |
@@ -761,6 +762,7 @@
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
 | 8A | [Train and Peter](https://codeforces.com/contest/8/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/8/A%20-%20Train%20and%20Peter/solution.cpp) |
 | 61B | [Hard Work](https://codeforces.com/contest/61/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/61/B%20-%20Hard%20Work/solution.cpp) |
+| 66A | [Petya and Java](https://codeforces.com/contest/66/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/66/A%20-%20Petya%20and%20Java/solution.cpp) |
 | 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
