@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 320 | 25 |
+| 321 | 25 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (6)
 - [geometry](#geometry) (11)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (97)
+- [greedy](#greedy) (98)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (184)
 - [math](#math) (94)
@@ -292,6 +292,7 @@
 | 58B | [Coins](https://codeforces.com/contest/58/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/58/B%20-%20Coins/solution.cpp) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 79A | [Bus Game](https://codeforces.com/contest/79/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/79/A%20-%20Bus%20Game/solution.cpp) |
+| 92B | [Binary Number](https://codeforces.com/contest/92/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/92/B%20-%20Binary%20Number/solution.cpp) |
 | 101A | [Homework](https://codeforces.com/contest/101/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/101/A%20-%20Homework/solution.cpp) |
 | 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
 | 169B | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/169/B%20-%20Replacing%20Digits/solution.cpp) |
