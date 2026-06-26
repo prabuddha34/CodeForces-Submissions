@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 326 | 25 |
+| 327 | 25 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (8)
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (14)
+- [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (66)
+- [brute force](#brute-force) (67)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (10)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (98)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (187)
+- [implementation](#implementation) (188)
 - [math](#math) (94)
 - [number theory](#number-theory) (26)
 - [schedules](#schedules) (1)
@@ -69,6 +69,7 @@
 | 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
 | 152B | [Steps](https://codeforces.com/contest/152/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/152/B%20-%20Steps/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
+| 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
@@ -104,6 +105,7 @@
 | 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
 | 158D | [Ice Sculptures](https://codeforces.com/contest/158/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/158/D%20-%20Ice%20Sculptures/solution.cpp) |
 | 177D1 | [Encrypting Messages](https://codeforces.com/contest/177/problem/D1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/177/D1%20-%20Encrypting%20Messages/solution.cpp) |
+| 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 203A | [Two Problems](https://codeforces.com/contest/203/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/A%20-%20Two%20Problems/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
@@ -440,6 +442,7 @@
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
+| 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 203A | [Two Problems](https://codeforces.com/contest/203/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/A%20-%20Two%20Problems/solution.cpp) |
 | 216A | [Tiling with Hexagons](https://codeforces.com/contest/216/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/216/A%20-%20Tiling%20with%20Hexagons/solution.cpp) |
