@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 323 | 25 |
+| 324 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (64)
+- [brute force](#brute-force) (65)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (10)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (98)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (185)
+- [implementation](#implementation) (186)
 - [math](#math) (94)
 - [number theory](#number-theory) (25)
 - [schedules](#schedules) (1)
@@ -99,6 +99,7 @@
 | 88A | [Chord](https://codeforces.com/contest/88/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/88/A%20-%20Chord/solution.cpp) |
 | 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
 | 134A | [Average Numbers](https://codeforces.com/contest/134/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/134/A%20-%20Average%20Numbers/solution.cpp) |
+| 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
 | 177D1 | [Encrypting Messages](https://codeforces.com/contest/177/problem/D1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/177/D1%20-%20Encrypting%20Messages/solution.cpp) |
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 203A | [Two Problems](https://codeforces.com/contest/203/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/A%20-%20Two%20Problems/solution.cpp) |
@@ -430,6 +431,7 @@
 | 133B | [Unary](https://codeforces.com/contest/133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/133/B%20-%20Unary/solution.cpp) |
 | 134A | [Average Numbers](https://codeforces.com/contest/134/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/134/A%20-%20Average%20Numbers/solution.cpp) |
 | 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
+| 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
 | 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
