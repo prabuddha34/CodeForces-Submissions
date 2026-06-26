@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 316 | 25 |
+| 317 | 25 |
 
 ---
 
@@ -34,7 +34,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (35)
-- [strings](#strings) (29)
+- [strings](#strings) (30)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (10)
 
@@ -758,6 +758,7 @@
 |---|---------|------------|----------|
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
 | 8A | [Train and Peter](https://codeforces.com/contest/8/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/8/A%20-%20Train%20and%20Peter/solution.cpp) |
+| 61B | [Hard Work](https://codeforces.com/contest/61/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/61/B%20-%20Hard%20Work/solution.cpp) |
 | 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
