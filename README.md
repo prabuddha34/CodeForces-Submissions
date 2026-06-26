@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 333 | 25 |
+| 334 | 25 |
 
 ---
 
@@ -26,10 +26,10 @@
 - [games](#games) (6)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (99)
+- [greedy](#greedy) (100)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (192)
-- [math](#math) (95)
+- [math](#math) (96)
 - [number theory](#number-theory) (27)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -314,6 +314,7 @@
 | 215B | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/215/B%20-%20Olympic%20Medal/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
+| 246B | [Increase and Decrease](https://codeforces.com/contest/246/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/246/B%20-%20Increase%20and%20Decrease/solution.cpp) |
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 285A | [Slightly Decreasing Permutations](https://codeforces.com/contest/285/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/A%20-%20Slightly%20Decreasing%20Permutations/solution.cpp) |
@@ -618,6 +619,7 @@
 | 215B | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/215/B%20-%20Olympic%20Medal/solution.cpp) |
 | 216A | [Tiling with Hexagons](https://codeforces.com/contest/216/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/216/A%20-%20Tiling%20with%20Hexagons/solution.cpp) |
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
+| 246B | [Increase and Decrease](https://codeforces.com/contest/246/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/246/B%20-%20Increase%20and%20Decrease/solution.cpp) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 327B | [Hungry Sequence](https://codeforces.com/contest/327/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/327/B%20-%20Hungry%20Sequence/solution.cpp) |
