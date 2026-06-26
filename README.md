@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 328 | 25 |
+| 329 | 25 |
 
 ---
 
@@ -26,10 +26,10 @@
 - [games](#games) (6)
 - [geometry](#geometry) (11)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (98)
+- [greedy](#greedy) (99)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (189)
-- [math](#math) (94)
+- [math](#math) (95)
 - [number theory](#number-theory) (26)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -309,6 +309,7 @@
 | 176A | [Trading Business](https://codeforces.com/contest/176/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/176/A%20-%20Trading%20Business/solution.cpp) |
 | 186B | [Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/B%20-%20Growing%20Mushrooms/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
+| 215B | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/215/B%20-%20Olympic%20Medal/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
@@ -609,6 +610,7 @@
 | 174A | [Problem About Equation](https://codeforces.com/contest/174/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/174/A%20-%20Problem%20About%20Equation/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
 | 194B | [Square](https://codeforces.com/contest/194/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/194/B%20-%20Square/solution.cpp) |
+| 215B | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/215/B%20-%20Olympic%20Medal/solution.cpp) |
 | 216A | [Tiling with Hexagons](https://codeforces.com/contest/216/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/216/A%20-%20Tiling%20with%20Hexagons/solution.cpp) |
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
