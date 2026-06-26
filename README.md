@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 307 | 24 |
+| 308 | 24 |
 
 ---
 
@@ -18,17 +18,17 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (63)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (41)
+- [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (10)
 - [dp](#dp) (5)
 - [dsu](#dsu) (1)
 - [games](#games) (6)
-- [geometry](#geometry) (10)
+- [geometry](#geometry) (11)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (95)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (174)
-- [math](#math) (92)
+- [implementation](#implementation) (175)
+- [math](#math) (93)
 - [number theory](#number-theory) (25)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -163,6 +163,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 53C | [Little Frog](https://codeforces.com/contest/53/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/53/C%20-%20Little%20Frog/solution.cpp) |
 | 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
@@ -251,6 +252,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
@@ -389,6 +391,7 @@
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
 | 39F | [Pacifist frogs](https://codeforces.com/contest/39/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/F%20-%20Pacifist%20frogs/solution.cpp) |
 | 39H | [Multiplication Table](https://codeforces.com/contest/39/problem/H) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/H%20-%20Multiplication%20Table/solution.cpp) |
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 47B | [Coins](https://codeforces.com/contest/47/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/47/B%20-%20Coins/solution.cpp) |
 | 48B | [Land Lot](https://codeforces.com/contest/48/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/48/B%20-%20Land%20Lot/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
@@ -560,6 +563,7 @@
 |---|---------|------------|----------|
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
 | 72C | [Extraordinarily Nice Numbers](https://codeforces.com/contest/72/problem/C) | 1200 | [Io](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/72/C%20-%20Extraordinarily%20Nice%20Numbers/solution.txt) |
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
