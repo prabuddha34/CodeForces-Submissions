@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 337 | 25 |
+| 338 | 25 |
 
 ---
 
@@ -26,10 +26,10 @@
 - [games](#games) (7)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (101)
+- [greedy](#greedy) (102)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (192)
-- [math](#math) (97)
+- [math](#math) (98)
 - [number theory](#number-theory) (28)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -307,6 +307,7 @@
 | 39B | [Company Income Growth](https://codeforces.com/contest/39/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/B%20-%20Company%20Income%20Growth/solution.cpp) |
 | 43C | [Lucky Tickets](https://codeforces.com/contest/43/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/43/C%20-%20Lucky%20Tickets/solution.cpp) |
 | 58B | [Coins](https://codeforces.com/contest/58/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/58/B%20-%20Coins/solution.cpp) |
+| 62A | [A Student's Dream](https://codeforces.com/contest/62/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/62/A%20-%20A%20Student's%20Dream/solution.cpp) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 79A | [Bus Game](https://codeforces.com/contest/79/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/79/A%20-%20Bus%20Game/solution.cpp) |
 | 92B | [Binary Number](https://codeforces.com/contest/92/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/92/B%20-%20Binary%20Number/solution.cpp) |
@@ -613,6 +614,7 @@
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
+| 62A | [A Student's Dream](https://codeforces.com/contest/62/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/62/A%20-%20A%20Student's%20Dream/solution.cpp) |
 | 71B | [Progress Bar](https://codeforces.com/contest/71/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/71/B%20-%20Progress%20Bar/solution.cpp) |
 | 72C | [Extraordinarily Nice Numbers](https://codeforces.com/contest/72/problem/C) | 1200 | [Io](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/72/C%20-%20Extraordinarily%20Nice%20Numbers/solution.txt) |
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
