@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 341 | 25 |
+| 342 | 25 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (102)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (194)
+- [implementation](#implementation) (195)
 - [math](#math) (100)
 - [number theory](#number-theory) (28)
 - [schedules](#schedules) (1)
@@ -448,6 +448,7 @@
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
 | 121A | [Lucky Sum](https://codeforces.com/contest/121/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/121/A%20-%20Lucky%20Sum/solution.cpp) |
 | 131B | [Opposites Attract](https://codeforces.com/contest/131/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/131/B%20-%20Opposites%20Attract/solution.cpp) |
+| 132A | [Turing Tape](https://codeforces.com/contest/132/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/132/A%20-%20Turing%20Tape/solution.cpp) |
 | 133B | [Unary](https://codeforces.com/contest/133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/133/B%20-%20Unary/solution.cpp) |
 | 134A | [Average Numbers](https://codeforces.com/contest/134/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/134/A%20-%20Average%20Numbers/solution.cpp) |
 | 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
