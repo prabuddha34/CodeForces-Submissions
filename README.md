@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 336 | 25 |
+| 337 | 25 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (8)
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (16)
+- [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (68)
+- [brute force](#brute-force) (69)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (11)
@@ -29,8 +29,8 @@
 - [greedy](#greedy) (101)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (192)
-- [math](#math) (96)
-- [number theory](#number-theory) (27)
+- [math](#math) (97)
+- [number theory](#number-theory) (28)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (36)
@@ -71,6 +71,7 @@
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
 | 251A | [Points on Line](https://codeforces.com/contest/251/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/251/A%20-%20Points%20on%20Line/solution.cpp) |
+| 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
@@ -112,6 +113,7 @@
 | 203B | [Game on Paper](https://codeforces.com/contest/203/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/B%20-%20Game%20on%20Paper/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
+| 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
@@ -625,6 +627,7 @@
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
 | 246B | [Increase and Decrease](https://codeforces.com/contest/246/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/246/B%20-%20Increase%20and%20Decrease/solution.cpp) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
+| 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 327B | [Hungry Sequence](https://codeforces.com/contest/327/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/327/B%20-%20Hungry%20Sequence/solution.cpp) |
 | 340A | [The Wall](https://codeforces.com/contest/340/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/340/A%20-%20The%20Wall/solution.cpp) |
@@ -713,6 +716,7 @@
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
 | 177B2 | [Rectangular Game](https://codeforces.com/contest/177/problem/B2) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/177/B2%20-%20Rectangular%20Game/solution.cpp) |
 | 236B | [Easy Number Challenge](https://codeforces.com/contest/236/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/236/B%20-%20Easy%20Number%20Challenge/solution.cpp) |
+| 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
