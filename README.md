@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 377 | 27 |
+| 378 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (73)
+- [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (49)
 - [data structures](#data-structures) (11)
@@ -28,14 +28,14 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (112)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (221)
+- [implementation](#implementation) (222)
 - [math](#math) (109)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (32)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (41)
+- [sortings](#sortings) (42)
 - [strings](#strings) (33)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (12)
@@ -140,6 +140,7 @@
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
 | 554B | [Ohana Cleans Up](https://codeforces.com/contest/554/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/554/B%20-%20Ohana%20Cleans%20Up/solution.cpp) |
+| 579B | [Finding Team Member](https://codeforces.com/contest/579/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/579/B%20-%20Finding%20Team%20Member/solution.cpp) |
 | 593A | [2Char](https://codeforces.com/contest/593/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/593/A%20-%202Char/solution.cpp) |
 | 602A | [Two Bases](https://codeforces.com/contest/602/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/602/A%20-%20Two%20Bases/solution.cpp) |
 | 629B | [Far Relative’s Problem](https://codeforces.com/contest/629/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/629/B%20-%20Far%20Relative%E2%80%99s%20Problem/solution.cpp) |
@@ -574,6 +575,7 @@
 | 570B | [Simple Game](https://codeforces.com/contest/570/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/570/B%20-%20Simple%20Game/solution.cpp) |
 | 573A | [Bear and Poker](https://codeforces.com/contest/573/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/573/A%20-%20Bear%20and%20Poker/solution.cpp) |
 | 574A | [Bear and Elections](https://codeforces.com/contest/574/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/574/A%20-%20Bear%20and%20Elections/solution.cpp) |
+| 579B | [Finding Team Member](https://codeforces.com/contest/579/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/579/B%20-%20Finding%20Team%20Member/solution.cpp) |
 | 581B | [Luxurious Houses](https://codeforces.com/contest/581/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/581/B%20-%20Luxurious%20Houses/solution.cpp) |
 | 583B | [Robot's Task](https://codeforces.com/contest/583/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/583/B%20-%20Robot's%20Task/solution.cpp) |
 | 591B | [Rebranding](https://codeforces.com/contest/591/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/591/B%20-%20Rebranding/solution.cpp) |
@@ -861,6 +863,7 @@
 | 471B | [MUH and Important Things](https://codeforces.com/contest/471/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/471/B%20-%20MUH%20and%20Important%20Things/solution.cpp) |
 | 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
+| 579B | [Finding Team Member](https://codeforces.com/contest/579/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/579/B%20-%20Finding%20Team%20Member/solution.cpp) |
 | 624B | [Making a String](https://codeforces.com/contest/624/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/624/B%20-%20Making%20a%20String/solution.cpp) |
 | 651B | [Beautiful Paintings](https://codeforces.com/contest/651/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/651/B%20-%20Beautiful%20Paintings/solution.cpp) |
 | 682B | [Alyona and Mex](https://codeforces.com/contest/682/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/682/B%20-%20Alyona%20and%20Mex/solution.cpp) |
