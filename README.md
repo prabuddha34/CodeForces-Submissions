@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 359 | 26 |
+| 360 | 26 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (7)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (103)
+- [greedy](#greedy) (104)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (209)
 - [math](#math) (104)
@@ -346,6 +346,7 @@
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
+| 462B | [Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/462/B%20-%20Appleman%20and%20Card%20Game/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 545B | [Equidistant String](https://codeforces.com/contest/545/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/B%20-%20Equidistant%20String/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
