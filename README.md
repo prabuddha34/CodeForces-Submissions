@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 339 | 25 |
+| 340 | 25 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (69)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (42)
+- [constructive algorithms](#constructive-algorithms) (43)
 - [data structures](#data-structures) (11)
 - [dp](#dp) (5)
 - [dsu](#dsu) (1)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (102)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (192)
+- [implementation](#implementation) (193)
 - [math](#math) (99)
 - [number theory](#number-theory) (28)
 - [schedules](#schedules) (1)
@@ -181,6 +181,7 @@
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 53C | [Little Frog](https://codeforces.com/contest/53/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/53/C%20-%20Little%20Frog/solution.cpp) |
+| 85A | [Domino](https://codeforces.com/contest/85/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/85/A%20-%20Domino/solution.cpp) |
 | 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
@@ -439,6 +440,7 @@
 | 66A | [Petya and Java](https://codeforces.com/contest/66/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/66/A%20-%20Petya%20and%20Java/solution.cpp) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 71B | [Progress Bar](https://codeforces.com/contest/71/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/71/B%20-%20Progress%20Bar/solution.cpp) |
+| 85A | [Domino](https://codeforces.com/contest/85/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/85/A%20-%20Domino/solution.cpp) |
 | 88A | [Chord](https://codeforces.com/contest/88/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/88/A%20-%20Chord/solution.cpp) |
 | 99B | [Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/99/B%20-%20Help%20Chef%20Gerasim/solution.cpp) |
 | 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.cpp) |
