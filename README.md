@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 362 | 26 |
+| 363 | 26 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (8)
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (70)
@@ -58,6 +58,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 472B | [Design Tutorial: Learn from Life](https://codeforces.com/contest/472/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/472/B%20-%20Design%20Tutorial%3A%20Learn%20from%20Life/solution.cpp) |
 | 781C | [Underground Lab](https://codeforces.com/contest/781/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/781/C%20-%20Underground%20Lab/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
