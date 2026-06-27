@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 369 | 26 |
+| 370 | 27 |
 
 ---
 
@@ -16,12 +16,12 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (71)
+- [brute force](#brute-force) (72)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (48)
 - [data structures](#data-structures) (11)
 - [dp](#dp) (5)
-- [dsu](#dsu) (1)
+- [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (7)
 - [geometry](#geometry) (12)
@@ -30,7 +30,8 @@
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (214)
 - [math](#math) (106)
-- [number theory](#number-theory) (29)
+- [meet-in-the-middle](#meet-in-the-middle) (1)
+- [number theory](#number-theory) (30)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -133,6 +134,7 @@
 | 485B | [Valuable Resources](https://codeforces.com/contest/485/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/485/B%20-%20Valuable%20Resources/solution.cpp) |
 | 488A | [Giga Tower](https://codeforces.com/contest/488/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/488/A%20-%20Giga%20Tower/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
+| 515B | [Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/B%20-%20Drazil%20and%20His%20Happy%20Friends/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
@@ -263,6 +265,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
+| 515B | [Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/B%20-%20Drazil%20and%20His%20Happy%20Friends/solution.cpp) |
 
 ### expression parsing
 
@@ -759,6 +762,12 @@
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 
+### meet-in-the-middle
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 515B | [Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/B%20-%20Drazil%20and%20His%20Happy%20Friends/solution.cpp) |
+
 ### number theory
 
 | # | Problem | Difficulty | Solution |
@@ -773,6 +782,7 @@
 | 371B | [Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/371/B%20-%20Fox%20Dividing%20Cheese/solution.cpp) |
 | 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
+| 515B | [Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/B%20-%20Drazil%20and%20His%20Happy%20Friends/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
