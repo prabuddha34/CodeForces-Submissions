@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 368 | 26 |
+| 369 | 26 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (71)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (47)
+- [constructive algorithms](#constructive-algorithms) (48)
 - [data structures](#data-structures) (11)
 - [dp](#dp) (5)
 - [dsu](#dsu) (1)
@@ -26,9 +26,9 @@
 - [games](#games) (7)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (108)
+- [greedy](#greedy) (109)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (213)
+- [implementation](#implementation) (214)
 - [math](#math) (106)
 - [number theory](#number-theory) (29)
 - [probabilities](#probabilities) (1)
@@ -196,6 +196,7 @@
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 379B | [New Year Present](https://codeforces.com/contest/379/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/B%20-%20New%20Year%20Present/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
+| 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
 | 560B | [Gerald is into Art](https://codeforces.com/contest/560/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/560/B%20-%20Gerald%20is%20into%20Art/solution.cpp) |
 | 609B | [The Best Gift](https://codeforces.com/contest/609/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/609/B%20-%20The%20Best%20Gift/solution.cpp) |
 | 625B | [War of the Corporations](https://codeforces.com/contest/625/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/625/B%20-%20War%20of%20the%20Corporations/solution.cpp) |
@@ -355,6 +356,7 @@
 | 485B | [Valuable Resources](https://codeforces.com/contest/485/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/485/B%20-%20Valuable%20Resources/solution.cpp) |
 | 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
+| 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 545B | [Equidistant String](https://codeforces.com/contest/545/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/B%20-%20Equidistant%20String/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
@@ -545,6 +547,7 @@
 | 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 493A | [Vasya and Football](https://codeforces.com/contest/493/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/493/A%20-%20Vasya%20and%20Football/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
+| 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
