@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 386 | 27 |
+| 387 | 27 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (112)
+- [greedy](#greedy) (113)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (228)
 - [math](#math) (110)
@@ -36,7 +36,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (42)
-- [strings](#strings) (35)
+- [strings](#strings) (36)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (12)
 
@@ -383,6 +383,7 @@
 | 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 624B | [Making a String](https://codeforces.com/contest/624/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/624/B%20-%20Making%20a%20String/solution.cpp) |
 | 625B | [War of the Corporations](https://codeforces.com/contest/625/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/625/B%20-%20War%20of%20the%20Corporations/solution.cpp) |
+| 628C | [Bear and String Distance](https://codeforces.com/contest/628/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/628/C%20-%20Bear%20and%20String%20Distance/solution.cpp) |
 | 645B | [Mischievous Mess Makers](https://codeforces.com/contest/645/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/B%20-%20Mischievous%20Mess%20Makers/solution.cpp) |
 | 651B | [Beautiful Paintings](https://codeforces.com/contest/651/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/651/B%20-%20Beautiful%20Paintings/solution.cpp) |
 | 659C | [Tanya and Toys](https://codeforces.com/contest/659/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/C%20-%20Tanya%20and%20Toys/solution.cpp) |
@@ -926,6 +927,7 @@
 | 598B | [Queries on a String](https://codeforces.com/contest/598/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/598/B%20-%20Queries%20on%20a%20String/solution.cpp) |
 | 612A | [The Text Splitting](https://codeforces.com/contest/612/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/A%20-%20The%20Text%20Splitting/solution.cpp) |
 | 625B | [War of the Corporations](https://codeforces.com/contest/625/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/625/B%20-%20War%20of%20the%20Corporations/solution.cpp) |
+| 628C | [Bear and String Distance](https://codeforces.com/contest/628/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/628/C%20-%20Bear%20and%20String%20Distance/solution.cpp) |
 | 722B | [Verse Pattern](https://codeforces.com/contest/722/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/B%20-%20Verse%20Pattern/solution.cpp) |
 | 765B | [Code obfuscation](https://codeforces.com/contest/765/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/765/B%20-%20Code%20obfuscation/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
