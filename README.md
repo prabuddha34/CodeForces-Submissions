@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 378 | 27 |
+| 379 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (112)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (222)
+- [implementation](#implementation) (223)
 - [math](#math) (109)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (32)
@@ -578,6 +578,7 @@
 | 579B | [Finding Team Member](https://codeforces.com/contest/579/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/579/B%20-%20Finding%20Team%20Member/solution.cpp) |
 | 581B | [Luxurious Houses](https://codeforces.com/contest/581/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/581/B%20-%20Luxurious%20Houses/solution.cpp) |
 | 583B | [Robot's Task](https://codeforces.com/contest/583/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/583/B%20-%20Robot's%20Task/solution.cpp) |
+| 586B | [Laurenty and Shop](https://codeforces.com/contest/586/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/586/B%20-%20Laurenty%20and%20Shop/solution.cpp) |
 | 591B | [Rebranding](https://codeforces.com/contest/591/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/591/B%20-%20Rebranding/solution.cpp) |
 | 592A | [PawnChess](https://codeforces.com/contest/592/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/592/A%20-%20PawnChess/solution.cpp) |
 | 593A | [2Char](https://codeforces.com/contest/593/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/593/A%20-%202Char/solution.cpp) |
