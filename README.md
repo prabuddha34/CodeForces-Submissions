@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 355 | 26 |
+| 356 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (103)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (205)
+- [implementation](#implementation) (206)
 - [math](#math) (103)
 - [number theory](#number-theory) (29)
 - [probabilities](#probabilities) (1)
@@ -515,6 +515,7 @@
 | 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 | 400B | [Inna and New Matrix of Candies](https://codeforces.com/contest/400/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/400/B%20-%20Inna%20and%20New%20Matrix%20of%20Candies/solution.cpp) |
 | 413A | [Data Recovery](https://codeforces.com/contest/413/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/413/A%20-%20Data%20Recovery/solution.cpp) |
+| 413B | [Spyke Chatting](https://codeforces.com/contest/413/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/413/B%20-%20Spyke%20Chatting/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 431B | [Shower Line](https://codeforces.com/contest/431/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/431/B%20-%20Shower%20Line/solution.cpp) |
