@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 393 | 27 |
+| 394 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (77)
+- [brute force](#brute-force) (78)
 - [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (52)
 - [data structures](#data-structures) (11)
@@ -151,6 +151,7 @@
 | 633B | [A Trivial Problem](https://codeforces.com/contest/633/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/B%20-%20A%20Trivial%20Problem/solution.cpp) |
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
 | 645A | [Amity Assessment](https://codeforces.com/contest/645/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/A%20-%20Amity%20Assessment/solution.cpp) |
+| 681B | [Economy Game](https://codeforces.com/contest/681/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/681/B%20-%20Economy%20Game/solution.cpp) |
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
 | 779B | [Weird Rounding](https://codeforces.com/contest/779/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/B%20-%20Weird%20Rounding/solution.cpp) |
