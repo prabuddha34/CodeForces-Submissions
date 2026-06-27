@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 349 | 26 |
+| 350 | 26 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (70)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (45)
+- [constructive algorithms](#constructive-algorithms) (46)
 - [data structures](#data-structures) (11)
 - [dp](#dp) (5)
 - [dsu](#dsu) (1)
@@ -28,13 +28,13 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (103)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (200)
+- [implementation](#implementation) (201)
 - [math](#math) (102)
 - [number theory](#number-theory) (28)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (36)
+- [sortings](#sortings) (37)
 - [strings](#strings) (32)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (12)
@@ -188,6 +188,7 @@
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
 | 303A | [Lucky Permutation Triple](https://codeforces.com/contest/303/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/303/A%20-%20Lucky%20Permutation%20Triple/solution.cpp) |
 | 330B | [Road Construction](https://codeforces.com/contest/330/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/330/B%20-%20Road%20Construction/solution.cpp) |
+| 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 379B | [New Year Present](https://codeforces.com/contest/379/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/B%20-%20New%20Year%20Present/solution.cpp) |
@@ -493,6 +494,7 @@
 | 318B | [Strings of Power](https://codeforces.com/contest/318/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/318/B%20-%20Strings%20of%20Power/solution.cpp) |
 | 332A | [Down the Hatch!](https://codeforces.com/contest/332/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/A%20-%20Down%20the%20Hatch!/solution.cpp) |
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.cpp) |
+| 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
@@ -791,6 +793,7 @@
 | 242B | [Big Segment](https://codeforces.com/contest/242/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/B%20-%20Big%20Segment/solution.cpp) |
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 285C | [Building Permutation](https://codeforces.com/contest/285/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/C%20-%20Building%20Permutation/solution.cpp) |
+| 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
 | 362B | [Petya and Staircases](https://codeforces.com/contest/362/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/362/B%20-%20Petya%20and%20Staircases/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 439B | [Devu, the Dumb Guy](https://codeforces.com/contest/439/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/439/B%20-%20Devu%2C%20the%20Dumb%20Guy/solution.cpp) |
