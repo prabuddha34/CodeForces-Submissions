@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 371 | 27 |
+| 372 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (72)
+- [brute force](#brute-force) (73)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (48)
 - [data structures](#data-structures) (11)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (110)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (215)
+- [implementation](#implementation) (216)
 - [math](#math) (107)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (31)
@@ -135,6 +135,7 @@
 | 488A | [Giga Tower](https://codeforces.com/contest/488/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/488/A%20-%20Giga%20Tower/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 515B | [Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/B%20-%20Drazil%20and%20His%20Happy%20Friends/solution.cpp) |
+| 526A | [King of Thieves](https://codeforces.com/contest/526/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/526/A%20-%20King%20of%20Thieves/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
@@ -553,6 +554,7 @@
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
 | 519C | [A and B and Team Training](https://codeforces.com/contest/519/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/519/C%20-%20A%20and%20B%20and%20Team%20Training/solution.cpp) |
+| 526A | [King of Thieves](https://codeforces.com/contest/526/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/526/A%20-%20King%20of%20Thieves/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
