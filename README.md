@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 364 | 26 |
+| 365 | 26 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (70)
+- [brute force](#brute-force) (71)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (47)
 - [data structures](#data-structures) (11)
@@ -26,7 +26,7 @@
 - [games](#games) (7)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (105)
+- [greedy](#greedy) (106)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (211)
 - [math](#math) (105)
@@ -130,6 +130,7 @@
 | 431B | [Shower Line](https://codeforces.com/contest/431/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/431/B%20-%20Shower%20Line/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
+| 485B | [Valuable Resources](https://codeforces.com/contest/485/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/485/B%20-%20Valuable%20Resources/solution.cpp) |
 | 488A | [Giga Tower](https://codeforces.com/contest/488/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/488/A%20-%20Giga%20Tower/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
@@ -351,6 +352,7 @@
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
 | 462B | [Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/462/B%20-%20Appleman%20and%20Card%20Game/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
+| 485B | [Valuable Resources](https://codeforces.com/contest/485/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/485/B%20-%20Valuable%20Resources/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 545B | [Equidistant String](https://codeforces.com/contest/545/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/B%20-%20Equidistant%20String/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
