@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 360 | 26 |
+| 361 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (104)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (209)
+- [implementation](#implementation) (210)
 - [math](#math) (104)
 - [number theory](#number-theory) (29)
 - [probabilities](#probabilities) (1)
@@ -527,6 +527,7 @@
 | 450B | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/450/B%20-%20Jzzhu%20and%20Sequences/solution.cpp) |
 | 454B | [Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/454/B%20-%20Little%20Pony%20and%20Sort%20by%20Shift/solution.cpp) |
 | 459A | [Pashmak and Garden](https://codeforces.com/contest/459/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/459/A%20-%20Pashmak%20and%20Garden/solution.cpp) |
+| 469B | [Chat Online](https://codeforces.com/contest/469/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/469/B%20-%20Chat%20Online/solution.cpp) |
 | 471A | [MUH and Sticks](https://codeforces.com/contest/471/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/471/A%20-%20MUH%20and%20Sticks/solution.cpp) |
 | 475A | [Bayan Bus](https://codeforces.com/contest/475/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/475/A%20-%20Bayan%20Bus/solution.cpp) |
 | 478A | [Initial Bet](https://codeforces.com/contest/478/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/A%20-%20Initial%20Bet/solution.cpp) |
