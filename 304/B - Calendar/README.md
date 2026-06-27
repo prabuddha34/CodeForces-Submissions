@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/304/problem/B" target="_blank" rel="noopener noreferrer">304B — Calendar</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1300 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 304B](https://codeforces.com/contest/304/problem/B) |
+
+## Topics
+`brute force` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Calendar</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Calendars in widespread use today include the Gregorian calendar, which is the de facto international standard, and is used almost everywhere in the world for civil purposes. The Gregorian reform modified the Julian calendar's scheme of leap years as follows:</p><p><span class="tex-font-style-underline"> Every year that is exactly divisible by four is a leap year, except for years that are exactly divisible by 100; the centurial years that are exactly divisible by 400 are still leap years. For example, the year 1900 is not a leap year; the year 2000 is a leap year. </span></p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/bb4af797d41dde19846947a0459af060538063f8.png" style="max-width: 100.0%;max-height: 100.0%;"> </center><p>In this problem, you have been given two dates and your task is to calculate how many days are between them. Note, that leap years have unusual number of days in February.</p><p>Look at the sample to understand what borders are included in the aswer.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first two lines contain two dates, each date is in the format yyyy:mm:dd (<span class="tex-span">1900 ≤ <i>yyyy</i> ≤ 2038</span> and yyyy:mm:dd is a legal date).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single integer — the answer to the problem.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00018948949813623495" id="id007802544680256805" class="input-output-copier">Copy</div></div><pre id="id00018948949813623495">1900:01:01<br>2038:12:31<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0019706886282393887" id="id004079765073129342" class="input-output-copier">Copy</div></div><pre id="id0019706886282393887">50768<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0031108199354842114" id="id0009862349096621759" class="input-output-copier">Copy</div></div><pre id="id0031108199354842114">1996:03:09<br>1991:11:12<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006309152730232424" id="id006695159839706825" class="input-output-copier">Copy</div></div><pre id="id006309152730232424">1579<br></pre></div></div></div>
