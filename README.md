@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 392 | 27 |
+| 393 | 27 |
 
 ---
 
@@ -26,9 +26,9 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (113)
+- [greedy](#greedy) (114)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (229)
+- [implementation](#implementation) (230)
 - [math](#math) (113)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
@@ -392,6 +392,7 @@
 | 651B | [Beautiful Paintings](https://codeforces.com/contest/651/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/651/B%20-%20Beautiful%20Paintings/solution.cpp) |
 | 659C | [Tanya and Toys](https://codeforces.com/contest/659/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/C%20-%20Tanya%20and%20Toys/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
+| 673B | [Problems for Round](https://codeforces.com/contest/673/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/673/B%20-%20Problems%20for%20Round/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 743A | [Vladik and flights](https://codeforces.com/contest/743/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/743/A%20-%20Vladik%20and%20flights/solution.cpp) |
 | 754A | [Lesha and array splitting](https://codeforces.com/contest/754/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/754/A%20-%20Lesha%20and%20array%20splitting/solution.cpp) |
@@ -610,6 +611,7 @@
 | 659C | [Tanya and Toys](https://codeforces.com/contest/659/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/C%20-%20Tanya%20and%20Toys/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
 | 670C | [Cinema](https://codeforces.com/contest/670/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/C%20-%20Cinema/solution.cpp) |
+| 673B | [Problems for Round](https://codeforces.com/contest/673/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/673/B%20-%20Problems%20for%20Round/solution.cpp) |
 | 714B | [Filya and Homework](https://codeforces.com/contest/714/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/714/B%20-%20Filya%20and%20Homework/solution.cpp) |
 | 717C | [Potions Homework](https://codeforces.com/contest/717/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/717/C%20-%20Potions%20Homework/solution.cpp) |
 | 722B | [Verse Pattern](https://codeforces.com/contest/722/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/B%20-%20Verse%20Pattern/solution.cpp) |
