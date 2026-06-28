@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 420 | 27 |
+| 421 | 27 |
 
 ---
 
@@ -29,9 +29,9 @@
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (244)
-- [math](#math) (118)
+- [math](#math) (119)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
-- [number theory](#number-theory) (34)
+- [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -824,6 +824,7 @@
 | 1133B | [Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/B%20-%20Preparation%20for%20International%20Women's%20Day/solution.cpp) |
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
 | 1154B | [Make Them Equal](https://codeforces.com/contest/1154/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1154/B%20-%20Make%20Them%20Equal/solution.cpp) |
+| 1155C | [Alarm Clocks Everywhere](https://codeforces.com/contest/1155/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1155/C%20-%20Alarm%20Clocks%20Everywhere/solution.cpp) |
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
 | 1196B | [Odd Sum Segments](https://codeforces.com/contest/1196/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1196/B%20-%20Odd%20Sum%20Segments/solution.cpp) |
 | 1203B | [Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/B%20-%20Equal%20Rectangles/solution.cpp) |
@@ -889,6 +890,7 @@
 | 1113B | [Sasha and Magnetic Machines](https://codeforces.com/contest/1113/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1113/B%20-%20Sasha%20and%20Magnetic%20Machines/solution.cpp) |
 | 1133B | [Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/B%20-%20Preparation%20for%20International%20Women's%20Day/solution.cpp) |
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
+| 1155C | [Alarm Clocks Everywhere](https://codeforces.com/contest/1155/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1155/C%20-%20Alarm%20Clocks%20Everywhere/solution.cpp) |
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
 | 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
