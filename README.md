@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 409 | 27 |
+| 410 | 27 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (84)
 - [combinatorics](#combinatorics) (7)
-- [constructive algorithms](#constructive-algorithms) (54)
+- [constructive algorithms](#constructive-algorithms) (55)
 - [data structures](#data-structures) (11)
 - [dp](#dp) (5)
 - [dsu](#dsu) (2)
@@ -26,10 +26,10 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (117)
+- [greedy](#greedy) (118)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (240)
-- [math](#math) (115)
+- [math](#math) (116)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (1)
@@ -239,6 +239,7 @@
 | 989B | [A Tide of Riverscape](https://codeforces.com/contest/989/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/989/B%20-%20A%20Tide%20of%20Riverscape/solution.cpp) |
 | 1003B | [Binary String Constructing](https://codeforces.com/contest/1003/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/B%20-%20Binary%20String%20Constructing/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
+| 1037A | [Packets](https://codeforces.com/contest/1037/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1037/A%20-%20Packets/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1099C | [Postcard](https://codeforces.com/contest/1099/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/C%20-%20Postcard/solution.cpp) |
 | 1153B | [Serval and Toy Bricks](https://codeforces.com/contest/1153/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1153/B%20-%20Serval%20and%20Toy%20Bricks/solution.cpp) |
@@ -428,6 +429,7 @@
 | 1005C | [Summarize to the Power of Two](https://codeforces.com/contest/1005/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1005/C%20-%20Summarize%20to%20the%20Power%20of%20Two/solution.cpp) |
 | 1006B | [Polycarp's Practice](https://codeforces.com/contest/1006/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/B%20-%20Polycarp's%20Practice/solution.cpp) |
 | 1013B | [And](https://codeforces.com/contest/1013/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1013/B%20-%20And/solution.cpp) |
+| 1037A | [Packets](https://codeforces.com/contest/1037/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1037/A%20-%20Packets/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
 | 1060B | [Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1060/B%20-%20Maximum%20Sum%20of%20Digits/solution.cpp) |
 | 1076A | [Minimizing the String](https://codeforces.com/contest/1076/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/A%20-%20Minimizing%20the%20String/solution.cpp) |
@@ -792,6 +794,7 @@
 | 1017B | [The Bits](https://codeforces.com/contest/1017/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1017/B%20-%20The%20Bits/solution.cpp) |
 | 1027B | [Numbers on the Chessboard](https://codeforces.com/contest/1027/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1027/B%20-%20Numbers%20on%20the%20Chessboard/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
+| 1037A | [Packets](https://codeforces.com/contest/1037/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1037/A%20-%20Packets/solution.cpp) |
 | 1064B | [Equations of Mathematical Magic](https://codeforces.com/contest/1064/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1064/B%20-%20Equations%20of%20Mathematical%20Magic/solution.cpp) |
 | 1066A | [Vova and Train](https://codeforces.com/contest/1066/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1066/A%20-%20Vova%20and%20Train/solution.cpp) |
 | 1068B | [LCM](https://codeforces.com/contest/1068/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1068/B%20-%20LCM/solution.cpp) |
