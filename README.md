@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 427 | 27 |
+| 428 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (128)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (245)
+- [implementation](#implementation) (246)
 - [math](#math) (120)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (35)
@@ -722,6 +722,7 @@
 | 1140B | [Good String](https://codeforces.com/contest/1140/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1140/B%20-%20Good%20String/solution.cpp) |
 | 1187B | [Letters Shop](https://codeforces.com/contest/1187/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1187/B%20-%20Letters%20Shop/solution.cpp) |
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
+| 1194B | [Yet Another Crosses Problem](https://codeforces.com/contest/1194/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1194/B%20-%20Yet%20Another%20Crosses%20Problem/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
 | 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.cpp) |
