@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 400 | 27 |
+| 401 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (115)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (232)
+- [implementation](#implementation) (233)
 - [math](#math) (113)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
@@ -654,6 +654,7 @@
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
 | 913B | [Christmas Spruce](https://codeforces.com/contest/913/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/913/B%20-%20Christmas%20Spruce/solution.cpp) |
 | 914B | [Conan and Agasa play a Card Game](https://codeforces.com/contest/914/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/914/B%20-%20Conan%20and%20Agasa%20play%20a%20Card%20Game/solution.cpp) |
+| 915B | [Browser](https://codeforces.com/contest/915/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/915/B%20-%20Browser/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 920B | [Tea Queue](https://codeforces.com/contest/920/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/920/B%20-%20Tea%20Queue/solution.cpp) |
 | 931B | [World Cup](https://codeforces.com/contest/931/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/931/B%20-%20World%20Cup/solution.cpp) |
