@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 412 | 27 |
+| 413 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (120)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (240)
+- [implementation](#implementation) (241)
 - [math](#math) (116)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
@@ -689,6 +689,7 @@
 | 1030C | [Vasya and Golden Ticket](https://codeforces.com/contest/1030/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/C%20-%20Vasya%20and%20Golden%20Ticket/solution.cpp) |
 | 1043B | [Lost Array](https://codeforces.com/contest/1043/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1043/B%20-%20Lost%20Array/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
+| 1059B | [Forgery](https://codeforces.com/contest/1059/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1059/B%20-%20Forgery/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
 | 1075B | [Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1075/B%20-%20Taxi%20drivers%20and%20Lyft/solution.cpp) |
 | 1076B | [Divisor Subtraction](https://codeforces.com/contest/1076/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/B%20-%20Divisor%20Subtraction/solution.cpp) |
