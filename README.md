@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 428 | 27 |
+| 429 | 27 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (128)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (246)
-- [math](#math) (120)
+- [implementation](#implementation) (247)
+- [math](#math) (121)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (1)
@@ -723,6 +723,7 @@
 | 1187B | [Letters Shop](https://codeforces.com/contest/1187/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1187/B%20-%20Letters%20Shop/solution.cpp) |
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
 | 1194B | [Yet Another Crosses Problem](https://codeforces.com/contest/1194/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1194/B%20-%20Yet%20Another%20Crosses%20Problem/solution.cpp) |
+| 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
 | 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.cpp) |
@@ -838,6 +839,7 @@
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
 | 1196B | [Odd Sum Segments](https://codeforces.com/contest/1196/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1196/B%20-%20Odd%20Sum%20Segments/solution.cpp) |
 | 1203B | [Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/B%20-%20Equal%20Rectangles/solution.cpp) |
+| 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1213C | [Book Reading](https://codeforces.com/contest/1213/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1213/C%20-%20Book%20Reading/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1371B | [Magical Calendar](https://codeforces.com/contest/1371/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/B%20-%20Magical%20Calendar/solution.cpp) |
