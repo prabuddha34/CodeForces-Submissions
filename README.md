@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 408 | 27 |
+| 409 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (117)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (239)
+- [implementation](#implementation) (240)
 - [math](#math) (115)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
@@ -682,6 +682,7 @@
 | 1023A | [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1023/A%20-%20Single%20Wildcard%20Pattern%20Matching/solution.cpp) |
 | 1027B | [Numbers on the Chessboard](https://codeforces.com/contest/1027/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1027/B%20-%20Numbers%20on%20the%20Chessboard/solution.cpp) |
 | 1029A | [Many Equal Substrings](https://codeforces.com/contest/1029/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1029/A%20-%20Many%20Equal%20Substrings/solution.cpp) |
+| 1030C | [Vasya and Golden Ticket](https://codeforces.com/contest/1030/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/C%20-%20Vasya%20and%20Golden%20Ticket/solution.cpp) |
 | 1043B | [Lost Array](https://codeforces.com/contest/1043/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1043/B%20-%20Lost%20Array/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
