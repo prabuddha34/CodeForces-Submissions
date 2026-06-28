@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 415 | 27 |
+| 416 | 27 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (8)
 - [Uncategorized](#uncategorized) (7)
-- [binary search](#binary-search) (17)
+- [binary search](#binary-search) (18)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (84)
 - [combinatorics](#combinatorics) (7)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (121)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (242)
-- [math](#math) (116)
+- [math](#math) (117)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (1)
@@ -82,6 +82,7 @@
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
+| 1076C | [Meme Problem](https://codeforces.com/contest/1076/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/C%20-%20Meme%20Problem/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
@@ -805,6 +806,7 @@
 | 1066A | [Vova and Train](https://codeforces.com/contest/1066/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1066/A%20-%20Vova%20and%20Train/solution.cpp) |
 | 1068B | [LCM](https://codeforces.com/contest/1068/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1068/B%20-%20LCM/solution.cpp) |
 | 1076B | [Divisor Subtraction](https://codeforces.com/contest/1076/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/B%20-%20Divisor%20Subtraction/solution.cpp) |
+| 1076C | [Meme Problem](https://codeforces.com/contest/1076/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/C%20-%20Meme%20Problem/solution.cpp) |
 | 1082A | [Vasya and Book](https://codeforces.com/contest/1082/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1082/A%20-%20Vasya%20and%20Book/solution.cpp) |
 | 1085B | [Div Times Mod](https://codeforces.com/contest/1085/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1085/B%20-%20Div%20Times%20Mod/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
