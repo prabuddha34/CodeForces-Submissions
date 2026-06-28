@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 423 | 27 |
+| 424 | 27 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (126)
+- [greedy](#greedy) (127)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (244)
 - [math](#math) (119)
@@ -450,6 +450,7 @@
 | 1153B | [Serval and Toy Bricks](https://codeforces.com/contest/1153/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1153/B%20-%20Serval%20and%20Toy%20Bricks/solution.cpp) |
 | 1157B | [Long Number](https://codeforces.com/contest/1157/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1157/B%20-%20Long%20Number/solution.cpp) |
 | 1157C1 | [Increasing Subsequence (easy version)](https://codeforces.com/contest/1157/problem/C1) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1157/C1%20-%20Increasing%20Subsequence%20(easy%20version)/solution.cpp) |
+| 1165C | [Good String](https://codeforces.com/contest/1165/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1165/C%20-%20Good%20String/solution.cpp) |
 | 1203B | [Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/B%20-%20Equal%20Rectangles/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
