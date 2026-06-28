@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 414 | 27 |
+| 415 | 27 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (84)
 - [combinatorics](#combinatorics) (7)
-- [constructive algorithms](#constructive-algorithms) (55)
+- [constructive algorithms](#constructive-algorithms) (56)
 - [data structures](#data-structures) (11)
 - [dp](#dp) (5)
 - [dsu](#dsu) (2)
@@ -36,7 +36,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (45)
-- [strings](#strings) (37)
+- [strings](#strings) (38)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (13)
 
@@ -240,6 +240,7 @@
 | 1003B | [Binary String Constructing](https://codeforces.com/contest/1003/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/B%20-%20Binary%20String%20Constructing/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
 | 1037A | [Packets](https://codeforces.com/contest/1037/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1037/A%20-%20Packets/solution.cpp) |
+| 1063A | [Oh Those Palindromes](https://codeforces.com/contest/1063/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1063/A%20-%20Oh%20Those%20Palindromes/solution.cpp) |
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1099C | [Postcard](https://codeforces.com/contest/1099/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/C%20-%20Postcard/solution.cpp) |
 | 1153B | [Serval and Toy Bricks](https://codeforces.com/contest/1153/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1153/B%20-%20Serval%20and%20Toy%20Bricks/solution.cpp) |
@@ -985,6 +986,7 @@
 | 1023A | [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1023/A%20-%20Single%20Wildcard%20Pattern%20Matching/solution.cpp) |
 | 1029A | [Many Equal Substrings](https://codeforces.com/contest/1029/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1029/A%20-%20Many%20Equal%20Substrings/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
+| 1063A | [Oh Those Palindromes](https://codeforces.com/contest/1063/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1063/A%20-%20Oh%20Those%20Palindromes/solution.cpp) |
 | 1076A | [Minimizing the String](https://codeforces.com/contest/1076/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/A%20-%20Minimizing%20the%20String/solution.cpp) |
 | 1140B | [Good String](https://codeforces.com/contest/1140/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1140/B%20-%20Good%20String/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
