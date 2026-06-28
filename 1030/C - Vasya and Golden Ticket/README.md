@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/1030/problem/C" target="_blank" rel="noopener noreferrer">1030C — Vasya and Golden Ticket</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1300 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1030C](https://codeforces.com/contest/1030/problem/C) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Vasya and Golden Ticket</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Recently Vasya found a golden ticket — a sequence which consists of $$$n$$$ digits $$$a_1a_2\dots a_n$$$. Vasya considers a ticket to be lucky if it can be divided into two or more non-intersecting segments with equal sums. For example, ticket $$$350178$$$ is lucky since it can be divided into three segments $$$350$$$, $$$17$$$ and $$$8$$$: $$$3+5+0=1+7=8$$$. Note that each digit of sequence should belong to <span class="tex-font-style-bf">exactly</span> one segment.</p><p>Help Vasya! Tell him if the golden ticket he found is lucky or not.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$n$$$ ($$$2 \le n \le 100$$$) — the number of digits in the ticket.</p><p>The second line contains $$$n$$$ digits $$$a_1 a_2 \dots a_n$$$ ($$$0 \le a_i \le 9$$$) — the golden ticket. Digits are printed without spaces.</p></div><div class="output-specification"><div class="section-title">Output</div><p>If the golden ticket is lucky then print "<span class="tex-font-style-tt">YES</span>", otherwise print "<span class="tex-font-style-tt">NO</span>" (both case insensitive).</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0023697588825884275" id="id00102981661250523" class="input-output-copier">Copy</div></div><pre id="id0023697588825884275">5<br>73452<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007458714106086184" id="id0046589370790789375" class="input-output-copier">Copy</div></div><pre id="id007458714106086184">YES<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0034254078641927854" id="id006894026622475149" class="input-output-copier">Copy</div></div><pre id="id0034254078641927854">4<br>1248<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008445673583177291" id="id003906115532409825" class="input-output-copier">Copy</div></div><pre id="id008445673583177291">NO<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example the ticket can be divided into $$$7$$$, $$$34$$$ and $$$52$$$: $$$7=3+4=5+2$$$.</p><p>In the second example it is impossible to divide ticket into segments with equal sum.</p></div>
