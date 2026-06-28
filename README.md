@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 419 | 27 |
+| 420 | 27 |
 
 ---
 
@@ -26,12 +26,12 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (123)
+- [greedy](#greedy) (124)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (244)
 - [math](#math) (118)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
-- [number theory](#number-theory) (33)
+- [number theory](#number-theory) (34)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -443,6 +443,7 @@
 | 1084B | [Kvass and the Fair Nut](https://codeforces.com/contest/1084/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1084/B%20-%20Kvass%20and%20the%20Fair%20Nut/solution.cpp) |
 | 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
 | 1108C | [Nice Garland](https://codeforces.com/contest/1108/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1108/C%20-%20Nice%20Garland/solution.cpp) |
+| 1113B | [Sasha and Magnetic Machines](https://codeforces.com/contest/1113/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1113/B%20-%20Sasha%20and%20Magnetic%20Machines/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
 | 1130B | [Two Cakes](https://codeforces.com/contest/1130/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1130/B%20-%20Two%20Cakes/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
@@ -885,6 +886,7 @@
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1068B | [LCM](https://codeforces.com/contest/1068/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1068/B%20-%20LCM/solution.cpp) |
 | 1076B | [Divisor Subtraction](https://codeforces.com/contest/1076/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/B%20-%20Divisor%20Subtraction/solution.cpp) |
+| 1113B | [Sasha and Magnetic Machines](https://codeforces.com/contest/1113/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1113/B%20-%20Sasha%20and%20Magnetic%20Machines/solution.cpp) |
 | 1133B | [Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/B%20-%20Preparation%20for%20International%20Women's%20Day/solution.cpp) |
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
