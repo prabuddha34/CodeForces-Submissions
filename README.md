@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 403 | 27 |
+| 404 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (81)
+- [brute force](#brute-force) (82)
 - [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (53)
 - [data structures](#data-structures) (11)
@@ -28,8 +28,8 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (115)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (234)
-- [math](#math) (113)
+- [implementation](#implementation) (235)
+- [math](#math) (114)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (1)
@@ -171,6 +171,7 @@
 | 919C | [Seat Arrangements](https://codeforces.com/contest/919/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/C%20-%20Seat%20Arrangements/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/982/A%20-%20Row/solution.cpp) |
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1023A | [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1023/A%20-%20Single%20Wildcard%20Pattern%20Matching/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1121B | [Mike and Children](https://codeforces.com/contest/1121/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1121/B%20-%20Mike%20and%20Children/solution.cpp) |
@@ -666,6 +667,7 @@
 | 985B | [Switches and Lamps](https://codeforces.com/contest/985/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/985/B%20-%20Switches%20and%20Lamps/solution.cpp) |
 | 999C | [Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/999/C%20-%20Alphabetic%20Removals/solution.cpp) |
 | 1000A | [Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1000/A%20-%20Codehorses%20T-shirts/solution.cpp) |
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1006B | [Polycarp's Practice](https://codeforces.com/contest/1006/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/B%20-%20Polycarp's%20Practice/solution.cpp) |
 | 1015B | [Obtaining the String](https://codeforces.com/contest/1015/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1015/B%20-%20Obtaining%20the%20String/solution.cpp) |
 | 1017B | [The Bits](https://codeforces.com/contest/1017/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1017/B%20-%20The%20Bits/solution.cpp) |
@@ -775,6 +777,7 @@
 | 883M | [Quadcopter Competition](https://codeforces.com/contest/883/problem/M) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/883/M%20-%20Quadcopter%20Competition/solution.cpp) |
 | 946B | [Weird Subtraction Process](https://codeforces.com/contest/946/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/946/B%20-%20Weird%20Subtraction%20Process/solution.cpp) |
 | 987B | [High School: Become Human](https://codeforces.com/contest/987/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/B%20-%20High%20School%3A%20Become%20Human/solution.cpp) |
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1017B | [The Bits](https://codeforces.com/contest/1017/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1017/B%20-%20The%20Bits/solution.cpp) |
 | 1027B | [Numbers on the Chessboard](https://codeforces.com/contest/1027/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1027/B%20-%20Numbers%20on%20the%20Chessboard/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
