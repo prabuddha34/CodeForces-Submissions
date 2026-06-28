@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 418 | 27 |
+| 419 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (18)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (84)
+- [brute force](#brute-force) (85)
 - [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (56)
 - [data structures](#data-structures) (12)
@@ -26,10 +26,10 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (122)
+- [greedy](#greedy) (123)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (244)
-- [math](#math) (117)
+- [math](#math) (118)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (1)
@@ -177,6 +177,7 @@
 | 1016B | [Segment Occurrences](https://codeforces.com/contest/1016/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1016/B%20-%20Segment%20Occurrences/solution.cpp) |
 | 1023A | [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1023/A%20-%20Single%20Wildcard%20Pattern%20Matching/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
+| 1108C | [Nice Garland](https://codeforces.com/contest/1108/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1108/C%20-%20Nice%20Garland/solution.cpp) |
 | 1121B | [Mike and Children](https://codeforces.com/contest/1121/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1121/B%20-%20Mike%20and%20Children/solution.cpp) |
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
@@ -441,6 +442,7 @@
 | 1076A | [Minimizing the String](https://codeforces.com/contest/1076/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/A%20-%20Minimizing%20the%20String/solution.cpp) |
 | 1084B | [Kvass and the Fair Nut](https://codeforces.com/contest/1084/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1084/B%20-%20Kvass%20and%20the%20Fair%20Nut/solution.cpp) |
 | 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
+| 1108C | [Nice Garland](https://codeforces.com/contest/1108/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1108/C%20-%20Nice%20Garland/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
 | 1130B | [Two Cakes](https://codeforces.com/contest/1130/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1130/B%20-%20Two%20Cakes/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
@@ -816,6 +818,7 @@
 | 1099B | [Squares and Segments](https://codeforces.com/contest/1099/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/B%20-%20Squares%20and%20Segments/solution.cpp) |
 | 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 | 1104B | [Game with string](https://codeforces.com/contest/1104/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1104/B%20-%20Game%20with%20string/solution.cpp) |
+| 1108C | [Nice Garland](https://codeforces.com/contest/1108/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1108/C%20-%20Nice%20Garland/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1133B | [Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/B%20-%20Preparation%20for%20International%20Women's%20Day/solution.cpp) |
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
