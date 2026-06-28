@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 425 | 27 |
+| 426 | 27 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (18)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (85)
-- [combinatorics](#combinatorics) (7)
+- [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (56)
 - [data structures](#data-structures) (12)
 - [dp](#dp) (6)
@@ -26,10 +26,10 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (127)
+- [greedy](#greedy) (128)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (244)
-- [math](#math) (119)
+- [math](#math) (120)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (1)
@@ -199,6 +199,7 @@
 | 617B | [Chocolate](https://codeforces.com/contest/617/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/617/B%20-%20Chocolate/solution.cpp) |
 | 621B | [Wet Shark and Bishops](https://codeforces.com/contest/621/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/621/B%20-%20Wet%20Shark%20and%20Bishops/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
+| 1178C | [Tiles](https://codeforces.com/contest/1178/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/C%20-%20Tiles/solution.cpp) |
 | 1574B | [Combinatorics Homework](https://codeforces.com/contest/1574/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1574/B%20-%20Combinatorics%20Homework/solution.cpp) |
 
 ### constructive algorithms
@@ -452,6 +453,7 @@
 | 1157B | [Long Number](https://codeforces.com/contest/1157/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1157/B%20-%20Long%20Number/solution.cpp) |
 | 1157C1 | [Increasing Subsequence (easy version)](https://codeforces.com/contest/1157/problem/C1) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1157/C1%20-%20Increasing%20Subsequence%20(easy%20version)/solution.cpp) |
 | 1165C | [Good String](https://codeforces.com/contest/1165/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1165/C%20-%20Good%20String/solution.cpp) |
+| 1178C | [Tiles](https://codeforces.com/contest/1178/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/C%20-%20Tiles/solution.cpp) |
 | 1203B | [Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/B%20-%20Equal%20Rectangles/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
@@ -829,6 +831,7 @@
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
 | 1154B | [Make Them Equal](https://codeforces.com/contest/1154/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1154/B%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1155C | [Alarm Clocks Everywhere](https://codeforces.com/contest/1155/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1155/C%20-%20Alarm%20Clocks%20Everywhere/solution.cpp) |
+| 1178C | [Tiles](https://codeforces.com/contest/1178/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/C%20-%20Tiles/solution.cpp) |
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
 | 1196B | [Odd Sum Segments](https://codeforces.com/contest/1196/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1196/B%20-%20Odd%20Sum%20Segments/solution.cpp) |
 | 1203B | [Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/B%20-%20Equal%20Rectangles/solution.cpp) |
