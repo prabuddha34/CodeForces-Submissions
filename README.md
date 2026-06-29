@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 430 | 27 |
+| 431 | 27 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (128)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (248)
-- [math](#math) (122)
+- [math](#math) (123)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
@@ -843,6 +843,7 @@
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1209B | [Koala and Lights](https://codeforces.com/contest/1209/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1209/B%20-%20Koala%20and%20Lights/solution.cpp) |
 | 1213C | [Book Reading](https://codeforces.com/contest/1213/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1213/C%20-%20Book%20Reading/solution.cpp) |
+| 1216D | [Swords](https://codeforces.com/contest/1216/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1216/D%20-%20Swords/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1371B | [Magical Calendar](https://codeforces.com/contest/1371/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/B%20-%20Magical%20Calendar/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
