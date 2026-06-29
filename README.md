@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 431 | 27 |
+| 432 | 27 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (8)
 - [Uncategorized](#uncategorized) (7)
-- [binary search](#binary-search) (19)
+- [binary search](#binary-search) (20)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (85)
 - [combinatorics](#combinatorics) (8)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (128)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (248)
-- [math](#math) (123)
+- [math](#math) (124)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
@@ -87,6 +87,7 @@
 | 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1187B | [Letters Shop](https://codeforces.com/contest/1187/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1187/B%20-%20Letters%20Shop/solution.cpp) |
+| 1217A | [Creating a Character](https://codeforces.com/contest/1217/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1217/A%20-%20Creating%20a%20Character/solution.cpp) |
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
@@ -844,6 +845,7 @@
 | 1209B | [Koala and Lights](https://codeforces.com/contest/1209/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1209/B%20-%20Koala%20and%20Lights/solution.cpp) |
 | 1213C | [Book Reading](https://codeforces.com/contest/1213/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1213/C%20-%20Book%20Reading/solution.cpp) |
 | 1216D | [Swords](https://codeforces.com/contest/1216/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1216/D%20-%20Swords/solution.cpp) |
+| 1217A | [Creating a Character](https://codeforces.com/contest/1217/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1217/A%20-%20Creating%20a%20Character/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1371B | [Magical Calendar](https://codeforces.com/contest/1371/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/B%20-%20Magical%20Calendar/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
