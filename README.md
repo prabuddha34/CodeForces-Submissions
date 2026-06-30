@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 432 | 27 |
+| 433 | 27 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (85)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (56)
+- [constructive algorithms](#constructive-algorithms) (57)
 - [data structures](#data-structures) (12)
 - [dp](#dp) (6)
 - [dsu](#dsu) (2)
@@ -26,10 +26,10 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (128)
+- [greedy](#greedy) (129)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (248)
-- [math](#math) (124)
+- [math](#math) (125)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
@@ -250,6 +250,7 @@
 | 1099C | [Postcard](https://codeforces.com/contest/1099/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/C%20-%20Postcard/solution.cpp) |
 | 1153B | [Serval and Toy Bricks](https://codeforces.com/contest/1153/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1153/B%20-%20Serval%20and%20Toy%20Bricks/solution.cpp) |
 | 1196B | [Odd Sum Segments](https://codeforces.com/contest/1196/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1196/B%20-%20Odd%20Sum%20Segments/solution.cpp) |
+| 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.cpp) |
 | 1375B | [Neighbor Grid](https://codeforces.com/contest/1375/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1375/B%20-%20Neighbor%20Grid/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
@@ -458,6 +459,7 @@
 | 1178C | [Tiles](https://codeforces.com/contest/1178/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/C%20-%20Tiles/solution.cpp) |
 | 1203B | [Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/B%20-%20Equal%20Rectangles/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
+| 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
 | 1375B | [Neighbor Grid](https://codeforces.com/contest/1375/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1375/B%20-%20Neighbor%20Grid/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
@@ -847,6 +849,7 @@
 | 1216D | [Swords](https://codeforces.com/contest/1216/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1216/D%20-%20Swords/solution.cpp) |
 | 1217A | [Creating a Character](https://codeforces.com/contest/1217/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1217/A%20-%20Creating%20a%20Character/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
+| 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.cpp) |
 | 1371B | [Magical Calendar](https://codeforces.com/contest/1371/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/B%20-%20Magical%20Calendar/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
