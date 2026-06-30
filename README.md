@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 439 | 27 |
+| 440 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (8)
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (20)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (87)
@@ -66,6 +66,7 @@
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2240D | [Decidophobia](https://codeforces.com/contest/2240/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2240/D%20-%20Decidophobia/solution.cpp) |
+| 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
 ### binary search
 
