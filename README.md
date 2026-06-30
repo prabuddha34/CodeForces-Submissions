@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 436 | 27 |
+| 437 | 27 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (85)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (57)
-- [data structures](#data-structures) (12)
+- [constructive algorithms](#constructive-algorithms) (58)
+- [data structures](#data-structures) (13)
 - [dp](#dp) (6)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
@@ -36,7 +36,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (45)
-- [strings](#strings) (40)
+- [strings](#strings) (41)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (13)
 
@@ -252,6 +252,7 @@
 | 1196B | [Odd Sum Segments](https://codeforces.com/contest/1196/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1196/B%20-%20Odd%20Sum%20Segments/solution.cpp) |
 | 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.cpp) |
 | 1375B | [Neighbor Grid](https://codeforces.com/contest/1375/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1375/B%20-%20Neighbor%20Grid/solution.cpp) |
+| 1381A1 | [Prefix Flip (Easy Version)](https://codeforces.com/contest/1381/problem/A1) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1381/A1%20-%20Prefix%20Flip%20(Easy%20Version)/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
 | 1437B | [Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1437/B%20-%20Reverse%20Binary%20Strings/solution.cpp) |
@@ -281,6 +282,7 @@
 | 1100B | [Build a Contest](https://codeforces.com/contest/1100/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/B%20-%20Build%20a%20Contest/solution.cpp) |
 | 1104B | [Game with string](https://codeforces.com/contest/1104/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1104/B%20-%20Game%20with%20string/solution.cpp) |
 | 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
+| 1381A1 | [Prefix Flip (Easy Version)](https://codeforces.com/contest/1381/problem/A1) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1381/A1%20-%20Prefix%20Flip%20(Easy%20Version)/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### dp
@@ -1033,6 +1035,7 @@
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.cpp) |
 | 1187B | [Letters Shop](https://codeforces.com/contest/1187/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1187/B%20-%20Letters%20Shop/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
+| 1381A1 | [Prefix Flip (Easy Version)](https://codeforces.com/contest/1381/problem/A1) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1381/A1%20-%20Prefix%20Flip%20(Easy%20Version)/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
 | 1512C | [A-B Palindrome](https://codeforces.com/contest/1512/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1512/C%20-%20A-B%20Palindrome/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
