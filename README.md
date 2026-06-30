@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 435 | 27 |
+| 436 | 27 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (131)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (249)
-- [math](#math) (127)
+- [math](#math) (128)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (37)
 - [probabilities](#probabilities) (1)
@@ -856,6 +856,7 @@
 | 1371B | [Magical Calendar](https://codeforces.com/contest/1371/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/B%20-%20Magical%20Calendar/solution.cpp) |
 | 1371C | [A Cookie for You](https://codeforces.com/contest/1371/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/C%20-%20A%20Cookie%20for%20You/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
+| 1373C | [Pluses and Minuses](https://codeforces.com/contest/1373/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1373/C%20-%20Pluses%20and%20Minuses/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1455B | [Jumps](https://codeforces.com/contest/1455/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/B%20-%20Jumps/solution.cpp) |
