@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 444 | 27 |
+| 445 | 27 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (132)
+- [greedy](#greedy) (133)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (249)
 - [math](#math) (130)
@@ -35,7 +35,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (45)
+- [sortings](#sortings) (46)
 - [strings](#strings) (41)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (13)
@@ -478,6 +478,7 @@
 | 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.cpp) |
 | 1399C | [Boats Competition](https://codeforces.com/contest/1399/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1399/C%20-%20Boats%20Competition/solution.cpp) |
 | 1407B | [Big Vova](https://codeforces.com/contest/1407/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1407/B%20-%20Big%20Vova/solution.cpp) |
+| 1418B | [Negative Prefixes](https://codeforces.com/contest/1418/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1418/B%20-%20Negative%20Prefixes/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
 | 1437B | [Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1437/B%20-%20Reverse%20Binary%20Strings/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
@@ -1001,6 +1002,7 @@
 | 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
 | 1174B | [Ehab Is an Odd Person](https://codeforces.com/contest/1174/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1174/B%20-%20Ehab%20Is%20an%20Odd%20Person/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
+| 1418B | [Negative Prefixes](https://codeforces.com/contest/1418/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1418/B%20-%20Negative%20Prefixes/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
 | 1495A | [Diamond Miner](https://codeforces.com/contest/1495/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1495/A%20-%20Diamond%20Miner/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
