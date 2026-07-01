@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 447 | 27 |
+| 448 | 27 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (87)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (58)
+- [constructive algorithms](#constructive-algorithms) (59)
 - [data structures](#data-structures) (14)
 - [dp](#dp) (6)
 - [dsu](#dsu) (2)
@@ -262,6 +262,7 @@
 | 1381A1 | [Prefix Flip (Easy Version)](https://codeforces.com/contest/1381/problem/A1) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1381/A1%20-%20Prefix%20Flip%20(Easy%20Version)/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
+| 1425H | [Huge Boxes of Animal Toys](https://codeforces.com/contest/1425/problem/H) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1425/H%20-%20Huge%20Boxes%20of%20Animal%20Toys/solution.cpp) |
 | 1437B | [Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1437/B%20-%20Reverse%20Binary%20Strings/solution.cpp) |
 | 1455B | [Jumps](https://codeforces.com/contest/1455/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/B%20-%20Jumps/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
