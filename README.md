@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 456 | 27 |
+| 457 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (22)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (90)
+- [brute force](#brute-force) (91)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (61)
 - [data structures](#data-structures) (15)
@@ -202,6 +202,7 @@
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1493B | [Planet Lapituletti](https://codeforces.com/contest/1493/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1493/B%20-%20Planet%20Lapituletti/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
+| 1555B | [Two Tables](https://codeforces.com/contest/1555/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1555/B%20-%20Two%20Tables/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 
 ### combinatorics
