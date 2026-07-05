@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 463 | 27 |
+| 464 | 27 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (8)
 - [Uncategorized](#uncategorized) (12)
-- [binary search](#binary-search) (22)
+- [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (93)
+- [brute force](#brute-force) (94)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (62)
 - [data structures](#data-structures) (15)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (138)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (255)
-- [math](#math) (137)
+- [math](#math) (138)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (39)
 - [probabilities](#probabilities) (1)
@@ -80,6 +80,7 @@
 | 152B | [Steps](https://codeforces.com/contest/152/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/152/B%20-%20Steps/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
+| 233B | [Non-square Equation](https://codeforces.com/contest/233/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/233/B%20-%20Non-square%20Equation/solution.cpp) |
 | 251A | [Points on Line](https://codeforces.com/contest/251/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/251/A%20-%20Points%20on%20Line/solution.cpp) |
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
@@ -130,6 +131,7 @@
 | 203B | [Game on Paper](https://codeforces.com/contest/203/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/B%20-%20Game%20on%20Paper/solution.cpp) |
 | 205B | [Little Elephant and Sorting](https://codeforces.com/contest/205/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/205/B%20-%20Little%20Elephant%20and%20Sorting/solution.cpp) |
 | 228B | [Two Tables](https://codeforces.com/contest/228/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/228/B%20-%20Two%20Tables/solution.cpp) |
+| 233B | [Non-square Equation](https://codeforces.com/contest/233/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/233/B%20-%20Non-square%20Equation/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
@@ -808,6 +810,7 @@
 | 215B | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/215/B%20-%20Olympic%20Medal/solution.cpp) |
 | 216A | [Tiling with Hexagons](https://codeforces.com/contest/216/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/216/A%20-%20Tiling%20with%20Hexagons/solution.cpp) |
 | 226A | [Flying Saucer Segments](https://codeforces.com/contest/226/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/226/A%20-%20Flying%20Saucer%20Segments/solution.cpp) |
+| 233B | [Non-square Equation](https://codeforces.com/contest/233/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/233/B%20-%20Non-square%20Equation/solution.cpp) |
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
 | 246B | [Increase and Decrease](https://codeforces.com/contest/246/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/246/B%20-%20Increase%20and%20Decrease/solution.cpp) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
