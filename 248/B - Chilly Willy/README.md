@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/248/problem/B" target="_blank" rel="noopener noreferrer">248B — Chilly Willy</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 248B](https://codeforces.com/contest/248/problem/B) |
+
+## Topics
+`math` `number theory`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Chilly Willy</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Chilly Willy loves playing with numbers. He only knows prime numbers that are digits yet. These numbers are <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">5</span> and <span class="tex-span">7</span>. But Willy grew rather bored of such numbers, so he came up with a few games that were connected with them.</p><p>Chilly Willy wants to find the minimum number of length <span class="tex-span"><i>n</i></span>, such that it is simultaneously divisible by all numbers Willy already knows (<span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">5</span> and <span class="tex-span">7</span>). Help him with that.</p><p>A number's length is the number of digits in its decimal representation without leading zeros.</p></div><div class="input-specification"><div class="section-title">Input</div><p>A single input line contains a single integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single integer — the answer to the problem without leading zeroes, or "<span class="tex-font-style-tt">-1</span>" (without the quotes), if the number that meet the problem condition does not exist.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007344917681518396" id="id0013870338056458764" class="input-output-copier">Copy</div></div><pre id="id007344917681518396">1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009131418959438976" id="id0000027956050069744" class="input-output-copier">Copy</div></div><pre id="id009131418959438976">-1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006736862383519533" id="id0004697582201709172" class="input-output-copier">Copy</div></div><pre id="id006736862383519533">5<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006360122061050449" id="id00833574309051273" class="input-output-copier">Copy</div></div><pre id="id006360122061050449">10080</pre></div></div></div>
