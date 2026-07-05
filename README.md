@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 459 | 27 |
+| 460 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (22)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (91)
+- [brute force](#brute-force) (92)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (62)
 - [data structures](#data-structures) (15)
@@ -26,7 +26,7 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (137)
+- [greedy](#greedy) (138)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (253)
 - [math](#math) (136)
@@ -128,6 +128,7 @@
 | 192B | [Walking in the Rain](https://codeforces.com/contest/192/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/B%20-%20Walking%20in%20the%20Rain/solution.cpp) |
 | 203A | [Two Problems](https://codeforces.com/contest/203/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/A%20-%20Two%20Problems/solution.cpp) |
 | 203B | [Game on Paper](https://codeforces.com/contest/203/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/B%20-%20Game%20on%20Paper/solution.cpp) |
+| 205B | [Little Elephant and Sorting](https://codeforces.com/contest/205/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/205/B%20-%20Little%20Elephant%20and%20Sorting/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
@@ -394,6 +395,7 @@
 | 186B | [Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/B%20-%20Growing%20Mushrooms/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
 | 203C | [Photographer](https://codeforces.com/contest/203/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/C%20-%20Photographer/solution.cpp) |
+| 205B | [Little Elephant and Sorting](https://codeforces.com/contest/205/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/205/B%20-%20Little%20Elephant%20and%20Sorting/solution.cpp) |
 | 215B | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/215/B%20-%20Olympic%20Medal/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
 | 239A | [Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/239/A%20-%20Two%20Bags%20of%20Potatoes/solution.cpp) |
