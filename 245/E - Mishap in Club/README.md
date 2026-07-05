@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/245/problem/E" target="_blank" rel="noopener noreferrer">245E — Mishap in Club</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 245E](https://codeforces.com/contest/245/problem/E) |
+
+## Topics
+`greedy` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">E. Mishap in Club</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Polycarpus just has been out of luck lately! As soon as he found a job in the "Binary Cat" cafe, the club got burgled. All ice-cream was stolen.</p><p>On the burglary night Polycarpus kept a careful record of all club visitors. Each time a visitor entered the club, Polycarpus put down character "<span class="tex-font-style-tt">+</span>" in his notes. Similarly, each time a visitor left the club, Polycarpus put character "<span class="tex-font-style-tt">-</span>" in his notes. We know that all cases of going in and out happened consecutively, that is, no two events happened at the same time. Polycarpus doesn't remember whether there was somebody in the club at the moment when his shift begun and at the moment when it ended.</p><p>Right now the police wonders what minimum number of distinct people Polycarpus could have seen. Assume that he sees anybody coming in or out of the club. Each person could have come in or out an arbitrary number of times.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input contains a sequence of characters "<span class="tex-font-style-tt">+</span>" and "<span class="tex-font-style-tt">-</span>", the characters are written one after another without any separators. The characters are written in the order, in which the corresponding events occurred. The given sequence has length from 1 to 300 characters, inclusive.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the sought minimum number of people</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00383197836504259" id="id008032668081915318" class="input-output-copier">Copy</div></div><pre id="id00383197836504259">+-+-+<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008611175730596528" id="id009311586827067788" class="input-output-copier">Copy</div></div><pre id="id008611175730596528">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00398545235166049" id="id005106485287883673" class="input-output-copier">Copy</div></div><pre id="id00398545235166049">---</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0037190059822693433" id="id00779996038488973" class="input-output-copier">Copy</div></div><pre id="id0037190059822693433">3</pre></div></div></div>
