@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 480 | 27 |
+| 481 | 27 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (97)
 - [combinatorics](#combinatorics) (9)
-- [constructive algorithms](#constructive-algorithms) (66)
+- [constructive algorithms](#constructive-algorithms) (67)
 - [data structures](#data-structures) (16)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (8)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (142)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (265)
-- [math](#math) (143)
+- [math](#math) (144)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (41)
 - [probabilities](#probabilities) (1)
@@ -247,6 +247,7 @@
 | 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
 | 357B | [Flag Day](https://codeforces.com/contest/357/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/357/B%20-%20Flag%20Day/solution.cpp) |
+| 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 379B | [New Year Present](https://codeforces.com/contest/379/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/B%20-%20New%20Year%20Present/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
@@ -324,6 +325,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
@@ -852,6 +854,7 @@
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/353/A%20-%20Domino/solution.cpp) |
+| 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 370A | [Rook, Bishop and King](https://codeforces.com/contest/370/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/370/A%20-%20Rook%2C%20Bishop%20and%20King/solution.cpp) |
 | 371B | [Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/371/B%20-%20Fox%20Dividing%20Cheese/solution.cpp) |
