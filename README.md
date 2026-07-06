@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 468 | 27 |
+| 469 | 27 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (140)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (257)
-- [math](#math) (140)
+- [implementation](#implementation) (258)
+- [math](#math) (141)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (40)
 - [probabilities](#probabilities) (1)
@@ -598,6 +598,7 @@
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 260A | [Adding Digits](https://codeforces.com/contest/260/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/260/A%20-%20Adding%20Digits/solution.cpp) |
+| 272B | [Dima and Sequence](https://codeforces.com/contest/272/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/272/B%20-%20Dima%20and%20Sequence/solution.cpp) |
 | 285A | [Slightly Decreasing Permutations](https://codeforces.com/contest/285/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/A%20-%20Slightly%20Decreasing%20Permutations/solution.cpp) |
 | 285B | [Find Marble](https://codeforces.com/contest/285/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/B%20-%20Find%20Marble/solution.cpp) |
 | 285C | [Building Permutation](https://codeforces.com/contest/285/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/C%20-%20Building%20Permutation/solution.cpp) |
@@ -821,6 +822,7 @@
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 260A | [Adding Digits](https://codeforces.com/contest/260/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/260/A%20-%20Adding%20Digits/solution.cpp) |
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
+| 272B | [Dima and Sequence](https://codeforces.com/contest/272/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/272/B%20-%20Dima%20and%20Sequence/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 303A | [Lucky Permutation Triple](https://codeforces.com/contest/303/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/303/A%20-%20Lucky%20Permutation%20Triple/solution.cpp) |
 | 312B | [Archer](https://codeforces.com/contest/312/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/B%20-%20Archer/solution.cpp) |
