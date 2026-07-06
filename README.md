@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 471 | 27 |
+| 472 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (8)
+- [*special](#special) (9)
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (5)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (140)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (259)
+- [implementation](#implementation) (260)
 - [math](#math) (143)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (41)
@@ -51,6 +51,7 @@
 | 158D | [Ice Sculptures](https://codeforces.com/contest/158/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/158/D%20-%20Ice%20Sculptures/solution.cpp) |
 | 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
+| 290A | [Mysterious strings](https://codeforces.com/contest/290/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/290/A%20-%20Mysterious%20strings/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
 | 774C | [Maximum Number](https://codeforces.com/contest/774/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/774/C%20-%20Maximum%20Number/solution.cpp) |
 | 928A | [Login Verification](https://codeforces.com/contest/928/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/928/A%20-%20Login%20Verification/solution.cpp) |
@@ -606,6 +607,7 @@
 | 285C | [Building Permutation](https://codeforces.com/contest/285/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/C%20-%20Building%20Permutation/solution.cpp) |
 | 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
+| 290A | [Mysterious strings](https://codeforces.com/contest/290/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/290/A%20-%20Mysterious%20strings/solution.cpp) |
 | 298A | [Snow Footprints](https://codeforces.com/contest/298/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/A%20-%20Snow%20Footprints/solution.cpp) |
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
 | 303A | [Lucky Permutation Triple](https://codeforces.com/contest/303/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/303/A%20-%20Lucky%20Permutation%20Triple/solution.cpp) |
