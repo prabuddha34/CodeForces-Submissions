@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 475 | 27 |
+| 476 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (95)
+- [brute force](#brute-force) (96)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (64)
 - [data structures](#data-structures) (16)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (141)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (262)
+- [implementation](#implementation) (263)
 - [math](#math) (143)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (41)
@@ -141,6 +141,7 @@
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
 | 304B | [Calendar](https://codeforces.com/contest/304/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/304/B%20-%20Calendar/solution.cpp) |
 | 315A | [Sereja and Bottles](https://codeforces.com/contest/315/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/315/A%20-%20Sereja%20and%20Bottles/solution.cpp) |
+| 331A1 | [Oh Sweet Beaverette](https://codeforces.com/contest/331/problem/A1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/331/A1%20-%20Oh%20Sweet%20Beaverette/solution.cpp) |
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
@@ -620,6 +621,7 @@
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
 | 313C | [Ilya and Matrix](https://codeforces.com/contest/313/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/313/C%20-%20Ilya%20and%20Matrix/solution.cpp) |
 | 318B | [Strings of Power](https://codeforces.com/contest/318/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/318/B%20-%20Strings%20of%20Power/solution.cpp) |
+| 331A1 | [Oh Sweet Beaverette](https://codeforces.com/contest/331/problem/A1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/331/A1%20-%20Oh%20Sweet%20Beaverette/solution.cpp) |
 | 332A | [Down the Hatch!](https://codeforces.com/contest/332/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/A%20-%20Down%20the%20Hatch!/solution.cpp) |
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.cpp) |
 | 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
