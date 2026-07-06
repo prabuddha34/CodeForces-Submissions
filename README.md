@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 476 | 27 |
+| 477 | 27 |
 
 ---
 
@@ -35,7 +35,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (50)
+- [sortings](#sortings) (51)
 - [strings](#strings) (42)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (14)
@@ -1037,6 +1037,7 @@
 | 261A | [Maxim and Discounts](https://codeforces.com/contest/261/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/261/A%20-%20Maxim%20and%20Discounts/solution.cpp) |
 | 285C | [Building Permutation](https://codeforces.com/contest/285/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/C%20-%20Building%20Permutation/solution.cpp) |
 | 313C | [Ilya and Matrix](https://codeforces.com/contest/313/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/313/C%20-%20Ilya%20and%20Matrix/solution.cpp) |
+| 334B | [Eight Point Sets](https://codeforces.com/contest/334/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/334/B%20-%20Eight%20Point%20Sets/solution.cpp) |
 | 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
 | 352B | [Jeff and Periods](https://codeforces.com/contest/352/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/352/B%20-%20Jeff%20and%20Periods/solution.cpp) |
 | 362B | [Petya and Staircases](https://codeforces.com/contest/362/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/362/B%20-%20Petya%20and%20Staircases/solution.cpp) |
