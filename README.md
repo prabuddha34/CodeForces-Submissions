@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 479 | 27 |
+| 480 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (24)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (96)
+- [brute force](#brute-force) (97)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (66)
 - [data structures](#data-structures) (16)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (142)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (264)
+- [implementation](#implementation) (265)
 - [math](#math) (143)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (41)
@@ -146,6 +146,7 @@
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
+| 358A | [Dima and Continuous Line](https://codeforces.com/contest/358/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/358/A%20-%20Dima%20and%20Continuous%20Line/solution.cpp) |
 | 366B | [Dima and To-do List](https://codeforces.com/contest/366/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/B%20-%20Dima%20and%20To-do%20List/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
@@ -636,6 +637,7 @@
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/353/A%20-%20Domino/solution.cpp) |
 | 355A | [Vasya and Digital Root](https://codeforces.com/contest/355/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/355/A%20-%20Vasya%20and%20Digital%20Root/solution.cpp) |
 | 357B | [Flag Day](https://codeforces.com/contest/357/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/357/B%20-%20Flag%20Day/solution.cpp) |
+| 358A | [Dima and Continuous Line](https://codeforces.com/contest/358/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/358/A%20-%20Dima%20and%20Continuous%20Line/solution.cpp) |
 | 362B | [Petya and Staircases](https://codeforces.com/contest/362/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/362/B%20-%20Petya%20and%20Staircases/solution.cpp) |
 | 365A | [Good Number](https://codeforces.com/contest/365/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/365/A%20-%20Good%20Number/solution.cpp) |
 | 365B | [The Fibonacci Segment](https://codeforces.com/contest/365/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/365/B%20-%20The%20Fibonacci%20Segment/solution.cpp) |
