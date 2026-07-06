@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 474 | 27 |
+| 475 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (94)
+- [brute force](#brute-force) (95)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (64)
 - [data structures](#data-structures) (16)
@@ -140,6 +140,7 @@
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
 | 304B | [Calendar](https://codeforces.com/contest/304/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/304/B%20-%20Calendar/solution.cpp) |
+| 315A | [Sereja and Bottles](https://codeforces.com/contest/315/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/315/A%20-%20Sereja%20and%20Bottles/solution.cpp) |
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
