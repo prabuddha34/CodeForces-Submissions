@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 470 | 27 |
+| 471 | 27 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (94)
 - [combinatorics](#combinatorics) (9)
-- [constructive algorithms](#constructive-algorithms) (62)
+- [constructive algorithms](#constructive-algorithms) (63)
 - [data structures](#data-structures) (15)
 - [dp](#dp) (8)
 - [dsu](#dsu) (2)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (140)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (259)
-- [math](#math) (142)
+- [math](#math) (143)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (41)
 - [probabilities](#probabilities) (1)
@@ -234,6 +234,7 @@
 | 85A | [Domino](https://codeforces.com/contest/85/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/85/A%20-%20Domino/solution.cpp) |
 | 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
 | 225A | [Dice Tower](https://codeforces.com/contest/225/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/225/A%20-%20Dice%20Tower/solution.cpp) |
+| 286A | [Lucky Permutation](https://codeforces.com/contest/286/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/286/A%20-%20Lucky%20Permutation/solution.cpp) |
 | 303A | [Lucky Permutation Triple](https://codeforces.com/contest/303/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/303/A%20-%20Lucky%20Permutation%20Triple/solution.cpp) |
 | 330B | [Road Construction](https://codeforces.com/contest/330/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/330/B%20-%20Road%20Construction/solution.cpp) |
 | 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
@@ -825,6 +826,7 @@
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 272B | [Dima and Sequence](https://codeforces.com/contest/272/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/272/B%20-%20Dima%20and%20Sequence/solution.cpp) |
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
+| 286A | [Lucky Permutation](https://codeforces.com/contest/286/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/286/A%20-%20Lucky%20Permutation/solution.cpp) |
 | 296A | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/296/A%20-%20Yaroslav%20and%20Permutations/solution.cpp) |
 | 303A | [Lucky Permutation Triple](https://codeforces.com/contest/303/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/303/A%20-%20Lucky%20Permutation%20Triple/solution.cpp) |
 | 312B | [Archer](https://codeforces.com/contest/312/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/B%20-%20Archer/solution.cpp) |
