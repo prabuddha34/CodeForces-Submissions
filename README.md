@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 505 | 28 |
+| 506 | 28 |
 
 ---
 
@@ -26,17 +26,17 @@
 - [games](#games) (8)
 - [geometry](#geometry) (14)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (153)
+- [greedy](#greedy) (154)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (278)
-- [math](#math) (149)
+- [math](#math) (150)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (56)
+- [sortings](#sortings) (57)
 - [strings](#strings) (43)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (16)
@@ -469,6 +469,7 @@
 | 492C | [Vanya and Exams](https://codeforces.com/contest/492/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/492/C%20-%20Vanya%20and%20Exams/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
+| 515C | [Drazil and Factorial](https://codeforces.com/contest/515/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/C%20-%20Drazil%20and%20Factorial/solution.cpp) |
 | 519C | [A and B and Team Training](https://codeforces.com/contest/519/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/519/C%20-%20A%20and%20B%20and%20Team%20Training/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 545B | [Equidistant String](https://codeforces.com/contest/545/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/B%20-%20Equidistant%20String/solution.cpp) |
@@ -909,6 +910,7 @@
 | 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 514B | [Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/514/B%20-%20Han%20Solo%20and%20Lazer%20Gun/solution.cpp) |
+| 515C | [Drazil and Factorial](https://codeforces.com/contest/515/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/C%20-%20Drazil%20and%20Factorial/solution.cpp) |
 | 519C | [A and B and Team Training](https://codeforces.com/contest/519/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/519/C%20-%20A%20and%20B%20and%20Team%20Training/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 552B | [Vanya and Books](https://codeforces.com/contest/552/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/552/B%20-%20Vanya%20and%20Books/solution.cpp) |
@@ -1112,6 +1114,7 @@
 | 471B | [MUH and Important Things](https://codeforces.com/contest/471/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/471/B%20-%20MUH%20and%20Important%20Things/solution.cpp) |
 | 479C | [Exams](https://codeforces.com/contest/479/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/479/C%20-%20Exams/solution.cpp) |
 | 492C | [Vanya and Exams](https://codeforces.com/contest/492/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/492/C%20-%20Vanya%20and%20Exams/solution.cpp) |
+| 515C | [Drazil and Factorial](https://codeforces.com/contest/515/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/C%20-%20Drazil%20and%20Factorial/solution.cpp) |
 | 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
 | 579B | [Finding Team Member](https://codeforces.com/contest/579/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/579/B%20-%20Finding%20Team%20Member/solution.cpp) |
