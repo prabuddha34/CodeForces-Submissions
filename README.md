@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 490 | 27 |
+| 491 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (147)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (271)
+- [implementation](#implementation) (272)
 - [math](#math) (145)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -673,6 +673,7 @@
 | 413A | [Data Recovery](https://codeforces.com/contest/413/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/413/A%20-%20Data%20Recovery/solution.cpp) |
 | 413B | [Spyke Chatting](https://codeforces.com/contest/413/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/413/B%20-%20Spyke%20Chatting/solution.cpp) |
 | 416A | [Guess a number!](https://codeforces.com/contest/416/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/416/A%20-%20Guess%20a%20number!/solution.cpp) |
+| 417B | [Crash](https://codeforces.com/contest/417/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/417/B%20-%20Crash/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 426B | [Sereja and Mirroring](https://codeforces.com/contest/426/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/426/B%20-%20Sereja%20and%20Mirroring/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
