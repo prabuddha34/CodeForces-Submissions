@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 484 | 27 |
+| 485 | 27 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (9)
 - [Uncategorized](#uncategorized) (12)
-- [binary search](#binary-search) (24)
+- [binary search](#binary-search) (25)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (97)
+- [brute force](#brute-force) (98)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (68)
 - [data structures](#data-structures) (16)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (144)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (267)
+- [implementation](#implementation) (268)
 - [math](#math) (145)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (41)
@@ -85,6 +85,7 @@
 | 251A | [Points on Line](https://codeforces.com/contest/251/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/251/A%20-%20Points%20on%20Line/solution.cpp) |
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 335A | [Banana](https://codeforces.com/contest/335/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/335/A%20-%20Banana/solution.cpp) |
+| 386B | [Fly, freebies, fly!](https://codeforces.com/contest/386/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/386/B%20-%20Fly%2C%20freebies%2C%20fly!/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
@@ -149,6 +150,7 @@
 | 358A | [Dima and Continuous Line](https://codeforces.com/contest/358/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/358/A%20-%20Dima%20and%20Continuous%20Line/solution.cpp) |
 | 366B | [Dima and To-do List](https://codeforces.com/contest/366/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/B%20-%20Dima%20and%20To-do%20List/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
+| 386B | [Fly, freebies, fly!](https://codeforces.com/contest/386/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/386/B%20-%20Fly%2C%20freebies%2C%20fly!/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
 | 400B | [Inna and New Matrix of Candies](https://codeforces.com/contest/400/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/400/B%20-%20Inna%20and%20New%20Matrix%20of%20Candies/solution.cpp) |
 | 431B | [Shower Line](https://codeforces.com/contest/431/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/431/B%20-%20Shower%20Line/solution.cpp) |
@@ -656,6 +658,7 @@
 | 379B | [New Year Present](https://codeforces.com/contest/379/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/B%20-%20New%20Year%20Present/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
+| 386B | [Fly, freebies, fly!](https://codeforces.com/contest/386/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/386/B%20-%20Fly%2C%20freebies%2C%20fly!/solution.cpp) |
 | 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 | 400B | [Inna and New Matrix of Candies](https://codeforces.com/contest/400/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/400/B%20-%20Inna%20and%20New%20Matrix%20of%20Candies/solution.cpp) |
 | 413A | [Data Recovery](https://codeforces.com/contest/413/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/413/A%20-%20Data%20Recovery/solution.cpp) |
