@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 494 | 27 |
+| 495 | 27 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (8)
 - [geometry](#geometry) (12)
-- [graphs](#graphs) (5)
-- [greedy](#greedy) (148)
+- [graphs](#graphs) (6)
+- [greedy](#greedy) (149)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (273)
 - [math](#math) (146)
@@ -35,7 +35,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (53)
+- [sortings](#sortings) (54)
 - [strings](#strings) (42)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (16)
@@ -394,6 +394,7 @@
 | 330B | [Road Construction](https://codeforces.com/contest/330/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/330/B%20-%20Road%20Construction/solution.cpp) |
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 370A | [Rook, Bishop and King](https://codeforces.com/contest/370/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/370/A%20-%20Rook%2C%20Bishop%20and%20King/solution.cpp) |
+| 437C | [The Child and Toy](https://codeforces.com/contest/437/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/437/C%20-%20The%20Child%20and%20Toy/solution.cpp) |
 | 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.cpp) |
 
 ### greedy
@@ -450,6 +451,7 @@
 | 416A | [Guess a number!](https://codeforces.com/contest/416/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/416/A%20-%20Guess%20a%20number!/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 435B | [Pasha Maximizes](https://codeforces.com/contest/435/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/435/B%20-%20Pasha%20Maximizes/solution.cpp) |
+| 437C | [The Child and Toy](https://codeforces.com/contest/437/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/437/C%20-%20The%20Child%20and%20Toy/solution.cpp) |
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
 | 462B | [Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/462/B%20-%20Appleman%20and%20Card%20Game/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
@@ -1080,6 +1082,7 @@
 | 379C | [New Year Ratings Change](https://codeforces.com/contest/379/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/C%20-%20New%20Year%20Ratings%20Change/solution.cpp) |
 | 388A | [Fox and Box Accumulation](https://codeforces.com/contest/388/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/388/A%20-%20Fox%20and%20Box%20Accumulation/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
+| 437C | [The Child and Toy](https://codeforces.com/contest/437/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/437/C%20-%20The%20Child%20and%20Toy/solution.cpp) |
 | 439B | [Devu, the Dumb Guy](https://codeforces.com/contest/439/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/439/B%20-%20Devu%2C%20the%20Dumb%20Guy/solution.cpp) |
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
 | 471B | [MUH and Important Things](https://codeforces.com/contest/471/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/471/B%20-%20MUH%20and%20Important%20Things/solution.cpp) |
