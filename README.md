@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 489 | 27 |
+| 490 | 27 |
 
 ---
 
@@ -26,9 +26,9 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (146)
+- [greedy](#greedy) (147)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (270)
+- [implementation](#implementation) (271)
 - [math](#math) (145)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -38,7 +38,7 @@
 - [sortings](#sortings) (53)
 - [strings](#strings) (42)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (14)
+- [two pointers](#two-pointers) (15)
 
 ---
 
@@ -446,6 +446,7 @@
 | 389B | [Fox and Cross](https://codeforces.com/contest/389/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/389/B%20-%20Fox%20and%20Cross/solution.cpp) |
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/401/C%20-%20Team/solution.cpp) |
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
+| 416A | [Guess a number!](https://codeforces.com/contest/416/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/416/A%20-%20Guess%20a%20number!/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
 | 462B | [Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/462/B%20-%20Appleman%20and%20Card%20Game/solution.cpp) |
@@ -671,6 +672,7 @@
 | 402B | [Trees in a Row](https://codeforces.com/contest/402/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/B%20-%20Trees%20in%20a%20Row/solution.cpp) |
 | 413A | [Data Recovery](https://codeforces.com/contest/413/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/413/A%20-%20Data%20Recovery/solution.cpp) |
 | 413B | [Spyke Chatting](https://codeforces.com/contest/413/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/413/B%20-%20Spyke%20Chatting/solution.cpp) |
+| 416A | [Guess a number!](https://codeforces.com/contest/416/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/416/A%20-%20Guess%20a%20number!/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 426B | [Sereja and Mirroring](https://codeforces.com/contest/426/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/426/B%20-%20Sereja%20and%20Mirroring/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
@@ -1170,6 +1172,7 @@
 | 251A | [Points on Line](https://codeforces.com/contest/251/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/251/A%20-%20Points%20on%20Line/solution.cpp) |
 | 318B | [Strings of Power](https://codeforces.com/contest/318/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/318/B%20-%20Strings%20of%20Power/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
+| 416A | [Guess a number!](https://codeforces.com/contest/416/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/416/A%20-%20Guess%20a%20number!/solution.cpp) |
 | 716B | [Complete the Word](https://codeforces.com/contest/716/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/716/B%20-%20Complete%20the%20Word/solution.cpp) |
 | 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
