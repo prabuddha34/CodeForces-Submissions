@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 495 | 27 |
+| 496 | 27 |
 
 ---
 
@@ -26,9 +26,9 @@
 - [games](#games) (8)
 - [geometry](#geometry) (12)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (149)
+- [greedy](#greedy) (150)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (273)
+- [implementation](#implementation) (274)
 - [math](#math) (146)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -452,6 +452,7 @@
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 435B | [Pasha Maximizes](https://codeforces.com/contest/435/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/435/B%20-%20Pasha%20Maximizes/solution.cpp) |
 | 437C | [The Child and Toy](https://codeforces.com/contest/437/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/437/C%20-%20The%20Child%20and%20Toy/solution.cpp) |
+| 441B | [Valera and Fruits](https://codeforces.com/contest/441/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/441/B%20-%20Valera%20and%20Fruits/solution.cpp) |
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
 | 462B | [Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/462/B%20-%20Appleman%20and%20Card%20Game/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
@@ -686,6 +687,7 @@
 | 436B | [Om Nom and Spiders](https://codeforces.com/contest/436/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/436/B%20-%20Om%20Nom%20and%20Spiders/solution.cpp) |
 | 437A | [The Child and Homework](https://codeforces.com/contest/437/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/437/A%20-%20The%20Child%20and%20Homework/solution.cpp) |
 | 439B | [Devu, the Dumb Guy](https://codeforces.com/contest/439/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/439/B%20-%20Devu%2C%20the%20Dumb%20Guy/solution.cpp) |
+| 441B | [Valera and Fruits](https://codeforces.com/contest/441/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/441/B%20-%20Valera%20and%20Fruits/solution.cpp) |
 | 450B | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/450/B%20-%20Jzzhu%20and%20Sequences/solution.cpp) |
 | 454B | [Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/454/B%20-%20Little%20Pony%20and%20Sort%20by%20Shift/solution.cpp) |
 | 459A | [Pashmak and Garden](https://codeforces.com/contest/459/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/459/A%20-%20Pashmak%20and%20Garden/solution.cpp) |
