@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 502 | 28 |
+| 503 | 28 |
 
 ---
 
@@ -24,12 +24,12 @@
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (8)
-- [geometry](#geometry) (12)
+- [geometry](#geometry) (13)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (153)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (277)
-- [math](#math) (147)
+- [math](#math) (148)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -378,6 +378,7 @@
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
 | 227A | [Where do I Turn?](https://codeforces.com/contest/227/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/227/A%20-%20Where%20do%20I%20Turn%3F/solution.cpp) |
+| 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
 | 596A | [Wilbur and Swimming Pool](https://codeforces.com/contest/596/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/596/A%20-%20Wilbur%20and%20Swimming%20Pool/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
@@ -900,6 +901,7 @@
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 485A | [Factory](https://codeforces.com/contest/485/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/485/A%20-%20Factory/solution.cpp) |
+| 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 519C | [A and B and Team Training](https://codeforces.com/contest/519/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/519/C%20-%20A%20and%20B%20and%20Team%20Training/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
