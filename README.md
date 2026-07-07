@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 493 | 27 |
+| 494 | 27 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (148)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (272)
-- [math](#math) (145)
+- [implementation](#implementation) (273)
+- [math](#math) (146)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
 - [probabilities](#probabilities) (1)
@@ -681,6 +681,7 @@
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 431B | [Shower Line](https://codeforces.com/contest/431/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/431/B%20-%20Shower%20Line/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
+| 436B | [Om Nom and Spiders](https://codeforces.com/contest/436/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/436/B%20-%20Om%20Nom%20and%20Spiders/solution.cpp) |
 | 437A | [The Child and Homework](https://codeforces.com/contest/437/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/437/A%20-%20The%20Child%20and%20Homework/solution.cpp) |
 | 439B | [Devu, the Dumb Guy](https://codeforces.com/contest/439/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/439/B%20-%20Devu%2C%20the%20Dumb%20Guy/solution.cpp) |
 | 450B | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/450/B%20-%20Jzzhu%20and%20Sequences/solution.cpp) |
@@ -882,6 +883,7 @@
 | 371B | [Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/371/B%20-%20Fox%20Dividing%20Cheese/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 402A | [Nuts](https://codeforces.com/contest/402/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/402/A%20-%20Nuts/solution.cpp) |
+| 436B | [Om Nom and Spiders](https://codeforces.com/contest/436/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/436/B%20-%20Om%20Nom%20and%20Spiders/solution.cpp) |
 | 450B | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/450/B%20-%20Jzzhu%20and%20Sequences/solution.cpp) |
 | 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
