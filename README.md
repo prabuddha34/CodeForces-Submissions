@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 500 | 27 |
+| 501 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (153)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (275)
+- [implementation](#implementation) (276)
 - [math](#math) (146)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -703,6 +703,7 @@
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 493A | [Vasya and Football](https://codeforces.com/contest/493/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/493/A%20-%20Vasya%20and%20Football/solution.cpp) |
+| 493B | [Vasya and Wrestling](https://codeforces.com/contest/493/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/493/B%20-%20Vasya%20and%20Wrestling/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
 | 519C | [A and B and Team Training](https://codeforces.com/contest/519/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/519/C%20-%20A%20and%20B%20and%20Team%20Training/solution.cpp) |
