@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 518 | 29 |
+| 519 | 29 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (25)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (106)
-- [combinatorics](#combinatorics) (10)
+- [combinatorics](#combinatorics) (11)
 - [constructive algorithms](#constructive-algorithms) (71)
 - [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -30,7 +30,7 @@
 - [greedy](#greedy) (158)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (284)
-- [math](#math) (155)
+- [math](#math) (156)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -239,6 +239,7 @@
 | 617B | [Chocolate](https://codeforces.com/contest/617/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/617/B%20-%20Chocolate/solution.cpp) |
 | 621B | [Wet Shark and Bishops](https://codeforces.com/contest/621/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/621/B%20-%20Wet%20Shark%20and%20Bishops/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
+| 630H | [Benches](https://codeforces.com/contest/630/problem/H) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/H%20-%20Benches/solution.cpp) |
 | 1178C | [Tiles](https://codeforces.com/contest/1178/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/C%20-%20Tiles/solution.cpp) |
 | 1433E | [Two Round Dances](https://codeforces.com/contest/1433/problem/E) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1433/E%20-%20Two%20Round%20Dances/solution.cpp) |
 | 1574B | [Combinatorics Homework](https://codeforces.com/contest/1574/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1574/B%20-%20Combinatorics%20Homework/solution.cpp) |
@@ -959,6 +960,7 @@
 | 614B | [Gena's Code](https://codeforces.com/contest/614/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/614/B%20-%20Gena's%20Code/solution.cpp) |
 | 630B | [Moore's Law](https://codeforces.com/contest/630/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/B%20-%20Moore's%20Law/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
+| 630H | [Benches](https://codeforces.com/contest/630/problem/H) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/H%20-%20Benches/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 630N | [Forecast](https://codeforces.com/contest/630/problem/N) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/N%20-%20Forecast/solution.cpp) |
 | 630R | [Game](https://codeforces.com/contest/630/problem/R) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/R%20-%20Game/solution.cpp) |
