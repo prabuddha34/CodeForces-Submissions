@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 526 | 29 |
+| 527 | 29 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (26)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (110)
+- [brute force](#brute-force) (111)
 - [combinatorics](#combinatorics) (11)
-- [constructive algorithms](#constructive-algorithms) (73)
+- [constructive algorithms](#constructive-algorithms) (74)
 - [data structures](#data-structures) (19)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (13)
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (158)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (287)
+- [implementation](#implementation) (288)
 - [math](#math) (160)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -193,6 +193,7 @@
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.cpp) |
 | 675B | [Restoring Painting](https://codeforces.com/contest/675/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/675/B%20-%20Restoring%20Painting/solution.cpp) |
 | 681B | [Economy Game](https://codeforces.com/contest/681/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/681/B%20-%20Economy%20Game/solution.cpp) |
+| 689A | [Mike and Cellphone](https://codeforces.com/contest/689/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/689/A%20-%20Mike%20and%20Cellphone/solution.cpp) |
 | 722A | [Broken Clock](https://codeforces.com/contest/722/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/A%20-%20Broken%20Clock/solution.cpp) |
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
@@ -287,6 +288,7 @@
 | 645A | [Amity Assessment](https://codeforces.com/contest/645/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/A%20-%20Amity%20Assessment/solution.cpp) |
 | 659B | [Qualifying Contest](https://codeforces.com/contest/659/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/B%20-%20Qualifying%20Contest/solution.cpp) |
 | 675B | [Restoring Painting](https://codeforces.com/contest/675/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/675/B%20-%20Restoring%20Painting/solution.cpp) |
+| 689A | [Mike and Cellphone](https://codeforces.com/contest/689/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/689/A%20-%20Mike%20and%20Cellphone/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 740B | [Alyona and flowers](https://codeforces.com/contest/740/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/740/B%20-%20Alyona%20and%20flowers/solution.cpp) |
 | 743A | [Vladik and flights](https://codeforces.com/contest/743/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/743/A%20-%20Vladik%20and%20flights/solution.cpp) |
@@ -801,6 +803,7 @@
 | 670C | [Cinema](https://codeforces.com/contest/670/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/C%20-%20Cinema/solution.cpp) |
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.cpp) |
 | 673B | [Problems for Round](https://codeforces.com/contest/673/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/673/B%20-%20Problems%20for%20Round/solution.cpp) |
+| 689A | [Mike and Cellphone](https://codeforces.com/contest/689/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/689/A%20-%20Mike%20and%20Cellphone/solution.cpp) |
 | 714B | [Filya and Homework](https://codeforces.com/contest/714/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/714/B%20-%20Filya%20and%20Homework/solution.cpp) |
 | 717C | [Potions Homework](https://codeforces.com/contest/717/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/717/C%20-%20Potions%20Homework/solution.cpp) |
 | 722A | [Broken Clock](https://codeforces.com/contest/722/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/A%20-%20Broken%20Clock/solution.cpp) |
