@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 520 | 29 |
+| 521 | 29 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (25)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (106)
+- [brute force](#brute-force) (107)
 - [combinatorics](#combinatorics) (11)
-- [constructive algorithms](#constructive-algorithms) (71)
+- [constructive algorithms](#constructive-algorithms) (72)
 - [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (13)
@@ -183,6 +183,7 @@
 | 611B | [New Year and Old Property](https://codeforces.com/contest/611/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/611/B%20-%20New%20Year%20and%20Old%20Property/solution.cpp) |
 | 612A | [The Text Splitting](https://codeforces.com/contest/612/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/A%20-%20The%20Text%20Splitting/solution.cpp) |
 | 629B | [Far Relative’s Problem](https://codeforces.com/contest/629/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/629/B%20-%20Far%20Relative%E2%80%99s%20Problem/solution.cpp) |
+| 632B | [Alice, Bob, Two Teams](https://codeforces.com/contest/632/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/632/B%20-%20Alice%2C%20Bob%2C%20Two%20Teams/solution.cpp) |
 | 633A | [Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/A%20-%20Ebony%20and%20Ivory/solution.cpp) |
 | 633B | [A Trivial Problem](https://codeforces.com/contest/633/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/B%20-%20A%20Trivial%20Problem/solution.cpp) |
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
@@ -277,6 +278,7 @@
 | 609B | [The Best Gift](https://codeforces.com/contest/609/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/609/B%20-%20The%20Best%20Gift/solution.cpp) |
 | 610B | [Vika and Squares](https://codeforces.com/contest/610/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/610/B%20-%20Vika%20and%20Squares/solution.cpp) |
 | 625B | [War of the Corporations](https://codeforces.com/contest/625/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/625/B%20-%20War%20of%20the%20Corporations/solution.cpp) |
+| 632B | [Alice, Bob, Two Teams](https://codeforces.com/contest/632/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/632/B%20-%20Alice%2C%20Bob%2C%20Two%20Teams/solution.cpp) |
 | 633B | [A Trivial Problem](https://codeforces.com/contest/633/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/B%20-%20A%20Trivial%20Problem/solution.cpp) |
 | 645A | [Amity Assessment](https://codeforces.com/contest/645/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/A%20-%20Amity%20Assessment/solution.cpp) |
 | 659B | [Qualifying Contest](https://codeforces.com/contest/659/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/B%20-%20Qualifying%20Contest/solution.cpp) |
