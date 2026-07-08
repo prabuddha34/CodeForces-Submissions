@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 516 | 29 |
+| 517 | 29 |
 
 ---
 
@@ -19,18 +19,18 @@
 - [brute force](#brute-force) (106)
 - [combinatorics](#combinatorics) (10)
 - [constructive algorithms](#constructive-algorithms) (71)
-- [data structures](#data-structures) (17)
+- [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (13)
 - [dsu](#dsu) (2)
-- [expression parsing](#expression-parsing) (1)
+- [expression parsing](#expression-parsing) (2)
 - [games](#games) (9)
 - [geometry](#geometry) (14)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (158)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (283)
-- [math](#math) (153)
+- [math](#math) (154)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -329,6 +329,7 @@
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 514B | [Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/514/B%20-%20Han%20Solo%20and%20Lazer%20Gun/solution.cpp) |
+| 612C | [Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/C%20-%20Replace%20To%20Make%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
 | 879B | [Table Tennis](https://codeforces.com/contest/879/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/879/B%20-%20Table%20Tennis/solution.cpp) |
@@ -377,6 +378,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41C | [Email address](https://codeforces.com/contest/41/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/41/C%20-%20Email%20address/solution.cpp) |
+| 612C | [Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/C%20-%20Replace%20To%20Make%20Regular%20Bracket%20Sequence/solution.cpp) |
 
 ### games
 
@@ -952,6 +954,7 @@
 | 588B | [Duff in Love](https://codeforces.com/contest/588/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/588/B%20-%20Duff%20in%20Love/solution.cpp) |
 | 592B | [The Monster and the Squirrel](https://codeforces.com/contest/592/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/592/B%20-%20The%20Monster%20and%20the%20Squirrel/solution.cpp) |
 | 612B | [HDD is Outdated Technology](https://codeforces.com/contest/612/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/B%20-%20HDD%20is%20Outdated%20Technology/solution.cpp) |
+| 612C | [Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/C%20-%20Replace%20To%20Make%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 630B | [Moore's Law](https://codeforces.com/contest/630/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/B%20-%20Moore's%20Law/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
