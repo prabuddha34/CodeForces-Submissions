@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 508 | 28 |
+| 509 | 28 |
 
 ---
 
@@ -20,16 +20,16 @@
 - [combinatorics](#combinatorics) (10)
 - [constructive algorithms](#constructive-algorithms) (70)
 - [data structures](#data-structures) (17)
-- [dp](#dp) (10)
+- [dp](#dp) (11)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (8)
 - [geometry](#geometry) (14)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (156)
+- [greedy](#greedy) (157)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (278)
-- [math](#math) (151)
+- [math](#math) (152)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -340,6 +340,7 @@
 |---|---------|------------|----------|
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
+| 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
@@ -476,6 +477,7 @@
 | 523C | [Name Quest](https://codeforces.com/contest/523/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/523/C%20-%20Name%20Quest/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 525B | [Pasha and String](https://codeforces.com/contest/525/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/B%20-%20Pasha%20and%20String/solution.cpp) |
+| 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 | 545B | [Equidistant String](https://codeforces.com/contest/545/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/B%20-%20Equidistant%20String/solution.cpp) |
 | 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
@@ -918,6 +920,7 @@
 | 519C | [A and B and Team Training](https://codeforces.com/contest/519/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/519/C%20-%20A%20and%20B%20and%20Team%20Training/solution.cpp) |
 | 525B | [Pasha and String](https://codeforces.com/contest/525/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/B%20-%20Pasha%20and%20String/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
+| 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 | 552B | [Vanya and Books](https://codeforces.com/contest/552/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/552/B%20-%20Vanya%20and%20Books/solution.cpp) |
 | 557A | [Ilya and Diplomas](https://codeforces.com/contest/557/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/557/A%20-%20Ilya%20and%20Diplomas/solution.cpp) |
 | 570B | [Simple Game](https://codeforces.com/contest/570/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/570/B%20-%20Simple%20Game/solution.cpp) |
