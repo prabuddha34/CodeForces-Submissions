@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 522 | 29 |
+| 523 | 29 |
 
 ---
 
@@ -29,8 +29,8 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (158)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (285)
-- [math](#math) (158)
+- [implementation](#implementation) (286)
+- [math](#math) (159)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -790,6 +790,7 @@
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
 | 639A | [Bear and Displayed Friends](https://codeforces.com/contest/639/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/639/A%20-%20Bear%20and%20Displayed%20Friends/solution.cpp) |
 | 645A | [Amity Assessment](https://codeforces.com/contest/645/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/A%20-%20Amity%20Assessment/solution.cpp) |
+| 652A | [Gabriel and Caterpillar](https://codeforces.com/contest/652/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/652/A%20-%20Gabriel%20and%20Caterpillar/solution.cpp) |
 | 659C | [Tanya and Toys](https://codeforces.com/contest/659/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/C%20-%20Tanya%20and%20Toys/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
 | 670C | [Cinema](https://codeforces.com/contest/670/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/C%20-%20Cinema/solution.cpp) |
@@ -974,6 +975,7 @@
 | 633B | [A Trivial Problem](https://codeforces.com/contest/633/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/B%20-%20A%20Trivial%20Problem/solution.cpp) |
 | 645B | [Mischievous Mess Makers](https://codeforces.com/contest/645/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/B%20-%20Mischievous%20Mess%20Makers/solution.cpp) |
 | 650A | [Watchmen](https://codeforces.com/contest/650/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/650/A%20-%20Watchmen/solution.cpp) |
+| 652A | [Gabriel and Caterpillar](https://codeforces.com/contest/652/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/652/A%20-%20Gabriel%20and%20Caterpillar/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
 | 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
 | 725B | [Food on the Plane](https://codeforces.com/contest/725/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/725/B%20-%20Food%20on%20the%20Plane/solution.cpp) |
