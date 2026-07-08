@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 523 | 29 |
+| 524 | 29 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (25)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (107)
+- [brute force](#brute-force) (108)
 - [combinatorics](#combinatorics) (11)
 - [constructive algorithms](#constructive-algorithms) (72)
 - [data structures](#data-structures) (19)
@@ -188,6 +188,7 @@
 | 633B | [A Trivial Problem](https://codeforces.com/contest/633/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/633/B%20-%20A%20Trivial%20Problem/solution.cpp) |
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
 | 645A | [Amity Assessment](https://codeforces.com/contest/645/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/645/A%20-%20Amity%20Assessment/solution.cpp) |
+| 665B | [Shopping](https://codeforces.com/contest/665/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/665/B%20-%20Shopping/solution.cpp) |
 | 681B | [Economy Game](https://codeforces.com/contest/681/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/681/B%20-%20Economy%20Game/solution.cpp) |
 | 722A | [Broken Clock](https://codeforces.com/contest/722/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/A%20-%20Broken%20Clock/solution.cpp) |
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
