@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/630/problem/H" target="_blank" rel="noopener noreferrer">630H — Benches</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 630H](https://codeforces.com/contest/630/problem/H) |
+
+## Topics
+`combinatorics` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">H. Benches</div><div class="time-limit"><div class="property-title">time limit per test</div>0.5 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>The city park of IT City contains <span class="tex-span"><i>n</i></span> east to west paths and <span class="tex-span"><i>n</i></span> north to south paths. Each east to west path crosses each north to south path, so there are <span class="tex-span"><i>n</i><sup class="upper-index">2</sup></span> intersections.</p><p>The city funded purchase of five benches. To make it seems that there are many benches it was decided to place them on as many paths as possible. Obviously this requirement is satisfied by the following scheme: each bench is placed on a cross of paths and each path contains not more than one bench.</p><p>Help the park administration count the number of ways to place the benches.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input contains one integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">5 ≤ <i>n</i> ≤ 100</span>) — the number of east to west paths and north to south paths.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output one integer — the number of ways to place the benches.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008974701940247967" id="id0024039561062683434" class="input-output-copier">Copy</div></div><pre id="id008974701940247967">5<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007405684605464444" id="id009068677780127665" class="input-output-copier">Copy</div></div><pre id="id007405684605464444">120</pre></div></div></div>
