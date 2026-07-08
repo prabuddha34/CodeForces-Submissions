@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 517 | 29 |
+| 518 | 29 |
 
 ---
 
@@ -29,8 +29,8 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (158)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (283)
-- [math](#math) (154)
+- [implementation](#implementation) (284)
+- [math](#math) (155)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -779,6 +779,7 @@
 | 611B | [New Year and Old Property](https://codeforces.com/contest/611/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/611/B%20-%20New%20Year%20and%20Old%20Property/solution.cpp) |
 | 612A | [The Text Splitting](https://codeforces.com/contest/612/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/A%20-%20The%20Text%20Splitting/solution.cpp) |
 | 612B | [HDD is Outdated Technology](https://codeforces.com/contest/612/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/B%20-%20HDD%20is%20Outdated%20Technology/solution.cpp) |
+| 614B | [Gena's Code](https://codeforces.com/contest/614/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/614/B%20-%20Gena's%20Code/solution.cpp) |
 | 621B | [Wet Shark and Bishops](https://codeforces.com/contest/621/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/621/B%20-%20Wet%20Shark%20and%20Bishops/solution.cpp) |
 | 635A | [Orchestra](https://codeforces.com/contest/635/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/635/A%20-%20Orchestra/solution.cpp) |
 | 639A | [Bear and Displayed Friends](https://codeforces.com/contest/639/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/639/A%20-%20Bear%20and%20Displayed%20Friends/solution.cpp) |
@@ -955,6 +956,7 @@
 | 592B | [The Monster and the Squirrel](https://codeforces.com/contest/592/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/592/B%20-%20The%20Monster%20and%20the%20Squirrel/solution.cpp) |
 | 612B | [HDD is Outdated Technology](https://codeforces.com/contest/612/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/B%20-%20HDD%20is%20Outdated%20Technology/solution.cpp) |
 | 612C | [Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/C%20-%20Replace%20To%20Make%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 614B | [Gena's Code](https://codeforces.com/contest/614/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/614/B%20-%20Gena's%20Code/solution.cpp) |
 | 630B | [Moore's Law](https://codeforces.com/contest/630/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/B%20-%20Moore's%20Law/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
