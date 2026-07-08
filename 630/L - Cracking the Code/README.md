@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/630/problem/L" target="_blank" rel="noopener noreferrer">630L — Cracking the Code</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 630L](https://codeforces.com/contest/630/problem/L) |
+
+## Topics
+`implementation` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">L. Cracking the Code</div><div class="time-limit"><div class="property-title">time limit per test</div>0.5 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>The protection of a popular program developed by one of IT City companies is organized the following way. After installation it outputs a random five digit number which should be sent in SMS to a particular phone number. In response an SMS activation code arrives.</p><p>A young hacker Vasya disassembled the program and found the algorithm that transforms the shown number into the activation code. <span class="tex-font-style-it">Note: it is clear that Vasya is a law-abiding hacker, and made it for a noble purpose — to show the developer the imperfection of their protection.</span></p><p>The found algorithm looks the following way. At first the digits of the number are shuffled in the following order <first digit><third digit><fifth digit><fourth digit><second digit>. For example the shuffle of <span class="tex-span">12345</span> should lead to <span class="tex-span">13542</span>. On the second stage the number is raised to the fifth power. The result of the shuffle and exponentiation of the number <span class="tex-span">12345</span> is <span class="tex-span">455 422 043 125 550 171 232</span>. The answer is the <span class="tex-span">5</span> last digits of this result. For the number <span class="tex-span">12345</span> the answer should be <span class="tex-span">71232</span>.</p><p>Vasya is going to write a keygen program implementing this algorithm. Can you do the same?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input contains a positive integer five digit number for which the activation code should be found.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output exactly <span class="tex-span">5</span> digits without spaces between them — the found activation code of the program.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006279731637617886" id="id004668484774031031" class="input-output-copier">Copy</div></div><pre id="id006279731637617886">12345<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0013747870607952317" id="id005389591872191474" class="input-output-copier">Copy</div></div><pre id="id0013747870607952317">71232</pre></div></div></div>
