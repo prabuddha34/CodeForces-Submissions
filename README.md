@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 511 | 28 |
+| 512 | 29 |
 
 ---
 
@@ -16,14 +16,15 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (25)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (103)
+- [brute force](#brute-force) (104)
 - [combinatorics](#combinatorics) (10)
 - [constructive algorithms](#constructive-algorithms) (71)
 - [data structures](#data-structures) (17)
+- [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (11)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (8)
+- [games](#games) (9)
 - [geometry](#geometry) (14)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (157)
@@ -170,6 +171,7 @@
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 538A | [Cutting Banner](https://codeforces.com/contest/538/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/538/A%20-%20Cutting%20Banner/solution.cpp) |
 | 546B | [Soldier and Badges](https://codeforces.com/contest/546/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/B%20-%20Soldier%20and%20Badges/solution.cpp) |
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
 | 554B | [Ohana Cleans Up](https://codeforces.com/contest/554/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/554/B%20-%20Ohana%20Cleans%20Up/solution.cpp) |
 | 579B | [Finding Team Member](https://codeforces.com/contest/579/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/579/B%20-%20Finding%20Team%20Member/solution.cpp) |
@@ -336,6 +338,12 @@
 | 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -370,6 +378,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.cpp) |
 | 570B | [Simple Game](https://codeforces.com/contest/570/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/570/B%20-%20Simple%20Game/solution.cpp) |
 | 630R | [Game](https://codeforces.com/contest/630/problem/R) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/R%20-%20Game/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
