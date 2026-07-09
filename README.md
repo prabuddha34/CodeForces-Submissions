@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 528 | 29 |
+| 529 | 29 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (158)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (288)
+- [implementation](#implementation) (289)
 - [math](#math) (160)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -805,6 +805,7 @@
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.cpp) |
 | 673B | [Problems for Round](https://codeforces.com/contest/673/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/673/B%20-%20Problems%20for%20Round/solution.cpp) |
 | 689A | [Mike and Cellphone](https://codeforces.com/contest/689/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/689/A%20-%20Mike%20and%20Cellphone/solution.cpp) |
+| 699B | [One Bomb](https://codeforces.com/contest/699/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/699/B%20-%20One%20Bomb/solution.cpp) |
 | 714B | [Filya and Homework](https://codeforces.com/contest/714/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/714/B%20-%20Filya%20and%20Homework/solution.cpp) |
 | 717C | [Potions Homework](https://codeforces.com/contest/717/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/717/C%20-%20Potions%20Homework/solution.cpp) |
 | 722A | [Broken Clock](https://codeforces.com/contest/722/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/A%20-%20Broken%20Clock/solution.cpp) |
