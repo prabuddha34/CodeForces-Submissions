@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 529 | 29 |
+| 530 | 29 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (26)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (111)
+- [brute force](#brute-force) (112)
 - [combinatorics](#combinatorics) (11)
 - [constructive algorithms](#constructive-algorithms) (74)
 - [data structures](#data-structures) (19)
@@ -37,7 +37,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (58)
+- [sortings](#sortings) (59)
 - [strings](#strings) (44)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (17)
@@ -194,6 +194,7 @@
 | 675B | [Restoring Painting](https://codeforces.com/contest/675/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/675/B%20-%20Restoring%20Painting/solution.cpp) |
 | 681B | [Economy Game](https://codeforces.com/contest/681/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/681/B%20-%20Economy%20Game/solution.cpp) |
 | 689A | [Mike and Cellphone](https://codeforces.com/contest/689/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/689/A%20-%20Mike%20and%20Cellphone/solution.cpp) |
+| 710B | [Optimal Point on a Line](https://codeforces.com/contest/710/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/710/B%20-%20Optimal%20Point%20on%20a%20Line/solution.cpp) |
 | 722A | [Broken Clock](https://codeforces.com/contest/722/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/722/A%20-%20Broken%20Clock/solution.cpp) |
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 758B | [Blown Garland](https://codeforces.com/contest/758/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/758/B%20-%20Blown%20Garland/solution.cpp) |
@@ -1183,6 +1184,7 @@
 | 659B | [Qualifying Contest](https://codeforces.com/contest/659/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/659/B%20-%20Qualifying%20Contest/solution.cpp) |
 | 670C | [Cinema](https://codeforces.com/contest/670/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/C%20-%20Cinema/solution.cpp) |
 | 682B | [Alyona and Mex](https://codeforces.com/contest/682/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/682/B%20-%20Alyona%20and%20Mex/solution.cpp) |
+| 710B | [Optimal Point on a Line](https://codeforces.com/contest/710/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/710/B%20-%20Optimal%20Point%20on%20a%20Line/solution.cpp) |
 | 714B | [Filya and Homework](https://codeforces.com/contest/714/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/714/B%20-%20Filya%20and%20Homework/solution.cpp) |
 | 717C | [Potions Homework](https://codeforces.com/contest/717/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/717/C%20-%20Potions%20Homework/solution.cpp) |
 | 779C | [Dishonest Sellers](https://codeforces.com/contest/779/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/C%20-%20Dishonest%20Sellers/solution.cpp) |
