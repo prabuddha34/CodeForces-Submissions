@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 537 | 29 |
+| 538 | 29 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (160)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (293)
+- [implementation](#implementation) (294)
 - [math](#math) (162)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -843,6 +843,7 @@
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
 | 845A | [Chess Tourney](https://codeforces.com/contest/845/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/845/A%20-%20Chess%20Tourney/solution.cpp) |
+| 868B | [Race Against Time](https://codeforces.com/contest/868/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/868/B%20-%20Race%20Against%20Time/solution.cpp) |
 | 869A | [The Artful Expedient](https://codeforces.com/contest/869/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/869/A%20-%20The%20Artful%20Expedient/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 879B | [Table Tennis](https://codeforces.com/contest/879/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/879/B%20-%20Table%20Tennis/solution.cpp) |
