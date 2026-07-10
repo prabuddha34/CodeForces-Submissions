@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 543 | 29 |
+| 544 | 29 |
 
 ---
 
@@ -21,13 +21,13 @@
 - [constructive algorithms](#constructive-algorithms) (78)
 - [data structures](#data-structures) (21)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (14)
+- [dp](#dp) (15)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (10)
 - [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (160)
+- [greedy](#greedy) (161)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (296)
 - [math](#math) (163)
@@ -383,6 +383,7 @@
 | 602B | [Approximating a Constant Range](https://codeforces.com/contest/602/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/602/B%20-%20Approximating%20a%20Constant%20Range/solution.cpp) |
 | 698A | [Vacations](https://codeforces.com/contest/698/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/698/A%20-%20Vacations/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+| 940B | [Our Tanya is Crying Out Loud](https://codeforces.com/contest/940/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/940/B%20-%20Our%20Tanya%20is%20Crying%20Out%20Loud/solution.cpp) |
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
 | 1459B | [Move and Turn](https://codeforces.com/contest/1459/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1459/B%20-%20Move%20and%20Turn/solution.cpp) |
@@ -562,6 +563,7 @@
 | 903C | [Boxes Packing](https://codeforces.com/contest/903/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/903/C%20-%20Boxes%20Packing/solution.cpp) |
 | 914B | [Conan and Agasa play a Card Game](https://codeforces.com/contest/914/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/914/B%20-%20Conan%20and%20Agasa%20play%20a%20Card%20Game/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
+| 940B | [Our Tanya is Crying Out Loud](https://codeforces.com/contest/940/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/940/B%20-%20Our%20Tanya%20is%20Crying%20Out%20Loud/solution.cpp) |
 | 990B | [Micro-World](https://codeforces.com/contest/990/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/990/B%20-%20Micro-World/solution.cpp) |
 | 1000A | [Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1000/A%20-%20Codehorses%20T-shirts/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
