@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 545 | 29 |
+| 546 | 29 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (161)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (297)
+- [implementation](#implementation) (298)
 - [math](#math) (163)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -874,6 +874,7 @@
 | 920B | [Tea Queue](https://codeforces.com/contest/920/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/920/B%20-%20Tea%20Queue/solution.cpp) |
 | 931B | [World Cup](https://codeforces.com/contest/931/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/931/B%20-%20World%20Cup/solution.cpp) |
 | 954B | [String Typing](https://codeforces.com/contest/954/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/954/B%20-%20String%20Typing/solution.cpp) |
+| 955B | [Not simply beatiful strings](https://codeforces.com/contest/955/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/955/B%20-%20Not%20simply%20beatiful%20strings/solution.cpp) |
 | 960A | [Check the string](https://codeforces.com/contest/960/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/960/A%20-%20Check%20the%20string/solution.cpp) |
 | 967A | [Mind the Gap](https://codeforces.com/contest/967/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/967/A%20-%20Mind%20the%20Gap/solution.cpp) |
 | 985B | [Switches and Lamps](https://codeforces.com/contest/985/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/985/B%20-%20Switches%20and%20Lamps/solution.cpp) |
