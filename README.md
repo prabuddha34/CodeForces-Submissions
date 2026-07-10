@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 550 | 29 |
+| 551 | 29 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (29)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (116)
-- [combinatorics](#combinatorics) (12)
+- [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (78)
 - [data structures](#data-structures) (21)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -30,7 +30,7 @@
 - [greedy](#greedy) (161)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (300)
-- [math](#math) (165)
+- [math](#math) (166)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
@@ -255,6 +255,7 @@
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
 | 630H | [Benches](https://codeforces.com/contest/630/problem/H) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/H%20-%20Benches/solution.cpp) |
 | 804B | [Minimum number of steps](https://codeforces.com/contest/804/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/804/B%20-%20Minimum%20number%20of%20steps/solution.cpp) |
+| 978E | [Bus Video System](https://codeforces.com/contest/978/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/978/E%20-%20Bus%20Video%20System/solution.cpp) |
 | 1178C | [Tiles](https://codeforces.com/contest/1178/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/C%20-%20Tiles/solution.cpp) |
 | 1433E | [Two Round Dances](https://codeforces.com/contest/1433/problem/E) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1433/E%20-%20Two%20Round%20Dances/solution.cpp) |
 | 1574B | [Combinatorics Homework](https://codeforces.com/contest/1574/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1574/B%20-%20Combinatorics%20Homework/solution.cpp) |
@@ -1040,6 +1041,7 @@
 | 946B | [Weird Subtraction Process](https://codeforces.com/contest/946/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/946/B%20-%20Weird%20Subtraction%20Process/solution.cpp) |
 | 958D1 | [Hyperspace Jump (easy)](https://codeforces.com/contest/958/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/958/D1%20-%20Hyperspace%20Jump%20(easy)/solution.cpp) |
 | 962C | [Make a Square](https://codeforces.com/contest/962/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/962/C%20-%20Make%20a%20Square/solution.cpp) |
+| 978E | [Bus Video System](https://codeforces.com/contest/978/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/978/E%20-%20Bus%20Video%20System/solution.cpp) |
 | 987B | [High School: Become Human](https://codeforces.com/contest/987/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/B%20-%20High%20School%3A%20Become%20Human/solution.cpp) |
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
