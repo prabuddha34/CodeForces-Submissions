@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 536 | 29 |
+| 537 | 29 |
 
 ---
 
@@ -25,12 +25,12 @@
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (9)
-- [geometry](#geometry) (15)
+- [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (160)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (293)
-- [math](#math) (161)
+- [math](#math) (162)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (42)
@@ -430,6 +430,7 @@
 | 749B | [Parallelogram is Back](https://codeforces.com/contest/749/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/749/B%20-%20Parallelogram%20is%20Back/solution.cpp) |
 | 794B | [Cutting Carrot](https://codeforces.com/contest/794/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/794/B%20-%20Cutting%20Carrot/solution.cpp) |
 | 842B | [Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/842/B%20-%20Gleb%20And%20Pizza/solution.cpp) |
+| 851B | [Arpa and an exam about geometry](https://codeforces.com/contest/851/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/851/B%20-%20Arpa%20and%20an%20exam%20about%20geometry/solution.cpp) |
 | 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
 | 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 | 1495A | [Diamond Miner](https://codeforces.com/contest/1495/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1495/A%20-%20Diamond%20Miner/solution.cpp) |
@@ -1013,6 +1014,7 @@
 | 797A | [k-Factorization](https://codeforces.com/contest/797/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/797/A%20-%20k-Factorization/solution.cpp) |
 | 804B | [Minimum number of steps](https://codeforces.com/contest/804/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/804/B%20-%20Minimum%20number%20of%20steps/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
+| 851B | [Arpa and an exam about geometry](https://codeforces.com/contest/851/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/851/B%20-%20Arpa%20and%20an%20exam%20about%20geometry/solution.cpp) |
 | 869B | [The Eternal Immortality](https://codeforces.com/contest/869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/869/B%20-%20The%20Eternal%20Immortality/solution.cpp) |
 | 875A | [Classroom Watch](https://codeforces.com/contest/875/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/875/A%20-%20Classroom%20Watch/solution.cpp) |
 | 883M | [Quadcopter Competition](https://codeforces.com/contest/883/problem/M) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/883/M%20-%20Quadcopter%20Competition/solution.cpp) |
