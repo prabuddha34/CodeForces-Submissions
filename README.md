@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 534 | 29 |
+| 535 | 29 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (112)
 - [combinatorics](#combinatorics) (12)
-- [constructive algorithms](#constructive-algorithms) (76)
+- [constructive algorithms](#constructive-algorithms) (77)
 - [data structures](#data-structures) (20)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (14)
@@ -27,7 +27,7 @@
 - [games](#games) (9)
 - [geometry](#geometry) (15)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (159)
+- [greedy](#greedy) (160)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (292)
 - [math](#math) (161)
@@ -37,7 +37,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (59)
+- [sortings](#sortings) (60)
 - [strings](#strings) (44)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (17)
@@ -302,6 +302,7 @@
 | 779C | [Dishonest Sellers](https://codeforces.com/contest/779/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/C%20-%20Dishonest%20Sellers/solution.cpp) |
 | 803A | [Maximal Binary Matrix](https://codeforces.com/contest/803/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/803/A%20-%20Maximal%20Binary%20Matrix/solution.cpp) |
 | 803B | [Distances to Zero](https://codeforces.com/contest/803/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/803/B%20-%20Distances%20to%20Zero/solution.cpp) |
+| 808C | [Tea Party](https://codeforces.com/contest/808/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/808/C%20-%20Tea%20Party/solution.cpp) |
 | 931B | [World Cup](https://codeforces.com/contest/931/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/931/B%20-%20World%20Cup/solution.cpp) |
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/982/A%20-%20Row/solution.cpp) |
 | 989B | [A Tide of Riverscape](https://codeforces.com/contest/989/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/989/B%20-%20A%20Tide%20of%20Riverscape/solution.cpp) |
@@ -543,6 +544,7 @@
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
 | 802M1 | [April Fools' Problem (easy)](https://codeforces.com/contest/802/problem/M1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/802/M1%20-%20April%20Fools'%20Problem%20(easy)/solution.cpp) |
 | 804B | [Minimum number of steps](https://codeforces.com/contest/804/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/804/B%20-%20Minimum%20number%20of%20steps/solution.cpp) |
+| 808C | [Tea Party](https://codeforces.com/contest/808/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/808/C%20-%20Tea%20Party/solution.cpp) |
 | 835B | [The number on the board](https://codeforces.com/contest/835/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/835/B%20-%20The%20number%20on%20the%20board/solution.cpp) |
 | 883M | [Quadcopter Competition](https://codeforces.com/contest/883/problem/M) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/883/M%20-%20Quadcopter%20Competition/solution.cpp) |
 | 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
@@ -1200,6 +1202,7 @@
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
 | 792A | [New Bus Route](https://codeforces.com/contest/792/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/792/A%20-%20New%20Bus%20Route/solution.cpp) |
 | 802M1 | [April Fools' Problem (easy)](https://codeforces.com/contest/802/problem/M1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/802/M1%20-%20April%20Fools'%20Problem%20(easy)/solution.cpp) |
+| 808C | [Tea Party](https://codeforces.com/contest/808/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/808/C%20-%20Tea%20Party/solution.cpp) |
 | 811B | [Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/811/B%20-%20Vladik%20and%20Complicated%20Book/solution.cpp) |
 | 845A | [Chess Tourney](https://codeforces.com/contest/845/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/845/A%20-%20Chess%20Tourney/solution.cpp) |
 | 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
