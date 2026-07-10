@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 535 | 29 |
+| 536 | 29 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (12)
-- [binary search](#binary-search) (26)
+- [binary search](#binary-search) (27)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (112)
 - [combinatorics](#combinatorics) (12)
 - [constructive algorithms](#constructive-algorithms) (77)
-- [data structures](#data-structures) (20)
+- [data structures](#data-structures) (21)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (14)
 - [dsu](#dsu) (2)
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (160)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (292)
+- [implementation](#implementation) (293)
 - [math](#math) (161)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -92,6 +92,7 @@
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
@@ -348,6 +349,7 @@
 | 650A | [Watchmen](https://codeforces.com/contest/650/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/650/A%20-%20Watchmen/solution.cpp) |
 | 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
 | 713A | [Sonya and Queries](https://codeforces.com/contest/713/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/713/A%20-%20Sonya%20and%20Queries/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
 | 879B | [Table Tennis](https://codeforces.com/contest/879/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/879/B%20-%20Table%20Tennis/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
@@ -836,6 +838,7 @@
 | 811B | [Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/811/B%20-%20Vladik%20and%20Complicated%20Book/solution.cpp) |
 | 812A | [Sagheer and Crossroads](https://codeforces.com/contest/812/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/812/A%20-%20Sagheer%20and%20Crossroads/solution.cpp) |
 | 813A | [The Contest](https://codeforces.com/contest/813/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/813/A%20-%20The%20Contest/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 | 834B | [The Festive Evening](https://codeforces.com/contest/834/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/834/B%20-%20The%20Festive%20Evening/solution.cpp) |
 | 845A | [Chess Tourney](https://codeforces.com/contest/845/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/845/A%20-%20Chess%20Tourney/solution.cpp) |
