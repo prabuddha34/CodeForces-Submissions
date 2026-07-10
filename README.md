@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 532 | 29 |
+| 533 | 29 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (112)
 - [combinatorics](#combinatorics) (11)
-- [constructive algorithms](#constructive-algorithms) (75)
+- [constructive algorithms](#constructive-algorithms) (76)
 - [data structures](#data-structures) (20)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (14)
@@ -299,6 +299,7 @@
 | 774C | [Maximum Number](https://codeforces.com/contest/774/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/774/C%20-%20Maximum%20Number/solution.cpp) |
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 | 779C | [Dishonest Sellers](https://codeforces.com/contest/779/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/779/C%20-%20Dishonest%20Sellers/solution.cpp) |
+| 803A | [Maximal Binary Matrix](https://codeforces.com/contest/803/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/803/A%20-%20Maximal%20Binary%20Matrix/solution.cpp) |
 | 803B | [Distances to Zero](https://codeforces.com/contest/803/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/803/B%20-%20Distances%20to%20Zero/solution.cpp) |
 | 931B | [World Cup](https://codeforces.com/contest/931/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/931/B%20-%20World%20Cup/solution.cpp) |
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/982/A%20-%20Row/solution.cpp) |
