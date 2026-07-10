@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 547 | 29 |
+| 548 | 29 |
 
 ---
 
@@ -23,14 +23,14 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (15)
 - [dsu](#dsu) (2)
-- [expression parsing](#expression-parsing) (2)
+- [expression parsing](#expression-parsing) (3)
 - [games](#games) (10)
 - [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (161)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (299)
-- [math](#math) (163)
+- [math](#math) (164)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
@@ -405,6 +405,7 @@
 |---|---------|------------|----------|
 | 41C | [Email address](https://codeforces.com/contest/41/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/41/C%20-%20Email%20address/solution.cpp) |
 | 612C | [Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/C%20-%20Replace%20To%20Make%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 958D1 | [Hyperspace Jump (easy)](https://codeforces.com/contest/958/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/958/D1%20-%20Hyperspace%20Jump%20(easy)/solution.cpp) |
 
 ### games
 
@@ -1034,6 +1035,7 @@
 | 883M | [Quadcopter Competition](https://codeforces.com/contest/883/problem/M) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/883/M%20-%20Quadcopter%20Competition/solution.cpp) |
 | 937B | [Vile Grasshoppers](https://codeforces.com/contest/937/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/937/B%20-%20Vile%20Grasshoppers/solution.cpp) |
 | 946B | [Weird Subtraction Process](https://codeforces.com/contest/946/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/946/B%20-%20Weird%20Subtraction%20Process/solution.cpp) |
+| 958D1 | [Hyperspace Jump (easy)](https://codeforces.com/contest/958/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/958/D1%20-%20Hyperspace%20Jump%20(easy)/solution.cpp) |
 | 987B | [High School: Become Human](https://codeforces.com/contest/987/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/B%20-%20High%20School%3A%20Become%20Human/solution.cpp) |
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
