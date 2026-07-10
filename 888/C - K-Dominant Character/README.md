@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/888/problem/C" target="_blank" rel="noopener noreferrer">888C — K-Dominant Character</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 888C](https://codeforces.com/contest/888/problem/C) |
+
+## Topics
+`binary search` `implementation` `two pointers`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. K-Dominant Character</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a string <span class="tex-span"><i>s</i></span> consisting of lowercase Latin letters. Character <span class="tex-span"><i>c</i></span> is called <span class="tex-span"><i>k</i></span>-dominant iff each substring of <span class="tex-span"><i>s</i></span> with length at least <span class="tex-span"><i>k</i></span> contains this character <span class="tex-span"><i>c</i></span>.</p><p>You have to find minimum <span class="tex-span"><i>k</i></span> such that there exists at least one <span class="tex-span"><i>k</i></span>-dominant character.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains string <span class="tex-span"><i>s</i></span> consisting of lowercase Latin letters (<span class="tex-span">1 ≤ |<i>s</i>| ≤ 100000</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print one number — the minimum value of <span class="tex-span"><i>k</i></span> such that there exists at least one <span class="tex-span"><i>k</i></span>-dominant character.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007739587696395963" id="id0029825703898834965" class="input-output-copier">Copy</div></div><pre id="id007739587696395963">abacaba<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id002614958415494907" id="id005711573617308578" class="input-output-copier">Copy</div></div><pre id="id002614958415494907">2<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009492937711067018" id="id0004710168012162497" class="input-output-copier">Copy</div></div><pre id="id009492937711067018">zzzzz<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0043194607833056453" id="id006631170629198112" class="input-output-copier">Copy</div></div><pre id="id0043194607833056453">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0034035515765471736" id="id007686796644404574" class="input-output-copier">Copy</div></div><pre id="id0034035515765471736">abcde<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0039066794758028534" id="id009894242788425875" class="input-output-copier">Copy</div></div><pre id="id0039066794758028534">3<br></pre></div></div></div>
