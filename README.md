@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 540 | 29 |
+| 541 | 29 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (28)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (112)
+- [brute force](#brute-force) (113)
 - [combinatorics](#combinatorics) (12)
-- [constructive algorithms](#constructive-algorithms) (77)
+- [constructive algorithms](#constructive-algorithms) (78)
 - [data structures](#data-structures) (21)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (14)
@@ -210,6 +210,7 @@
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 | 908B | [New Year and Buggy Bot](https://codeforces.com/contest/908/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/908/B%20-%20New%20Year%20and%20Buggy%20Bot/solution.cpp) |
 | 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
+| 911C | [Three Garlands](https://codeforces.com/contest/911/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/C%20-%20Three%20Garlands/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 919C | [Seat Arrangements](https://codeforces.com/contest/919/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/919/C%20-%20Seat%20Arrangements/solution.cpp) |
 | 938B | [Run For Your Prize](https://codeforces.com/contest/938/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/938/B%20-%20Run%20For%20Your%20Prize/solution.cpp) |
@@ -305,6 +306,7 @@
 | 803A | [Maximal Binary Matrix](https://codeforces.com/contest/803/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/803/A%20-%20Maximal%20Binary%20Matrix/solution.cpp) |
 | 803B | [Distances to Zero](https://codeforces.com/contest/803/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/803/B%20-%20Distances%20to%20Zero/solution.cpp) |
 | 808C | [Tea Party](https://codeforces.com/contest/808/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/808/C%20-%20Tea%20Party/solution.cpp) |
+| 911C | [Three Garlands](https://codeforces.com/contest/911/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/911/C%20-%20Three%20Garlands/solution.cpp) |
 | 931B | [World Cup](https://codeforces.com/contest/931/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/931/B%20-%20World%20Cup/solution.cpp) |
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/982/A%20-%20Row/solution.cpp) |
 | 989B | [A Tide of Riverscape](https://codeforces.com/contest/989/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/989/B%20-%20A%20Tide%20of%20Riverscape/solution.cpp) |
