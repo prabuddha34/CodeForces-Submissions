@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 554 | 29 |
+| 555 | 29 |
 
 ---
 
@@ -27,10 +27,10 @@
 - [games](#games) (10)
 - [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (162)
+- [greedy](#greedy) (163)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (303)
-- [math](#math) (166)
+- [implementation](#implementation) (304)
+- [math](#math) (167)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
@@ -572,6 +572,7 @@
 | 940B | [Our Tanya is Crying Out Loud](https://codeforces.com/contest/940/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/940/B%20-%20Our%20Tanya%20is%20Crying%20Out%20Loud/solution.cpp) |
 | 990B | [Micro-World](https://codeforces.com/contest/990/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/990/B%20-%20Micro-World/solution.cpp) |
 | 994B | [Knights of a Polygonal Table](https://codeforces.com/contest/994/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/994/B%20-%20Knights%20of%20a%20Polygonal%20Table/solution.cpp) |
+| 995B | [Suit and Tie](https://codeforces.com/contest/995/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/995/B%20-%20Suit%20and%20Tie/solution.cpp) |
 | 1000A | [Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1000/A%20-%20Codehorses%20T-shirts/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
 | 1005C | [Summarize to the Power of Two](https://codeforces.com/contest/1005/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1005/C%20-%20Summarize%20to%20the%20Power%20of%20Two/solution.cpp) |
@@ -890,6 +891,7 @@
 | 987C | [Three displays](https://codeforces.com/contest/987/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/C%20-%20Three%20displays/solution.cpp) |
 | 988C | [Equal Sums](https://codeforces.com/contest/988/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/C%20-%20Equal%20Sums/solution.cpp) |
 | 994B | [Knights of a Polygonal Table](https://codeforces.com/contest/994/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/994/B%20-%20Knights%20of%20a%20Polygonal%20Table/solution.cpp) |
+| 995B | [Suit and Tie](https://codeforces.com/contest/995/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/995/B%20-%20Suit%20and%20Tie/solution.cpp) |
 | 999C | [Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/999/C%20-%20Alphabetic%20Removals/solution.cpp) |
 | 1000A | [Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1000/A%20-%20Codehorses%20T-shirts/solution.cpp) |
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
@@ -1049,6 +1051,7 @@
 | 962C | [Make a Square](https://codeforces.com/contest/962/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/962/C%20-%20Make%20a%20Square/solution.cpp) |
 | 978E | [Bus Video System](https://codeforces.com/contest/978/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/978/E%20-%20Bus%20Video%20System/solution.cpp) |
 | 987B | [High School: Become Human](https://codeforces.com/contest/987/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/B%20-%20High%20School%3A%20Become%20Human/solution.cpp) |
+| 995B | [Suit and Tie](https://codeforces.com/contest/995/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/995/B%20-%20Suit%20and%20Tie/solution.cpp) |
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
 | 1017B | [The Bits](https://codeforces.com/contest/1017/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1017/B%20-%20The%20Bits/solution.cpp) |
