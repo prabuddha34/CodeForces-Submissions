@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 576 | 31 |
+| 577 | 31 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [data structures](#data-structures) (21)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (17)
+- [dp](#dp) (18)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (3)
 - [games](#games) (10)
@@ -407,6 +407,7 @@
 | 987C | [Three displays](https://codeforces.com/contest/987/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/C%20-%20Three%20displays/solution.cpp) |
 | 1108D | [Diverse Garland](https://codeforces.com/contest/1108/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1108/D%20-%20Diverse%20Garland/solution.cpp) |
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.cpp) |
+| 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
 | 1459B | [Move and Turn](https://codeforces.com/contest/1459/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1459/B%20-%20Move%20and%20Turn/solution.cpp) |
 | 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.cpp) |
