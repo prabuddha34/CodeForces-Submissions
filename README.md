@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 570 | 29 |
+| 571 | 29 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (3)
 - [games](#games) (10)
-- [geometry](#geometry) (16)
+- [geometry](#geometry) (17)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (172)
 - [hashing](#hashing) (3)
@@ -451,6 +451,7 @@
 | 851B | [Arpa and an exam about geometry](https://codeforces.com/contest/851/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/851/B%20-%20Arpa%20and%20an%20exam%20about%20geometry/solution.cpp) |
 | 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
 | 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
+| 1156A | [Inscribed Figures](https://codeforces.com/contest/1156/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1156/A%20-%20Inscribed%20Figures/solution.cpp) |
 | 1495A | [Diamond Miner](https://codeforces.com/contest/1495/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1495/A%20-%20Diamond%20Miner/solution.cpp) |
 
 ### graphs
