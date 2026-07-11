@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 558 | 29 |
+| 559 | 29 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (165)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (306)
+- [implementation](#implementation) (307)
 - [math](#math) (167)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -911,6 +911,7 @@
 | 1029A | [Many Equal Substrings](https://codeforces.com/contest/1029/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1029/A%20-%20Many%20Equal%20Substrings/solution.cpp) |
 | 1030C | [Vasya and Golden Ticket](https://codeforces.com/contest/1030/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/C%20-%20Vasya%20and%20Golden%20Ticket/solution.cpp) |
 | 1043B | [Lost Array](https://codeforces.com/contest/1043/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1043/B%20-%20Lost%20Array/solution.cpp) |
+| 1046F | [Splitting money](https://codeforces.com/contest/1046/problem/F) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1046/F%20-%20Splitting%20money/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
 | 1059B | [Forgery](https://codeforces.com/contest/1059/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1059/B%20-%20Forgery/solution.cpp) |
 | 1062A | [A Prank](https://codeforces.com/contest/1062/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1062/A%20-%20A%20Prank/solution.cpp) |
