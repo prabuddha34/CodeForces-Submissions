@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 564 | 29 |
+| 565 | 29 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [games](#games) (10)
 - [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (168)
+- [greedy](#greedy) (169)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (310)
 - [math](#math) (169)
@@ -37,7 +37,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (63)
+- [sortings](#sortings) (64)
 - [strings](#strings) (46)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (18)
@@ -594,6 +594,7 @@
 | 1088C | [Ehab and a 2-operation task](https://codeforces.com/contest/1088/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1088/C%20-%20Ehab%20and%20a%202-operation%20task/solution.cpp) |
 | 1097C | [Yuhao and a Parenthesis](https://codeforces.com/contest/1097/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1097/C%20-%20Yuhao%20and%20a%20Parenthesis/solution.cpp) |
 | 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
+| 1102B | [Array K-Coloring](https://codeforces.com/contest/1102/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1102/B%20-%20Array%20K-Coloring/solution.cpp) |
 | 1108C | [Nice Garland](https://codeforces.com/contest/1108/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1108/C%20-%20Nice%20Garland/solution.cpp) |
 | 1113B | [Sasha and Magnetic Machines](https://codeforces.com/contest/1113/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1113/B%20-%20Sasha%20and%20Magnetic%20Machines/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
@@ -1267,6 +1268,7 @@
 | 1038C | [Gambling](https://codeforces.com/contest/1038/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1038/C%20-%20Gambling/solution.cpp) |
 | 1061B | [Views Matter](https://codeforces.com/contest/1061/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1061/B%20-%20Views%20Matter/solution.cpp) |
 | 1075B | [Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1075/B%20-%20Taxi%20drivers%20and%20Lyft/solution.cpp) |
+| 1102B | [Array K-Coloring](https://codeforces.com/contest/1102/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1102/B%20-%20Array%20K-Coloring/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
 | 1174B | [Ehab Is an Odd Person](https://codeforces.com/contest/1174/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1174/B%20-%20Ehab%20Is%20an%20Odd%20Person/solution.cpp) |
