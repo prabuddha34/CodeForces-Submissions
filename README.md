@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 563 | 29 |
+| 564 | 29 |
 
 ---
 
@@ -27,9 +27,9 @@
 - [games](#games) (10)
 - [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (167)
+- [greedy](#greedy) (168)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (309)
+- [implementation](#implementation) (310)
 - [math](#math) (169)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -592,6 +592,7 @@
 | 1076A | [Minimizing the String](https://codeforces.com/contest/1076/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/A%20-%20Minimizing%20the%20String/solution.cpp) |
 | 1084B | [Kvass and the Fair Nut](https://codeforces.com/contest/1084/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1084/B%20-%20Kvass%20and%20the%20Fair%20Nut/solution.cpp) |
 | 1088C | [Ehab and a 2-operation task](https://codeforces.com/contest/1088/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1088/C%20-%20Ehab%20and%20a%202-operation%20task/solution.cpp) |
+| 1097C | [Yuhao and a Parenthesis](https://codeforces.com/contest/1097/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1097/C%20-%20Yuhao%20and%20a%20Parenthesis/solution.cpp) |
 | 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
 | 1108C | [Nice Garland](https://codeforces.com/contest/1108/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1108/C%20-%20Nice%20Garland/solution.cpp) |
 | 1113B | [Sasha and Magnetic Machines](https://codeforces.com/contest/1113/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1113/B%20-%20Sasha%20and%20Magnetic%20Machines/solution.cpp) |
@@ -925,6 +926,7 @@
 | 1076B | [Divisor Subtraction](https://codeforces.com/contest/1076/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/B%20-%20Divisor%20Subtraction/solution.cpp) |
 | 1082A | [Vasya and Book](https://codeforces.com/contest/1082/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1082/A%20-%20Vasya%20and%20Book/solution.cpp) |
 | 1084B | [Kvass and the Fair Nut](https://codeforces.com/contest/1084/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1084/B%20-%20Kvass%20and%20the%20Fair%20Nut/solution.cpp) |
+| 1097C | [Yuhao and a Parenthesis](https://codeforces.com/contest/1097/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1097/C%20-%20Yuhao%20and%20a%20Parenthesis/solution.cpp) |
 | 1099C | [Postcard](https://codeforces.com/contest/1099/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1099/C%20-%20Postcard/solution.cpp) |
 | 1100B | [Build a Contest](https://codeforces.com/contest/1100/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/B%20-%20Build%20a%20Contest/solution.cpp) |
 | 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
