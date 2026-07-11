@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 559 | 29 |
+| 560 | 29 |
 
 ---
 
@@ -27,9 +27,9 @@
 - [games](#games) (10)
 - [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (165)
+- [greedy](#greedy) (166)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (307)
+- [implementation](#implementation) (308)
 - [math](#math) (167)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -37,7 +37,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (62)
+- [sortings](#sortings) (63)
 - [strings](#strings) (46)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (18)
@@ -586,6 +586,7 @@
 | 1046C | [Space Formula](https://codeforces.com/contest/1046/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1046/C%20-%20Space%20Formula/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
 | 1060B | [Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1060/B%20-%20Maximum%20Sum%20of%20Digits/solution.cpp) |
+| 1061B | [Views Matter](https://codeforces.com/contest/1061/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1061/B%20-%20Views%20Matter/solution.cpp) |
 | 1062A | [A Prank](https://codeforces.com/contest/1062/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1062/A%20-%20A%20Prank/solution.cpp) |
 | 1076A | [Minimizing the String](https://codeforces.com/contest/1076/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1076/A%20-%20Minimizing%20the%20String/solution.cpp) |
 | 1084B | [Kvass and the Fair Nut](https://codeforces.com/contest/1084/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1084/B%20-%20Kvass%20and%20the%20Fair%20Nut/solution.cpp) |
@@ -914,6 +915,7 @@
 | 1046F | [Splitting money](https://codeforces.com/contest/1046/problem/F) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1046/F%20-%20Splitting%20money/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
 | 1059B | [Forgery](https://codeforces.com/contest/1059/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1059/B%20-%20Forgery/solution.cpp) |
+| 1061B | [Views Matter](https://codeforces.com/contest/1061/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1061/B%20-%20Views%20Matter/solution.cpp) |
 | 1062A | [A Prank](https://codeforces.com/contest/1062/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1062/A%20-%20A%20Prank/solution.cpp) |
 | 1070K | [Video Posts](https://codeforces.com/contest/1070/problem/K) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1070/K%20-%20Video%20Posts/solution.cpp) |
 | 1075B | [Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1075/B%20-%20Taxi%20drivers%20and%20Lyft/solution.cpp) |
@@ -1256,6 +1258,7 @@
 | 1006B | [Polycarp's Practice](https://codeforces.com/contest/1006/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/B%20-%20Polycarp's%20Practice/solution.cpp) |
 | 1015C | [Songs Compression](https://codeforces.com/contest/1015/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1015/C%20-%20Songs%20Compression/solution.cpp) |
 | 1038C | [Gambling](https://codeforces.com/contest/1038/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1038/C%20-%20Gambling/solution.cpp) |
+| 1061B | [Views Matter](https://codeforces.com/contest/1061/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1061/B%20-%20Views%20Matter/solution.cpp) |
 | 1075B | [Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1075/B%20-%20Taxi%20drivers%20and%20Lyft/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
