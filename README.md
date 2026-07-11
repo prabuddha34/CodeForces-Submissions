@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 578 | 31 |
+| 579 | 32 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (12)
-- [binary search](#binary-search) (31)
+- [binary search](#binary-search) (32)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (119)
 - [combinatorics](#combinatorics) (13)
@@ -26,13 +26,13 @@
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (3)
 - [games](#games) (10)
-- [geometry](#geometry) (17)
+- [geometry](#geometry) (18)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (175)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (313)
 - [interactive](#interactive) (1)
-- [math](#math) (172)
+- [math](#math) (173)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
@@ -41,6 +41,7 @@
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (68)
 - [strings](#strings) (46)
+- [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (18)
 
@@ -108,6 +109,7 @@
 | 1184B1 | [The Doctor Meets Vader (Easy)](https://codeforces.com/contest/1184/problem/B1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/B1%20-%20The%20Doctor%20Meets%20Vader%20(Easy)/solution.cpp) |
 | 1187B | [Letters Shop](https://codeforces.com/contest/1187/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1187/B%20-%20Letters%20Shop/solution.cpp) |
 | 1217A | [Creating a Character](https://codeforces.com/contest/1217/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1217/A%20-%20Creating%20a%20Character/solution.cpp) |
+| 1354C1 | [Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1354/C1%20-%20Simple%20Polygon%20Embedding/solution.cpp) |
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
 | 1476B | [Inflation](https://codeforces.com/contest/1476/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1476/B%20-%20Inflation/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
@@ -465,6 +467,7 @@
 | 1030B | [Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/B%20-%20Vasya%20and%20Cornfield/solution.cpp) |
 | 1100C | [NN and the Optical Illusion](https://codeforces.com/contest/1100/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1100/C%20-%20NN%20and%20the%20Optical%20Illusion/solution.cpp) |
 | 1156A | [Inscribed Figures](https://codeforces.com/contest/1156/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1156/A%20-%20Inscribed%20Figures/solution.cpp) |
+| 1354C1 | [Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1354/C1%20-%20Simple%20Polygon%20Embedding/solution.cpp) |
 | 1495A | [Diamond Miner](https://codeforces.com/contest/1495/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1495/A%20-%20Diamond%20Miner/solution.cpp) |
 
 ### graphs
@@ -1134,6 +1137,7 @@
 | 1213C | [Book Reading](https://codeforces.com/contest/1213/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1213/C%20-%20Book%20Reading/solution.cpp) |
 | 1216D | [Swords](https://codeforces.com/contest/1216/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1216/D%20-%20Swords/solution.cpp) |
 | 1217A | [Creating a Character](https://codeforces.com/contest/1217/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1217/A%20-%20Creating%20a%20Character/solution.cpp) |
+| 1354C1 | [Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1354/C1%20-%20Simple%20Polygon%20Embedding/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.cpp) |
 | 1371B | [Magical Calendar](https://codeforces.com/contest/1371/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/B%20-%20Magical%20Calendar/solution.cpp) |
@@ -1368,6 +1372,12 @@
 | 1512C | [A-B Palindrome](https://codeforces.com/contest/1512/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1512/C%20-%20A-B%20Palindrome/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1354C1 | [Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1354/C1%20-%20Simple%20Polygon%20Embedding/solution.cpp) |
 
 ### trees
 
