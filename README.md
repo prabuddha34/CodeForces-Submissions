@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 569 | 29 |
+| 570 | 29 |
 
 ---
 
@@ -29,8 +29,8 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (172)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (312)
-- [math](#math) (169)
+- [implementation](#implementation) (313)
+- [math](#math) (170)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
@@ -945,6 +945,7 @@
 | 1121B | [Mike and Children](https://codeforces.com/contest/1121/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1121/B%20-%20Mike%20and%20Children/solution.cpp) |
 | 1131B | [Draw!](https://codeforces.com/contest/1131/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/B%20-%20Draw!/solution.cpp) |
 | 1140B | [Good String](https://codeforces.com/contest/1140/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1140/B%20-%20Good%20String/solution.cpp) |
+| 1154C | [Gourmet Cat](https://codeforces.com/contest/1154/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1154/C%20-%20Gourmet%20Cat/solution.cpp) |
 | 1187B | [Letters Shop](https://codeforces.com/contest/1187/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1187/B%20-%20Letters%20Shop/solution.cpp) |
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
 | 1194B | [Yet Another Crosses Problem](https://codeforces.com/contest/1194/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1194/B%20-%20Yet%20Another%20Crosses%20Problem/solution.cpp) |
@@ -1097,6 +1098,7 @@
 | 1133B | [Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1133/B%20-%20Preparation%20for%20International%20Women's%20Day/solution.cpp) |
 | 1143B | [Nirvana](https://codeforces.com/contest/1143/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1143/B%20-%20Nirvana/solution.cpp) |
 | 1154B | [Make Them Equal](https://codeforces.com/contest/1154/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1154/B%20-%20Make%20Them%20Equal/solution.cpp) |
+| 1154C | [Gourmet Cat](https://codeforces.com/contest/1154/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1154/C%20-%20Gourmet%20Cat/solution.cpp) |
 | 1155C | [Alarm Clocks Everywhere](https://codeforces.com/contest/1155/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1155/C%20-%20Alarm%20Clocks%20Everywhere/solution.cpp) |
 | 1178C | [Tiles](https://codeforces.com/contest/1178/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1178/C%20-%20Tiles/solution.cpp) |
 | 1184A1 | [Heidi Learns Hashing (Easy)](https://codeforces.com/contest/1184/problem/A1) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1184/A1%20-%20Heidi%20Learns%20Hashing%20(Easy)/solution.cpp) |
