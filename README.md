@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 579 | 32 |
+| 580 | 32 |
 
 ---
 
@@ -29,8 +29,8 @@
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (175)
-- [hashing](#hashing) (3)
-- [implementation](#implementation) (313)
+- [hashing](#hashing) (4)
+- [implementation](#implementation) (314)
 - [interactive](#interactive) (1)
 - [math](#math) (173)
 - [matrices](#matrices) (1)
@@ -665,6 +665,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
 | 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
@@ -673,6 +674,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
 | 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
