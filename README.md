@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 568 | 29 |
+| 569 | 29 |
 
 ---
 
@@ -27,9 +27,9 @@
 - [games](#games) (10)
 - [geometry](#geometry) (16)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (171)
+- [greedy](#greedy) (172)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (311)
+- [implementation](#implementation) (312)
 - [math](#math) (169)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
@@ -604,6 +604,7 @@
 | 1113B | [Sasha and Magnetic Machines](https://codeforces.com/contest/1113/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1113/B%20-%20Sasha%20and%20Magnetic%20Machines/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
 | 1130B | [Two Cakes](https://codeforces.com/contest/1130/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1130/B%20-%20Two%20Cakes/solution.cpp) |
+| 1131B | [Draw!](https://codeforces.com/contest/1131/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/B%20-%20Draw!/solution.cpp) |
 | 1131C | [Birthday](https://codeforces.com/contest/1131/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/C%20-%20Birthday/solution.cpp) |
 | 1153B | [Serval and Toy Bricks](https://codeforces.com/contest/1153/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1153/B%20-%20Serval%20and%20Toy%20Bricks/solution.cpp) |
 | 1157B | [Long Number](https://codeforces.com/contest/1157/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1157/B%20-%20Long%20Number/solution.cpp) |
@@ -942,6 +943,7 @@
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1119A | [Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1119/A%20-%20Ilya%20and%20a%20Colorful%20Walk/solution.cpp) |
 | 1121B | [Mike and Children](https://codeforces.com/contest/1121/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1121/B%20-%20Mike%20and%20Children/solution.cpp) |
+| 1131B | [Draw!](https://codeforces.com/contest/1131/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1131/B%20-%20Draw!/solution.cpp) |
 | 1140B | [Good String](https://codeforces.com/contest/1140/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1140/B%20-%20Good%20String/solution.cpp) |
 | 1187B | [Letters Shop](https://codeforces.com/contest/1187/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1187/B%20-%20Letters%20Shop/solution.cpp) |
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
