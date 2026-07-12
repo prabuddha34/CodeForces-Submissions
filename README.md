@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 581 | 32 |
+| 582 | 32 |
 
 ---
 
@@ -16,13 +16,13 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (32)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (119)
+- [brute force](#brute-force) (120)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (82)
 - [data structures](#data-structures) (21)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (19)
+- [dp](#dp) (20)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (3)
 - [games](#games) (10)
@@ -133,6 +133,7 @@
 |---|---------|------------|----------|
 | 9B | [Running Student](https://codeforces.com/contest/9/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/B%20-%20Running%20Student/solution.cpp) |
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
+| 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
 | 23A | [You're Given a String...](https://codeforces.com/contest/23/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/23/A%20-%20You're%20Given%20a%20String.../solution.cpp) |
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
 | 48B | [Land Lot](https://codeforces.com/contest/48/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/48/B%20-%20Land%20Lot/solution.cpp) |
@@ -399,6 +400,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 10B | [Cinema Cashier](https://codeforces.com/contest/10/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/10/B%20-%20Cinema%20Cashier/solution.cpp) |
+| 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
 | 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
