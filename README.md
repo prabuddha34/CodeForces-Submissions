@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 583 | 32 |
+| 584 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (175)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (316)
+- [implementation](#implementation) (317)
 - [interactive](#interactive) (1)
 - [math](#math) (173)
 - [matrices](#matrices) (1)
@@ -686,6 +686,7 @@
 | 18C | [Stripe](https://codeforces.com/contest/18/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/18/C%20-%20Stripe/solution.cpp) |
 | 24B | [F1 Champions](https://codeforces.com/contest/24/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/24/B%20-%20F1%20Champions/solution.cpp) |
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
+| 29B | [Traffic Lights](https://codeforces.com/contest/29/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/29/B%20-%20Traffic%20Lights/solution.cpp) |
 | 31A | [Worms Evolution](https://codeforces.com/contest/31/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/31/A%20-%20Worms%20Evolution/solution.cpp) |
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
