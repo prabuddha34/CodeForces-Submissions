@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 588 | 32 |
+| 589 | 32 |
 
 ---
 
@@ -32,7 +32,7 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (320)
 - [interactive](#interactive) (1)
-- [math](#math) (173)
+- [math](#math) (174)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
@@ -1014,6 +1014,7 @@
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
+| 49B | [Sum](https://codeforces.com/contest/49/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/49/B%20-%20Sum/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
 | 62A | [A Student's Dream](https://codeforces.com/contest/62/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/62/A%20-%20A%20Student's%20Dream/solution.cpp) |
 | 71B | [Progress Bar](https://codeforces.com/contest/71/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/71/B%20-%20Progress%20Bar/solution.cpp) |
