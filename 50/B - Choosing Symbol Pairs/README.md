@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/50/problem/B" target="_blank" rel="noopener noreferrer">50B — Choosing Symbol Pairs</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1500 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 50B](https://codeforces.com/contest/50/problem/B) |
+
+## Topics
+`strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Choosing Symbol Pairs</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>There is a given string <span class="tex-span"><i>S</i></span> consisting of <span class="tex-span"><i>N</i></span> symbols. Your task is to find the number of ordered pairs of integers <span class="tex-span"><i>i</i></span> and <span class="tex-span"><i>j</i></span> such that</p><p>1. <span class="tex-span">1 ≤ <i>i</i>, <i>j</i> ≤ <i>N</i></span></p><p>2. <span class="tex-span"><i>S</i>[<i>i</i>] = <i>S</i>[<i>j</i>]</span>, that is the <span class="tex-span"><i>i</i></span>-th symbol of string <span class="tex-span"><i>S</i></span> is equal to the <span class="tex-span"><i>j</i></span>-th.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The single input line contains <span class="tex-span"><i>S</i></span>, consisting of lowercase Latin letters and digits. It is guaranteed that string <span class="tex-span"><i>S</i></span> in not empty and its length does not exceed <span class="tex-span">10<sup class="upper-index">5</sup></span>.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single number which represents the number of pairs <span class="tex-span"><i>i</i></span> and <span class="tex-span"><i>j</i></span> with the needed property. Pairs <span class="tex-span">(<i>x</i>, <i>y</i>)</span> and <span class="tex-span">(<i>y</i>, <i>x</i>)</span> should be considered different, i.e. the ordered pairs count.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0026236618931042366" id="id005936026144551669" class="input-output-copier">Copy</div></div><pre id="id0026236618931042366">great10<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0046534526997231773" id="id002938044641906683" class="input-output-copier">Copy</div></div><pre id="id0046534526997231773">7<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007740495406428797" id="id00015659743360389666" class="input-output-copier">Copy</div></div><pre id="id007740495406428797">aaaaaaaaaa<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0010376689275853135" id="id005444723895039553" class="input-output-copier">Copy</div></div><pre id="id0010376689275853135">100<br></pre></div></div></div>
