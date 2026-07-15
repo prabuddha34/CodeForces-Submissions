@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 590 | 32 |
+| 591 | 32 |
 
 ---
 
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (68)
+- [sortings](#sortings) (69)
 - [strings](#strings) (49)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -1269,6 +1269,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
+| 53D | [Physical Education](https://codeforces.com/contest/53/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/53/D%20-%20Physical%20Education/solution.cpp) |
 | 99B | [Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/99/B%20-%20Help%20Chef%20Gerasim/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 176A | [Trading Business](https://codeforces.com/contest/176/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/176/A%20-%20Trading%20Business/solution.cpp) |
