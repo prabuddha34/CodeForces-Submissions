@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 591 | 32 |
+| 592 | 32 |
 
 ---
 
@@ -24,13 +24,13 @@
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (20)
 - [dsu](#dsu) (2)
-- [expression parsing](#expression-parsing) (3)
+- [expression parsing](#expression-parsing) (4)
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (177)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (320)
+- [implementation](#implementation) (321)
 - [interactive](#interactive) (1)
 - [math](#math) (174)
 - [matrices](#matrices) (1)
@@ -40,7 +40,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (69)
-- [strings](#strings) (49)
+- [strings](#strings) (50)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (18)
@@ -432,6 +432,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41C | [Email address](https://codeforces.com/contest/41/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/41/C%20-%20Email%20address/solution.cpp) |
+| 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 612C | [Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/C%20-%20Replace%20To%20Make%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 958D1 | [Hyperspace Jump (easy)](https://codeforces.com/contest/958/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/958/D1%20-%20Hyperspace%20Jump%20(easy)/solution.cpp) |
 
@@ -714,6 +715,7 @@
 | 66A | [Petya and Java](https://codeforces.com/contest/66/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/66/A%20-%20Petya%20and%20Java/solution.cpp) |
 | 69B | [Bets](https://codeforces.com/contest/69/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/69/B%20-%20Bets/solution.cpp) |
 | 71B | [Progress Bar](https://codeforces.com/contest/71/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/71/B%20-%20Progress%20Bar/solution.cpp) |
+| 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 85A | [Domino](https://codeforces.com/contest/85/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/85/A%20-%20Domino/solution.cpp) |
 | 88A | [Chord](https://codeforces.com/contest/88/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/88/A%20-%20Chord/solution.cpp) |
 | 99B | [Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/99/B%20-%20Help%20Chef%20Gerasim/solution.cpp) |
@@ -1349,6 +1351,7 @@
 | 50B | [Choosing Symbol Pairs](https://codeforces.com/contest/50/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/50/B%20-%20Choosing%20Symbol%20Pairs/solution.cpp) |
 | 61B | [Hard Work](https://codeforces.com/contest/61/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/61/B%20-%20Hard%20Work/solution.cpp) |
 | 66A | [Petya and Java](https://codeforces.com/contest/66/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/66/A%20-%20Petya%20and%20Java/solution.cpp) |
+| 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 245B | [Internet Address](https://codeforces.com/contest/245/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/245/B%20-%20Internet%20Address/solution.cpp) |
