@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 585 | 32 |
+| 586 | 32 |
 
 ---
 
@@ -29,8 +29,8 @@
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (176)
-- [hashing](#hashing) (4)
-- [implementation](#implementation) (318)
+- [hashing](#hashing) (5)
+- [implementation](#implementation) (319)
 - [interactive](#interactive) (1)
 - [math](#math) (173)
 - [matrices](#matrices) (1)
@@ -40,7 +40,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (68)
-- [strings](#strings) (47)
+- [strings](#strings) (48)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (18)
@@ -670,6 +670,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
+| 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
@@ -694,6 +695,7 @@
 | 38B | [Chess](https://codeforces.com/contest/38/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/38/B%20-%20Chess/solution.cpp) |
 | 39F | [Pacifist frogs](https://codeforces.com/contest/39/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/F%20-%20Pacifist%20frogs/solution.cpp) |
 | 39H | [Multiplication Table](https://codeforces.com/contest/39/problem/H) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/H%20-%20Multiplication%20Table/solution.cpp) |
+| 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 41C | [Email address](https://codeforces.com/contest/41/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/41/C%20-%20Email%20address/solution.cpp) |
 | 44C | [Holidays](https://codeforces.com/contest/44/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/44/C%20-%20Holidays/solution.cpp) |
@@ -1339,6 +1341,7 @@
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
 | 8A | [Train and Peter](https://codeforces.com/contest/8/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/8/A%20-%20Train%20and%20Peter/solution.cpp) |
 | 31B | [Sysadmin Bob](https://codeforces.com/contest/31/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/31/B%20-%20Sysadmin%20Bob/solution.cpp) |
+| 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 61B | [Hard Work](https://codeforces.com/contest/61/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/61/B%20-%20Hard%20Work/solution.cpp) |
 | 66A | [Petya and Java](https://codeforces.com/contest/66/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/66/A%20-%20Petya%20and%20Java/solution.cpp) |
 | 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
