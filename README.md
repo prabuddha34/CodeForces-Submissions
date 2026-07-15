@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 586 | 32 |
+| 587 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (176)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (319)
+- [implementation](#implementation) (320)
 - [interactive](#interactive) (1)
 - [math](#math) (173)
 - [matrices](#matrices) (1)
@@ -698,6 +698,7 @@
 | 39J | [Spelling Check](https://codeforces.com/contest/39/problem/J) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/39/J%20-%20Spelling%20Check/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 41C | [Email address](https://codeforces.com/contest/41/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/41/C%20-%20Email%20address/solution.cpp) |
+| 44B | [Cola](https://codeforces.com/contest/44/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/44/B%20-%20Cola/solution.cpp) |
 | 44C | [Holidays](https://codeforces.com/contest/44/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/44/C%20-%20Holidays/solution.cpp) |
 | 47B | [Coins](https://codeforces.com/contest/47/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/47/B%20-%20Coins/solution.cpp) |
 | 48B | [Land Lot](https://codeforces.com/contest/48/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/48/B%20-%20Land%20Lot/solution.cpp) |
