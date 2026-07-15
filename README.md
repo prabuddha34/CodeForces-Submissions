@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 592 | 32 |
+| 593 | 32 |
 
 ---
 
@@ -30,9 +30,9 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (177)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (321)
+- [implementation](#implementation) (322)
 - [interactive](#interactive) (1)
-- [math](#math) (174)
+- [math](#math) (175)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
@@ -717,6 +717,7 @@
 | 71B | [Progress Bar](https://codeforces.com/contest/71/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/71/B%20-%20Progress%20Bar/solution.cpp) |
 | 75B | [Facetook Priority Wall](https://codeforces.com/contest/75/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/75/B%20-%20Facetook%20Priority%20Wall/solution.cpp) |
 | 85A | [Domino](https://codeforces.com/contest/85/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/85/A%20-%20Domino/solution.cpp) |
+| 87A | [Trains](https://codeforces.com/contest/87/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/87/A%20-%20Trains/solution.cpp) |
 | 88A | [Chord](https://codeforces.com/contest/88/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/88/A%20-%20Chord/solution.cpp) |
 | 99B | [Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/99/B%20-%20Help%20Chef%20Gerasim/solution.cpp) |
 | 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.cpp) |
@@ -1023,6 +1024,7 @@
 | 72C | [Extraordinarily Nice Numbers](https://codeforces.com/contest/72/problem/C) | 1200 | [Io](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/72/C%20-%20Extraordinarily%20Nice%20Numbers/solution.txt) |
 | 80B | [Depression](https://codeforces.com/contest/80/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/80/B%20-%20Depression/solution.cpp) |
 | 83A | [Magical Array](https://codeforces.com/contest/83/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/83/A%20-%20Magical%20Array/solution.cpp) |
+| 87A | [Trains](https://codeforces.com/contest/87/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/87/A%20-%20Trains/solution.cpp) |
 | 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.cpp) |
 | 117A | [Elevator](https://codeforces.com/contest/117/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/117/A%20-%20Elevator/solution.cpp) |
 | 120C | [Winnie-the-Pooh and honey](https://codeforces.com/contest/120/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/120/C%20-%20Winnie-the-Pooh%20and%20honey/solution.cpp) |
