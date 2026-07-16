@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 603 | 32 |
+| 604 | 32 |
 
 ---
 
@@ -28,18 +28,18 @@
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (179)
+- [greedy](#greedy) (180)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (326)
 - [interactive](#interactive) (1)
-- [math](#math) (177)
+- [math](#math) (178)
 - [matrices](#matrices) (1)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (43)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (72)
+- [sortings](#sortings) (73)
 - [strings](#strings) (52)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -512,6 +512,7 @@
 | 115B | [Lawnmower](https://codeforces.com/contest/115/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/115/B%20-%20Lawnmower/solution.cpp) |
 | 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
 | 149C | [Division into Teams](https://codeforces.com/contest/149/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/149/C%20-%20Division%20into%20Teams/solution.cpp) |
+| 166C | [Median](https://codeforces.com/contest/166/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/C%20-%20Median/solution.cpp) |
 | 169B | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/169/B%20-%20Replacing%20Digits/solution.cpp) |
 | 176A | [Trading Business](https://codeforces.com/contest/176/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/176/A%20-%20Trading%20Business/solution.cpp) |
 | 186B | [Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/B%20-%20Growing%20Mushrooms/solution.cpp) |
@@ -1043,6 +1044,7 @@
 | 131B | [Opposites Attract](https://codeforces.com/contest/131/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/131/B%20-%20Opposites%20Attract/solution.cpp) |
 | 148B | [Escape](https://codeforces.com/contest/148/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/148/B%20-%20Escape/solution.cpp) |
 | 149C | [Division into Teams](https://codeforces.com/contest/149/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/149/C%20-%20Division%20into%20Teams/solution.cpp) |
+| 166C | [Median](https://codeforces.com/contest/166/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/C%20-%20Median/solution.cpp) |
 | 174A | [Problem About Equation](https://codeforces.com/contest/174/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/174/A%20-%20Problem%20About%20Equation/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
 | 194B | [Square](https://codeforces.com/contest/194/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/194/B%20-%20Square/solution.cpp) |
@@ -1293,6 +1295,7 @@
 | 137C | [History](https://codeforces.com/contest/137/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/137/C%20-%20History/solution.cpp) |
 | 149C | [Division into Teams](https://codeforces.com/contest/149/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/149/C%20-%20Division%20into%20Teams/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
+| 166C | [Median](https://codeforces.com/contest/166/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/C%20-%20Median/solution.cpp) |
 | 176A | [Trading Business](https://codeforces.com/contest/176/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/176/A%20-%20Trading%20Business/solution.cpp) |
 | 186B | [Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/B%20-%20Growing%20Mushrooms/solution.cpp) |
 | 203C | [Photographer](https://codeforces.com/contest/203/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/C%20-%20Photographer/solution.cpp) |
