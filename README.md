@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 594 | 32 |
+| 595 | 32 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (12)
-- [binary search](#binary-search) (32)
+- [binary search](#binary-search) (33)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (120)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (82)
-- [data structures](#data-structures) (21)
+- [data structures](#data-structures) (22)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (20)
@@ -83,6 +83,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
 | 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
 | 152B | [Steps](https://codeforces.com/contest/152/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/152/B%20-%20Steps/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
@@ -362,6 +363,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 18C | [Stripe](https://codeforces.com/contest/18/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/18/C%20-%20Stripe/solution.cpp) |
+| 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
 | 222B | [Cosmic Tables](https://codeforces.com/contest/222/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/222/B%20-%20Cosmic%20Tables/solution.cpp) |
 | 295A | [Greg and Array](https://codeforces.com/contest/295/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/295/A%20-%20Greg%20and%20Array/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
