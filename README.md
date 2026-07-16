@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 602 | 32 |
+| 603 | 32 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (12)
-- [binary search](#binary-search) (33)
+- [binary search](#binary-search) (34)
 - [bitmasks](#bitmasks) (7)
 - [brute force](#brute-force) (121)
 - [combinatorics](#combinatorics) (13)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (179)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (325)
+- [implementation](#implementation) (326)
 - [interactive](#interactive) (1)
 - [math](#math) (177)
 - [matrices](#matrices) (1)
@@ -86,6 +86,7 @@
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/91/B%20-%20Queue/solution.cpp) |
 | 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
 | 152B | [Steps](https://codeforces.com/contest/152/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/152/B%20-%20Steps/solution.cpp) |
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 192A | [Funky Numbers](https://codeforces.com/contest/192/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/192/A%20-%20Funky%20Numbers/solution.cpp) |
 | 233B | [Non-square Equation](https://codeforces.com/contest/233/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/233/B%20-%20Non-square%20Equation/solution.cpp) |
@@ -742,6 +743,7 @@
 | 148B | [Escape](https://codeforces.com/contest/148/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/148/B%20-%20Escape/solution.cpp) |
 | 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
 | 152B | [Steps](https://codeforces.com/contest/152/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/152/B%20-%20Steps/solution.cpp) |
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 166A | [Rank List](https://codeforces.com/contest/166/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/A%20-%20Rank%20List/solution.cpp) |
 | 172B | [Pseudorandom Sequence Period](https://codeforces.com/contest/172/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/172/B%20-%20Pseudorandom%20Sequence%20Period/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
