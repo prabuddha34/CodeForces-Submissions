@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 613 | 32 |
+| 614 | 32 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (35)
-- [bitmasks](#bitmasks) (7)
+- [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (121)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (82)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (181)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (326)
+- [implementation](#implementation) (327)
 - [interactive](#interactive) (1)
 - [math](#math) (179)
 - [matrices](#matrices) (2)
@@ -43,7 +43,7 @@
 - [strings](#strings) (52)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (18)
+- [two pointers](#two-pointers) (19)
 
 ---
 
@@ -128,6 +128,7 @@
 |---|---------|------------|----------|
 | 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
 | 114B | [PFAST Inc.](https://codeforces.com/contest/114/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/114/B%20-%20PFAST%20Inc./solution.cpp) |
+| 224B | [Array](https://codeforces.com/contest/224/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/224/B%20-%20Array/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 550B | [Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/550/B%20-%20Preparing%20Olympiad/solution.cpp) |
 | 611B | [New Year and Old Property](https://codeforces.com/contest/611/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/611/B%20-%20New%20Year%20and%20Old%20Property/solution.cpp) |
@@ -767,6 +768,7 @@
 | 219B | [Special Offer! Super Price 999 Bourles!](https://codeforces.com/contest/219/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/219/B%20-%20Special%20Offer!%20Super%20Price%20999%20Bourles!/solution.cpp) |
 | 221B | [Little Elephant and Numbers](https://codeforces.com/contest/221/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/221/B%20-%20Little%20Elephant%20and%20Numbers/solution.cpp) |
 | 222B | [Cosmic Tables](https://codeforces.com/contest/222/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/222/B%20-%20Cosmic%20Tables/solution.cpp) |
+| 224B | [Array](https://codeforces.com/contest/224/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/224/B%20-%20Array/solution.cpp) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
 | 228B | [Two Tables](https://codeforces.com/contest/228/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/228/B%20-%20Two%20Tables/solution.cpp) |
 | 236B | [Easy Number Challenge](https://codeforces.com/contest/236/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/236/B%20-%20Easy%20Number%20Challenge/solution.cpp) |
@@ -1449,6 +1451,7 @@
 |---|---------|------------|----------|
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 | 60A | [Where Are My Flakes?](https://codeforces.com/contest/60/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/60/A%20-%20Where%20Are%20My%20Flakes%3F/solution.cpp) |
+| 224B | [Array](https://codeforces.com/contest/224/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/224/B%20-%20Array/solution.cpp) |
 | 251A | [Points on Line](https://codeforces.com/contest/251/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/251/A%20-%20Points%20on%20Line/solution.cpp) |
 | 318B | [Strings of Power](https://codeforces.com/contest/318/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/318/B%20-%20Strings%20of%20Power/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
