@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 609 | 32 |
+| 610 | 32 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (180)
+- [greedy](#greedy) (181)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (326)
 - [interactive](#interactive) (1)
@@ -521,6 +521,7 @@
 | 169B | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/169/B%20-%20Replacing%20Digits/solution.cpp) |
 | 176A | [Trading Business](https://codeforces.com/contest/176/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/176/A%20-%20Trading%20Business/solution.cpp) |
 | 186B | [Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/186/B%20-%20Growing%20Mushrooms/solution.cpp) |
+| 187A | [Permutations](https://codeforces.com/contest/187/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/187/A%20-%20Permutations/solution.cpp) |
 | 190A | [Vasya and the Bus](https://codeforces.com/contest/190/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/A%20-%20Vasya%20and%20the%20Bus/solution.cpp) |
 | 203C | [Photographer](https://codeforces.com/contest/203/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/203/C%20-%20Photographer/solution.cpp) |
 | 205B | [Little Elephant and Sorting](https://codeforces.com/contest/205/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/205/B%20-%20Little%20Elephant%20and%20Sorting/solution.cpp) |
