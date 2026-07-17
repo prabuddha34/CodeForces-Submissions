@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 616 | 32 |
+| 617 | 32 |
 
 ---
 
@@ -16,13 +16,13 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (35)
 - [bitmasks](#bitmasks) (8)
-- [brute force](#brute-force) (121)
+- [brute force](#brute-force) (122)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (82)
 - [data structures](#data-structures) (24)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (22)
+- [dp](#dp) (23)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (4)
 - [games](#games) (10)
@@ -161,6 +161,7 @@
 | 233B | [Non-square Equation](https://codeforces.com/contest/233/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/233/B%20-%20Non-square%20Equation/solution.cpp) |
 | 242A | [Heads or Tails](https://codeforces.com/contest/242/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/A%20-%20Heads%20or%20Tails/solution.cpp) |
 | 252A | [Little Xor](https://codeforces.com/contest/252/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/252/A%20-%20Little%20Xor/solution.cpp) |
+| 255C | [Almost Arithmetical Progression](https://codeforces.com/contest/255/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/255/C%20-%20Almost%20Arithmetical%20Progression/solution.cpp) |
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
 | 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
@@ -416,6 +417,7 @@
 | 22B | [Bargaining Table](https://codeforces.com/contest/22/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/22/B%20-%20Bargaining%20Table/solution.cpp) |
 | 166E | [Tetrahedron](https://codeforces.com/contest/166/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/166/E%20-%20Tetrahedron/solution.cpp) |
 | 191A | [Dynasty Puzzles](https://codeforces.com/contest/191/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/191/A%20-%20Dynasty%20Puzzles/solution.cpp) |
+| 255C | [Almost Arithmetical Progression](https://codeforces.com/contest/255/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/255/C%20-%20Almost%20Arithmetical%20Progression/solution.cpp) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
 | 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
