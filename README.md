@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 620 | 32 |
+| 621 | 32 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (15)
-- [binary search](#binary-search) (35)
+- [binary search](#binary-search) (36)
 - [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (122)
 - [combinatorics](#combinatorics) (13)
@@ -28,7 +28,7 @@
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (181)
+- [greedy](#greedy) (182)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (331)
 - [interactive](#interactive) (1)
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (74)
+- [sortings](#sortings) (75)
 - [strings](#strings) (53)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -96,6 +96,7 @@
 | 233B | [Non-square Equation](https://codeforces.com/contest/233/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/233/B%20-%20Non-square%20Equation/solution.cpp) |
 | 251A | [Points on Line](https://codeforces.com/contest/251/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/251/A%20-%20Points%20on%20Line/solution.cpp) |
 | 271B | [Prime Matrix](https://codeforces.com/contest/271/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/271/B%20-%20Prime%20Matrix/solution.cpp) |
+| 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
 | 335A | [Banana](https://codeforces.com/contest/335/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/335/A%20-%20Banana/solution.cpp) |
 | 386B | [Fly, freebies, fly!](https://codeforces.com/contest/386/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/386/B%20-%20Fly%2C%20freebies%2C%20fly!/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
@@ -543,6 +544,7 @@
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 261A | [Maxim and Discounts](https://codeforces.com/contest/261/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/261/A%20-%20Maxim%20and%20Discounts/solution.cpp) |
+| 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
 | 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
 | 285A | [Slightly Decreasing Permutations](https://codeforces.com/contest/285/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/A%20-%20Slightly%20Decreasing%20Permutations/solution.cpp) |
 | 285C | [Building Permutation](https://codeforces.com/contest/285/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/C%20-%20Building%20Permutation/solution.cpp) |
@@ -1327,6 +1329,7 @@
 | 242B | [Big Segment](https://codeforces.com/contest/242/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/242/B%20-%20Big%20Segment/solution.cpp) |
 | 257A | [Sockets](https://codeforces.com/contest/257/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/257/A%20-%20Sockets/solution.cpp) |
 | 261A | [Maxim and Discounts](https://codeforces.com/contest/261/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/261/A%20-%20Maxim%20and%20Discounts/solution.cpp) |
+| 274A | [k-Multiple Free Set](https://codeforces.com/contest/274/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/274/A%20-%20k-Multiple%20Free%20Set/solution.cpp) |
 | 285C | [Building Permutation](https://codeforces.com/contest/285/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/285/C%20-%20Building%20Permutation/solution.cpp) |
 | 313C | [Ilya and Matrix](https://codeforces.com/contest/313/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/313/C%20-%20Ilya%20and%20Matrix/solution.cpp) |
 | 334B | [Eight Point Sets](https://codeforces.com/contest/334/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/334/B%20-%20Eight%20Point%20Sets/solution.cpp) |
