@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 625 | 32 |
+| 626 | 32 |
 
 ---
 
@@ -16,18 +16,18 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (36)
 - [bitmasks](#bitmasks) (8)
-- [brute force](#brute-force) (123)
+- [brute force](#brute-force) (124)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (85)
 - [data structures](#data-structures) (25)
-- [dfs and similar](#dfs-and-similar) (2)
+- [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (24)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (4)
 - [games](#games) (10)
 - [geometry](#geometry) (18)
-- [graphs](#graphs) (7)
+- [graphs](#graphs) (8)
 - [greedy](#greedy) (184)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (333)
@@ -168,6 +168,7 @@
 | 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
 | 289A | [Polo the Penguin and Segments ](https://codeforces.com/contest/289/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/289/A%20-%20Polo%20the%20Penguin%20and%20Segments%20/solution.cpp) |
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
+| 300B | [Coach](https://codeforces.com/contest/300/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/300/B%20-%20Coach/solution.cpp) |
 | 304B | [Calendar](https://codeforces.com/contest/304/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/304/B%20-%20Calendar/solution.cpp) |
 | 315A | [Sereja and Bottles](https://codeforces.com/contest/315/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/315/A%20-%20Sereja%20and%20Bottles/solution.cpp) |
 | 331A1 | [Oh Sweet Beaverette](https://codeforces.com/contest/331/problem/A1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/331/A1%20-%20Oh%20Sweet%20Beaverette/solution.cpp) |
@@ -407,6 +408,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 190C | [STL](https://codeforces.com/contest/190/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/190/C%20-%20STL/solution.cpp) |
+| 300B | [Coach](https://codeforces.com/contest/300/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/300/B%20-%20Coach/solution.cpp) |
 | 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.cpp) |
 
 ### divide and conquer
@@ -504,6 +506,7 @@
 |---|---------|------------|----------|
 | 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 114B | [PFAST Inc.](https://codeforces.com/contest/114/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/114/B%20-%20PFAST%20Inc./solution.cpp) |
+| 300B | [Coach](https://codeforces.com/contest/300/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/300/B%20-%20Coach/solution.cpp) |
 | 330B | [Road Construction](https://codeforces.com/contest/330/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/330/B%20-%20Road%20Construction/solution.cpp) |
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 370A | [Rook, Bishop and King](https://codeforces.com/contest/370/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/370/A%20-%20Rook%2C%20Bishop%20and%20King/solution.cpp) |
