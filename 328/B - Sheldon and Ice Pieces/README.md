@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/328/problem/B" target="_blank" rel="noopener noreferrer">328B — Sheldon and Ice Pieces</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1500 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 328B](https://codeforces.com/contest/328/problem/B) |
+
+## Topics
+`greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Sheldon and Ice Pieces</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Do you remember how Kai constructed the word "eternity" using pieces of ice as components?</p><p>Little Sheldon plays with pieces of ice, each piece has exactly one digit between 0 and 9. He wants to construct his favourite number <span class="tex-span"><i>t</i></span>. He realized that digits 6 and 9 are very similar, so he can rotate piece of ice with 6 to use as 9 (and vice versa). Similary, 2 and 5 work the same. There is no other pair of digits with similar effect. He called this effect "Digital Mimicry".</p><p>Sheldon favourite number is <span class="tex-span"><i>t</i></span>. He wants to have as many instances of <span class="tex-span"><i>t</i></span> as possible. How many instances he can construct using the given sequence of ice pieces. He can use any piece at most once. </p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains integer <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>t</i> ≤ 10000</span>). The second line contains the sequence of digits on the pieces. The length of line is equal to the number of pieces and between 1 and 200, inclusive. It contains digits between 0 and 9.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the required number of instances.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0039329424474953034" id="id007782817298873376" class="input-output-copier">Copy</div></div><pre id="id0039329424474953034">42<br>23454<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007231866034204313" id="id002868299020804288" class="input-output-copier">Copy</div></div><pre id="id007231866034204313">2<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0012292139148907844" id="id004717412164862218" class="input-output-copier">Copy</div></div><pre id="id0012292139148907844">169<br>12118999<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00967373596001454" id="id003491248662886458" class="input-output-copier">Copy</div></div><pre id="id00967373596001454">1<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>This problem contains very weak pretests.</p></div>
