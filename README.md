@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 628 | 32 |
+| 629 | 32 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (124)
 - [combinatorics](#combinatorics) (13)
-- [constructive algorithms](#constructive-algorithms) (85)
+- [constructive algorithms](#constructive-algorithms) (86)
 - [data structures](#data-structures) (25)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -28,7 +28,7 @@
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (185)
+- [greedy](#greedy) (186)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (334)
 - [interactive](#interactive) (1)
@@ -300,6 +300,7 @@
 | 286A | [Lucky Permutation](https://codeforces.com/contest/286/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/286/A%20-%20Lucky%20Permutation/solution.cpp) |
 | 303A | [Lucky Permutation Triple](https://codeforces.com/contest/303/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/303/A%20-%20Lucky%20Permutation%20Triple/solution.cpp) |
 | 313C | [Ilya and Matrix](https://codeforces.com/contest/313/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/313/C%20-%20Ilya%20and%20Matrix/solution.cpp) |
+| 329A | [Purification](https://codeforces.com/contest/329/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/329/A%20-%20Purification/solution.cpp) |
 | 330B | [Road Construction](https://codeforces.com/contest/330/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/330/B%20-%20Road%20Construction/solution.cpp) |
 | 335A | [Banana](https://codeforces.com/contest/335/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/335/A%20-%20Banana/solution.cpp) |
 | 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
@@ -560,6 +561,7 @@
 | 298B | [Sail](https://codeforces.com/contest/298/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/298/B%20-%20Sail/solution.cpp) |
 | 313C | [Ilya and Matrix](https://codeforces.com/contest/313/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/313/C%20-%20Ilya%20and%20Matrix/solution.cpp) |
 | 328B | [Sheldon and Ice Pieces](https://codeforces.com/contest/328/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/328/B%20-%20Sheldon%20and%20Ice%20Pieces/solution.cpp) |
+| 329A | [Purification](https://codeforces.com/contest/329/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/329/A%20-%20Purification/solution.cpp) |
 | 335A | [Banana](https://codeforces.com/contest/335/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/335/A%20-%20Banana/solution.cpp) |
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
