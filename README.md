@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 626 | 32 |
+| 627 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (184)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (333)
+- [implementation](#implementation) (334)
 - [interactive](#interactive) (1)
 - [math](#math) (181)
 - [matrices](#matrices) (2)
@@ -817,6 +817,7 @@
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
 | 313C | [Ilya and Matrix](https://codeforces.com/contest/313/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/313/C%20-%20Ilya%20and%20Matrix/solution.cpp) |
 | 318B | [Strings of Power](https://codeforces.com/contest/318/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/318/B%20-%20Strings%20of%20Power/solution.cpp) |
+| 325A | [Square and Rectangles](https://codeforces.com/contest/325/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/325/A%20-%20Square%20and%20Rectangles/solution.cpp) |
 | 331A1 | [Oh Sweet Beaverette](https://codeforces.com/contest/331/problem/A1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/331/A1%20-%20Oh%20Sweet%20Beaverette/solution.cpp) |
 | 332A | [Down the Hatch!](https://codeforces.com/contest/332/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/A%20-%20Down%20the%20Hatch!/solution.cpp) |
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.cpp) |
