@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 629 | 32 |
+| 630 | 32 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [brute force](#brute-force) (124)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (86)
-- [data structures](#data-structures) (25)
+- [data structures](#data-structures) (26)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (24)
+- [dp](#dp) (25)
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (4)
 - [games](#games) (10)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (186)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (334)
+- [implementation](#implementation) (335)
 - [interactive](#interactive) (1)
 - [math](#math) (181)
 - [matrices](#matrices) (2)
@@ -385,6 +385,7 @@
 | 222B | [Cosmic Tables](https://codeforces.com/contest/222/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/222/B%20-%20Cosmic%20Tables/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 295A | [Greg and Array](https://codeforces.com/contest/295/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/295/A%20-%20Greg%20and%20Array/solution.cpp) |
+| 332B | [Maximum Absurdity](https://codeforces.com/contest/332/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/B%20-%20Maximum%20Absurdity/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 514B | [Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/514/B%20-%20Han%20Solo%20and%20Lazer%20Gun/solution.cpp) |
@@ -428,6 +429,7 @@
 | 191A | [Dynasty Puzzles](https://codeforces.com/contest/191/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/191/A%20-%20Dynasty%20Puzzles/solution.cpp) |
 | 255C | [Almost Arithmetical Progression](https://codeforces.com/contest/255/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/255/C%20-%20Almost%20Arithmetical%20Progression/solution.cpp) |
 | 264B | [Good Sequences](https://codeforces.com/contest/264/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/264/B%20-%20Good%20Sequences/solution.cpp) |
+| 332B | [Maximum Absurdity](https://codeforces.com/contest/332/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/B%20-%20Maximum%20Absurdity/solution.cpp) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
 | 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
@@ -823,6 +825,7 @@
 | 325A | [Square and Rectangles](https://codeforces.com/contest/325/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/325/A%20-%20Square%20and%20Rectangles/solution.cpp) |
 | 331A1 | [Oh Sweet Beaverette](https://codeforces.com/contest/331/problem/A1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/331/A1%20-%20Oh%20Sweet%20Beaverette/solution.cpp) |
 | 332A | [Down the Hatch!](https://codeforces.com/contest/332/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/A%20-%20Down%20the%20Hatch!/solution.cpp) |
+| 332B | [Maximum Absurdity](https://codeforces.com/contest/332/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/B%20-%20Maximum%20Absurdity/solution.cpp) |
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.cpp) |
 | 347A | [Difference Row](https://codeforces.com/contest/347/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/A%20-%20Difference%20Row/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
