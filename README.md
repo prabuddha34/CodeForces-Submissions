@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 632 | 32 |
+| 633 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (37)
 - [bitmasks](#bitmasks) (8)
-- [brute force](#brute-force) (125)
+- [brute force](#brute-force) (126)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (86)
 - [data structures](#data-structures) (27)
@@ -28,11 +28,11 @@
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (187)
+- [greedy](#greedy) (188)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (336)
 - [interactive](#interactive) (1)
-- [math](#math) (181)
+- [math](#math) (182)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (45)
@@ -177,6 +177,7 @@
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
+| 354A | [Vasya and Robot](https://codeforces.com/contest/354/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/354/A%20-%20Vasya%20and%20Robot/solution.cpp) |
 | 358A | [Dima and Continuous Line](https://codeforces.com/contest/358/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/358/A%20-%20Dima%20and%20Continuous%20Line/solution.cpp) |
 | 366B | [Dima and To-do List](https://codeforces.com/contest/366/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/B%20-%20Dima%20and%20To-do%20List/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
@@ -573,6 +574,7 @@
 | 342B | [Xenia and Spies](https://codeforces.com/contest/342/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/342/B%20-%20Xenia%20and%20Spies/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
+| 354A | [Vasya and Robot](https://codeforces.com/contest/354/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/354/A%20-%20Vasya%20and%20Robot/solution.cpp) |
 | 363C | [Fixing Typos](https://codeforces.com/contest/363/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/363/C%20-%20Fixing%20Typos/solution.cpp) |
 | 379C | [New Year Ratings Change](https://codeforces.com/contest/379/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/C%20-%20New%20Year%20Ratings%20Change/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
@@ -1117,6 +1119,7 @@
 | 344B | [Simple Molecules](https://codeforces.com/contest/344/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/344/B%20-%20Simple%20Molecules/solution.cpp) |
 | 347B | [Fixed Points](https://codeforces.com/contest/347/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/347/B%20-%20Fixed%20Points/solution.cpp) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/353/A%20-%20Domino/solution.cpp) |
+| 354A | [Vasya and Robot](https://codeforces.com/contest/354/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/354/A%20-%20Vasya%20and%20Robot/solution.cpp) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/359/B%20-%20Permutation/solution.cpp) |
 | 361B | [Levko and Permutation](https://codeforces.com/contest/361/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/361/B%20-%20Levko%20and%20Permutation/solution.cpp) |
 | 369B | [Valera and Contest](https://codeforces.com/contest/369/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/369/B%20-%20Valera%20and%20Contest/solution.cpp) |
