@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 633 | 32 |
+| 634 | 32 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [brute force](#brute-force) (126)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (86)
-- [data structures](#data-structures) (27)
+- [data structures](#data-structures) (28)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (26)
-- [dsu](#dsu) (2)
+- [dsu](#dsu) (3)
 - [expression parsing](#expression-parsing) (4)
 - [games](#games) (10)
 - [geometry](#geometry) (18)
@@ -390,6 +390,7 @@
 | 295A | [Greg and Array](https://codeforces.com/contest/295/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/295/A%20-%20Greg%20and%20Array/solution.cpp) |
 | 332B | [Maximum Absurdity](https://codeforces.com/contest/332/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/332/B%20-%20Maximum%20Absurdity/solution.cpp) |
 | 340D | [Bubble Sort Graph](https://codeforces.com/contest/340/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/340/D%20-%20Bubble%20Sort%20Graph/solution.cpp) |
+| 356A | [Knight Tournament](https://codeforces.com/contest/356/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/356/A%20-%20Knight%20Tournament/solution.cpp) |
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 514B | [Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/514/B%20-%20Han%20Solo%20and%20Lazer%20Gun/solution.cpp) |
@@ -458,6 +459,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 356A | [Knight Tournament](https://codeforces.com/contest/356/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/356/A%20-%20Knight%20Tournament/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 515B | [Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/515/B%20-%20Drazil%20and%20His%20Happy%20Friends/solution.cpp) |
 
