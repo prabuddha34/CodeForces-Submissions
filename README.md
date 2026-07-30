@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 634 | 32 |
+| 635 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (37)
 - [bitmasks](#bitmasks) (8)
-- [brute force](#brute-force) (126)
+- [brute force](#brute-force) (127)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (86)
 - [data structures](#data-structures) (28)
@@ -40,7 +40,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (76)
-- [strings](#strings) (54)
+- [strings](#strings) (55)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (19)
@@ -179,6 +179,7 @@
 | 350A | [TL](https://codeforces.com/contest/350/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/350/A%20-%20TL/solution.cpp) |
 | 354A | [Vasya and Robot](https://codeforces.com/contest/354/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/354/A%20-%20Vasya%20and%20Robot/solution.cpp) |
 | 358A | [Dima and Continuous Line](https://codeforces.com/contest/358/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/358/A%20-%20Dima%20and%20Continuous%20Line/solution.cpp) |
+| 358B | [Dima and Text Messages](https://codeforces.com/contest/358/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/358/B%20-%20Dima%20and%20Text%20Messages/solution.cpp) |
 | 366B | [Dima and To-do List](https://codeforces.com/contest/366/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/366/B%20-%20Dima%20and%20To-do%20List/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 386B | [Fly, freebies, fly!](https://codeforces.com/contest/386/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/386/B%20-%20Fly%2C%20freebies%2C%20fly!/solution.cpp) |
@@ -1443,6 +1444,7 @@
 | 278B | [New Problem](https://codeforces.com/contest/278/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/278/B%20-%20New%20Problem/solution.cpp) |
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
 | 318B | [Strings of Power](https://codeforces.com/contest/318/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/318/B%20-%20Strings%20of%20Power/solution.cpp) |
+| 358B | [Dima and Text Messages](https://codeforces.com/contest/358/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/358/B%20-%20Dima%20and%20Text%20Messages/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 448B | [Suffix Structures](https://codeforces.com/contest/448/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/448/B%20-%20Suffix%20Structures/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
