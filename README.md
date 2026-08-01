@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 636 | 32 |
+| 637 | 32 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (37)
 - [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (127)
-- [combinatorics](#combinatorics) (13)
+- [combinatorics](#combinatorics) (14)
 - [constructive algorithms](#constructive-algorithms) (86)
 - [data structures](#data-structures) (28)
 - [dfs and similar](#dfs-and-similar) (3)
@@ -28,7 +28,7 @@
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (189)
+- [greedy](#greedy) (190)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (336)
 - [interactive](#interactive) (1)
@@ -274,6 +274,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 251A | [Points on Line](https://codeforces.com/contest/251/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/251/A%20-%20Points%20on%20Line/solution.cpp) |
+| 374B | [Inna and Nine](https://codeforces.com/contest/374/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/374/B%20-%20Inna%20and%20Nine/solution.cpp) |
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
@@ -580,6 +581,7 @@
 | 354A | [Vasya and Robot](https://codeforces.com/contest/354/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/354/A%20-%20Vasya%20and%20Robot/solution.cpp) |
 | 362A | [Two Semiknights Meet](https://codeforces.com/contest/362/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/362/A%20-%20Two%20Semiknights%20Meet/solution.cpp) |
 | 363C | [Fixing Typos](https://codeforces.com/contest/363/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/363/C%20-%20Fixing%20Typos/solution.cpp) |
+| 374B | [Inna and Nine](https://codeforces.com/contest/374/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/374/B%20-%20Inna%20and%20Nine/solution.cpp) |
 | 379C | [New Year Ratings Change](https://codeforces.com/contest/379/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/379/C%20-%20New%20Year%20Ratings%20Change/solution.cpp) |
 | 382A | [Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/382/A%20-%20Ksenia%20and%20Pan%20Scales/solution.cpp) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
