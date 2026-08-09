@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 641 | 32 |
+| 642 | 32 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (37)
 - [bitmasks](#bitmasks) (8)
-- [brute force](#brute-force) (128)
+- [brute force](#brute-force) (129)
 - [combinatorics](#combinatorics) (14)
-- [constructive algorithms](#constructive-algorithms) (87)
+- [constructive algorithms](#constructive-algorithms) (88)
 - [data structures](#data-structures) (28)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (192)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (338)
+- [implementation](#implementation) (339)
 - [interactive](#interactive) (1)
 - [math](#math) (186)
 - [matrices](#matrices) (2)
@@ -193,6 +193,7 @@
 | 483A | [Counterexample ](https://codeforces.com/contest/483/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/483/A%20-%20Counterexample%20/solution.cpp) |
 | 485B | [Valuable Resources](https://codeforces.com/contest/485/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/485/B%20-%20Valuable%20Resources/solution.cpp) |
 | 488A | [Giga Tower](https://codeforces.com/contest/488/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/488/A%20-%20Giga%20Tower/solution.cpp) |
+| 496C | [Removing Columns](https://codeforces.com/contest/496/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/496/C%20-%20Removing%20Columns/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 513B1 | [Permutations](https://codeforces.com/contest/513/problem/B1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/513/B1%20-%20Permutations/solution.cpp) |
 | 514B | [Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/514/B%20-%20Han%20Solo%20and%20Lazer%20Gun/solution.cpp) |
@@ -319,6 +320,7 @@
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/401/C%20-%20Team/solution.cpp) |
 | 468A | [24 Game](https://codeforces.com/contest/468/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/468/A%20-%2024%20Game/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
+| 496C | [Removing Columns](https://codeforces.com/contest/496/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/496/C%20-%20Removing%20Columns/solution.cpp) |
 | 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
 | 525B | [Pasha and String](https://codeforces.com/contest/525/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/B%20-%20Pasha%20and%20String/solution.cpp) |
 | 544B | [Sea and Islands](https://codeforces.com/contest/544/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/B%20-%20Sea%20and%20Islands/solution.cpp) |
@@ -901,6 +903,7 @@
 | 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 493A | [Vasya and Football](https://codeforces.com/contest/493/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/493/A%20-%20Vasya%20and%20Football/solution.cpp) |
 | 493B | [Vasya and Wrestling](https://codeforces.com/contest/493/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/493/B%20-%20Vasya%20and%20Wrestling/solution.cpp) |
+| 496C | [Removing Columns](https://codeforces.com/contest/496/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/496/C%20-%20Removing%20Columns/solution.cpp) |
 | 505A | [Mr. Kitayuta's Gift](https://codeforces.com/contest/505/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/505/A%20-%20Mr.%20Kitayuta's%20Gift/solution.cpp) |
 | 509B | [Painting Pebbles](https://codeforces.com/contest/509/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/509/B%20-%20Painting%20Pebbles/solution.cpp) |
 | 514B | [Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/514/B%20-%20Han%20Solo%20and%20Lazer%20Gun/solution.cpp) |
