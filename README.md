@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 644 | 32 |
+| 646 | 32 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (11)
 - [Uncategorized](#uncategorized) (15)
-- [binary search](#binary-search) (37)
+- [binary search](#binary-search) (38)
 - [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (129)
 - [combinatorics](#combinatorics) (14)
 - [constructive algorithms](#constructive-algorithms) (88)
-- [data structures](#data-structures) (28)
+- [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (26)
@@ -28,9 +28,9 @@
 - [games](#games) (10)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (192)
+- [greedy](#greedy) (193)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (340)
+- [implementation](#implementation) (341)
 - [interactive](#interactive) (1)
 - [math](#math) (187)
 - [matrices](#matrices) (2)
@@ -102,6 +102,7 @@
 | 340D | [Bubble Sort Graph](https://codeforces.com/contest/340/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/340/D%20-%20Bubble%20Sort%20Graph/solution.cpp) |
 | 386B | [Fly, freebies, fly!](https://codeforces.com/contest/386/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/386/B%20-%20Fly%2C%20freebies%2C%20fly!/solution.cpp) |
 | 424B | [Megacity](https://codeforces.com/contest/424/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/424/B%20-%20Megacity/solution.cpp) |
+| 527C | [Glass Carving](https://codeforces.com/contest/527/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/C%20-%20Glass%20Carving/solution.cpp) |
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.cpp) |
 | 732C | [Sanatorium](https://codeforces.com/contest/732/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/732/C%20-%20Sanatorium/solution.cpp) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
@@ -401,6 +402,7 @@
 | 427B | [Prison Transfer](https://codeforces.com/contest/427/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/427/B%20-%20Prison%20Transfer/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 514B | [Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/514/B%20-%20Han%20Solo%20and%20Lazer%20Gun/solution.cpp) |
+| 527C | [Glass Carving](https://codeforces.com/contest/527/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/C%20-%20Glass%20Carving/solution.cpp) |
 | 612C | [Replace To Make Regular Bracket Sequence](https://codeforces.com/contest/612/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/C%20-%20Replace%20To%20Make%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 650A | [Watchmen](https://codeforces.com/contest/650/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/650/A%20-%20Watchmen/solution.cpp) |
 | 701B | [Cells Not Under Attack](https://codeforces.com/contest/701/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/701/B%20-%20Cells%20Not%20Under%20Attack/solution.cpp) |
@@ -617,6 +619,7 @@
 | 523C | [Name Quest](https://codeforces.com/contest/523/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/523/C%20-%20Name%20Quest/solution.cpp) |
 | 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 525B | [Pasha and String](https://codeforces.com/contest/525/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/525/B%20-%20Pasha%20and%20String/solution.cpp) |
+| 527B | [Error Correct System](https://codeforces.com/contest/527/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/B%20-%20Error%20Correct%20System/solution.cpp) |
 | 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 | 545B | [Equidistant String](https://codeforces.com/contest/545/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/B%20-%20Equidistant%20String/solution.cpp) |
 | 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
@@ -912,6 +915,7 @@
 | 523B | [Mean Requests](https://codeforces.com/contest/523/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/523/B%20-%20Mean%20Requests/solution.cpp) |
 | 526A | [King of Thieves](https://codeforces.com/contest/526/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/526/A%20-%20King%20of%20Thieves/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
+| 527C | [Glass Carving](https://codeforces.com/contest/527/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/527/C%20-%20Glass%20Carving/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 538A | [Cutting Banner](https://codeforces.com/contest/538/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/538/A%20-%20Cutting%20Banner/solution.cpp) |
 | 544A | [Set of Strings](https://codeforces.com/contest/544/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/544/A%20-%20Set%20of%20Strings/solution.cpp) |
