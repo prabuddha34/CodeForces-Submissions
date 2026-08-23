@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 650 | 32 |
+| 651 | 32 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (38)
 - [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (130)
-- [combinatorics](#combinatorics) (15)
+- [combinatorics](#combinatorics) (16)
 - [constructive algorithms](#constructive-algorithms) (88)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
@@ -40,7 +40,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (76)
-- [strings](#strings) (56)
+- [strings](#strings) (57)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (19)
@@ -284,6 +284,7 @@
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
 | 584B | [Kolya and Tanya ](https://codeforces.com/contest/584/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/584/B%20-%20Kolya%20and%20Tanya%20/solution.cpp) |
+| 608B | [Hamming Distance Sum](https://codeforces.com/contest/608/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/608/B%20-%20Hamming%20Distance%20Sum/solution.cpp) |
 | 617B | [Chocolate](https://codeforces.com/contest/617/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/617/B%20-%20Chocolate/solution.cpp) |
 | 621B | [Wet Shark and Bishops](https://codeforces.com/contest/621/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/621/B%20-%20Wet%20Shark%20and%20Bishops/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
@@ -1489,6 +1490,7 @@
 | 554B | [Ohana Cleans Up](https://codeforces.com/contest/554/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/554/B%20-%20Ohana%20Cleans%20Up/solution.cpp) |
 | 591B | [Rebranding](https://codeforces.com/contest/591/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/591/B%20-%20Rebranding/solution.cpp) |
 | 598B | [Queries on a String](https://codeforces.com/contest/598/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/598/B%20-%20Queries%20on%20a%20String/solution.cpp) |
+| 608B | [Hamming Distance Sum](https://codeforces.com/contest/608/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/608/B%20-%20Hamming%20Distance%20Sum/solution.cpp) |
 | 612A | [The Text Splitting](https://codeforces.com/contest/612/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/612/A%20-%20The%20Text%20Splitting/solution.cpp) |
 | 625B | [War of the Corporations](https://codeforces.com/contest/625/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/625/B%20-%20War%20of%20the%20Corporations/solution.cpp) |
 | 628C | [Bear and String Distance](https://codeforces.com/contest/628/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/628/C%20-%20Bear%20and%20String%20Distance/solution.cpp) |
