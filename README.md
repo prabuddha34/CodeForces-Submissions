@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 648 | 32 |
+| 649 | 32 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (38)
 - [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (130)
-- [combinatorics](#combinatorics) (14)
+- [combinatorics](#combinatorics) (15)
 - [constructive algorithms](#constructive-algorithms) (88)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
@@ -283,6 +283,7 @@
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.cpp) |
+| 584B | [Kolya and Tanya ](https://codeforces.com/contest/584/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/584/B%20-%20Kolya%20and%20Tanya%20/solution.cpp) |
 | 617B | [Chocolate](https://codeforces.com/contest/617/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/617/B%20-%20Chocolate/solution.cpp) |
 | 621B | [Wet Shark and Bishops](https://codeforces.com/contest/621/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/621/B%20-%20Wet%20Shark%20and%20Bishops/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
