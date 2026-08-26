@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 659 | 32 |
+| 660 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (194)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (347)
+- [implementation](#implementation) (348)
 - [interactive](#interactive) (1)
 - [math](#math) (192)
 - [matrices](#matrices) (2)
@@ -1043,6 +1043,7 @@
 | 999A | [Mishka and Contest](https://codeforces.com/contest/999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/999/A%20-%20Mishka%20and%20Contest/solution.cpp) |
 | 999C | [Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/999/C%20-%20Alphabetic%20Removals/solution.cpp) |
 | 1000A | [Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1000/A%20-%20Codehorses%20T-shirts/solution.cpp) |
+| 1003A | [Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/A%20-%20Polycarp's%20Pockets/solution.cpp) |
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1004B | [Sonya and Exhibition](https://codeforces.com/contest/1004/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/B%20-%20Sonya%20and%20Exhibition/solution.cpp) |
 | 1004C | [Sonya and Robots](https://codeforces.com/contest/1004/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1004/C%20-%20Sonya%20and%20Robots/solution.cpp) |
