@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 657 | 32 |
+| 658 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (194)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (345)
+- [implementation](#implementation) (346)
 - [interactive](#interactive) (1)
 - [math](#math) (192)
 - [matrices](#matrices) (2)
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (77)
+- [sortings](#sortings) (78)
 - [strings](#strings) (57)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -1036,6 +1036,7 @@
 | 987C | [Three displays](https://codeforces.com/contest/987/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/C%20-%20Three%20displays/solution.cpp) |
 | 988A | [Diverse Team](https://codeforces.com/contest/988/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/A%20-%20Diverse%20Team/solution.cpp) |
 | 988C | [Equal Sums](https://codeforces.com/contest/988/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/C%20-%20Equal%20Sums/solution.cpp) |
+| 992A | [Nastya and an Array](https://codeforces.com/contest/992/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/992/A%20-%20Nastya%20and%20an%20Array/solution.cpp) |
 | 994B | [Knights of a Polygonal Table](https://codeforces.com/contest/994/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/994/B%20-%20Knights%20of%20a%20Polygonal%20Table/solution.cpp) |
 | 995B | [Suit and Tie](https://codeforces.com/contest/995/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/995/B%20-%20Suit%20and%20Tie/solution.cpp) |
 | 999C | [Alphabetic Removals](https://codeforces.com/contest/999/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/999/C%20-%20Alphabetic%20Removals/solution.cpp) |
@@ -1447,6 +1448,7 @@
 | 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
 | 988C | [Equal Sums](https://codeforces.com/contest/988/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/C%20-%20Equal%20Sums/solution.cpp) |
 | 990B | [Micro-World](https://codeforces.com/contest/990/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/990/B%20-%20Micro-World/solution.cpp) |
+| 992A | [Nastya and an Array](https://codeforces.com/contest/992/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/992/A%20-%20Nastya%20and%20an%20Array/solution.cpp) |
 | 994B | [Knights of a Polygonal Table](https://codeforces.com/contest/994/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/994/B%20-%20Knights%20of%20a%20Polygonal%20Table/solution.cpp) |
 | 1006B | [Polycarp's Practice](https://codeforces.com/contest/1006/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/B%20-%20Polycarp's%20Practice/solution.cpp) |
 | 1015C | [Songs Compression](https://codeforces.com/contest/1015/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1015/C%20-%20Songs%20Compression/solution.cpp) |
