@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 653 | 32 |
+| 654 | 32 |
 
 ---
 
@@ -32,7 +32,7 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (344)
 - [interactive](#interactive) (1)
-- [math](#math) (190)
+- [math](#math) (191)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (47)
@@ -1223,6 +1223,7 @@
 | 946B | [Weird Subtraction Process](https://codeforces.com/contest/946/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/946/B%20-%20Weird%20Subtraction%20Process/solution.cpp) |
 | 958D1 | [Hyperspace Jump (easy)](https://codeforces.com/contest/958/problem/D1) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/958/D1%20-%20Hyperspace%20Jump%20(easy)/solution.cpp) |
 | 962C | [Make a Square](https://codeforces.com/contest/962/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/962/C%20-%20Make%20a%20Square/solution.cpp) |
+| 964A | [Splits](https://codeforces.com/contest/964/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/964/A%20-%20Splits/solution.cpp) |
 | 978E | [Bus Video System](https://codeforces.com/contest/978/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/978/E%20-%20Bus%20Video%20System/solution.cpp) |
 | 987B | [High School: Become Human](https://codeforces.com/contest/987/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/987/B%20-%20High%20School%3A%20Become%20Human/solution.cpp) |
 | 995B | [Suit and Tie](https://codeforces.com/contest/995/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/995/B%20-%20Suit%20and%20Tie/solution.cpp) |
