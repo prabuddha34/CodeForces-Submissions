@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 655 | 32 |
+| 656 | 32 |
 
 ---
 
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (76)
+- [sortings](#sortings) (77)
 - [strings](#strings) (57)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -1441,6 +1441,7 @@
 | 808C | [Tea Party](https://codeforces.com/contest/808/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/808/C%20-%20Tea%20Party/solution.cpp) |
 | 811B | [Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/811/B%20-%20Vladik%20and%20Complicated%20Book/solution.cpp) |
 | 845A | [Chess Tourney](https://codeforces.com/contest/845/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/845/A%20-%20Chess%20Tourney/solution.cpp) |
+| 984A | [Game](https://codeforces.com/contest/984/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/984/A%20-%20Game/solution.cpp) |
 | 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
 | 988C | [Equal Sums](https://codeforces.com/contest/988/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/988/C%20-%20Equal%20Sums/solution.cpp) |
 | 990B | [Micro-World](https://codeforces.com/contest/990/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/990/B%20-%20Micro-World/solution.cpp) |
