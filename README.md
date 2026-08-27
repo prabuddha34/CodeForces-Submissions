@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 661 | 32 |
+| 662 | 32 |
 
 ---
 
@@ -32,14 +32,14 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (349)
 - [interactive](#interactive) (1)
-- [math](#math) (192)
+- [math](#math) (193)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (47)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (78)
+- [sortings](#sortings) (79)
 - [strings](#strings) (57)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -1306,6 +1306,7 @@
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
 ### matrices
@@ -1473,6 +1474,7 @@
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
 | 1495A | [Diamond Miner](https://codeforces.com/contest/1495/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1495/A%20-%20Diamond%20Miner/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
