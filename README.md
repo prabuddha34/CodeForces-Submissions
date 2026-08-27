@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 664 | 32 |
+| 665 | 32 |
 
 ---
 
@@ -30,9 +30,9 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (194)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (350)
+- [implementation](#implementation) (351)
 - [interactive](#interactive) (1)
-- [math](#math) (194)
+- [math](#math) (195)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (47)
@@ -1059,6 +1059,7 @@
 | 1027B | [Numbers on the Chessboard](https://codeforces.com/contest/1027/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1027/B%20-%20Numbers%20on%20the%20Chessboard/solution.cpp) |
 | 1029A | [Many Equal Substrings](https://codeforces.com/contest/1029/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1029/A%20-%20Many%20Equal%20Substrings/solution.cpp) |
 | 1030C | [Vasya and Golden Ticket](https://codeforces.com/contest/1030/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1030/C%20-%20Vasya%20and%20Golden%20Ticket/solution.cpp) |
+| 1031A | [Golden Plate](https://codeforces.com/contest/1031/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1031/A%20-%20Golden%20Plate/solution.cpp) |
 | 1043B | [Lost Array](https://codeforces.com/contest/1043/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1043/B%20-%20Lost%20Array/solution.cpp) |
 | 1046F | [Splitting money](https://codeforces.com/contest/1046/problem/F) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1046/F%20-%20Splitting%20money/solution.cpp) |
 | 1051A | [Vasya And Password](https://codeforces.com/contest/1051/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1051/A%20-%20Vasya%20And%20Password/solution.cpp) |
@@ -1241,6 +1242,7 @@
 | 1013A | [Piles With Stones](https://codeforces.com/contest/1013/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1013/A%20-%20Piles%20With%20Stones/solution.cpp) |
 | 1017B | [The Bits](https://codeforces.com/contest/1017/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1017/B%20-%20The%20Bits/solution.cpp) |
 | 1027B | [Numbers on the Chessboard](https://codeforces.com/contest/1027/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1027/B%20-%20Numbers%20on%20the%20Chessboard/solution.cpp) |
+| 1031A | [Golden Plate](https://codeforces.com/contest/1031/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1031/A%20-%20Golden%20Plate/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1037A | [Packets](https://codeforces.com/contest/1037/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1037/A%20-%20Packets/solution.cpp) |
 | 1064B | [Equations of Mathematical Magic](https://codeforces.com/contest/1064/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1064/B%20-%20Equations%20of%20Mathematical%20Magic/solution.cpp) |
