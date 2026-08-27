@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 662 | 32 |
+| 663 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (194)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (349)
+- [implementation](#implementation) (350)
 - [interactive](#interactive) (1)
 - [math](#math) (193)
 - [matrices](#matrices) (2)
@@ -1050,6 +1050,7 @@
 | 1005C | [Summarize to the Power of Two](https://codeforces.com/contest/1005/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1005/C%20-%20Summarize%20to%20the%20Power%20of%20Two/solution.cpp) |
 | 1006A | [Adjacent Replacements](https://codeforces.com/contest/1006/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/A%20-%20Adjacent%20Replacements/solution.cpp) |
 | 1006B | [Polycarp's Practice](https://codeforces.com/contest/1006/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1006/B%20-%20Polycarp's%20Practice/solution.cpp) |
+| 1009A | [Game Shopping](https://codeforces.com/contest/1009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1009/A%20-%20Game%20Shopping/solution.cpp) |
 | 1009B | [Minimum Ternary String](https://codeforces.com/contest/1009/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1009/B%20-%20Minimum%20Ternary%20String/solution.cpp) |
 | 1015B | [Obtaining the String](https://codeforces.com/contest/1015/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1015/B%20-%20Obtaining%20the%20String/solution.cpp) |
 | 1016B | [Segment Occurrences](https://codeforces.com/contest/1016/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1016/B%20-%20Segment%20Occurrences/solution.cpp) |
