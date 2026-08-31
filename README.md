@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 674 | 32 |
+| 675 | 32 |
 
 ---
 
@@ -28,9 +28,9 @@
 - [games](#games) (11)
 - [geometry](#geometry) (18)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (196)
+- [greedy](#greedy) (197)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (357)
+- [implementation](#implementation) (358)
 - [interactive](#interactive) (1)
 - [math](#math) (198)
 - [matrices](#matrices) (2)
@@ -715,6 +715,7 @@
 | 1197C | [Array Splitting](https://codeforces.com/contest/1197/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1197/C%20-%20Array%20Splitting/solution.cpp) |
 | 1203B | [Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/B%20-%20Equal%20Rectangles/solution.cpp) |
 | 1305A | [Kuroni and the Gifts](https://codeforces.com/contest/1305/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1305/A%20-%20Kuroni%20and%20the%20Gifts/solution.cpp) |
+| 1307A | [Cow and Haybales](https://codeforces.com/contest/1307/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1307/A%20-%20Cow%20and%20Haybales/solution.cpp) |
 | 1355B | [Young Explorers](https://codeforces.com/contest/1355/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1355/B%20-%20Young%20Explorers/solution.cpp) |
 | 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
@@ -1099,6 +1100,7 @@
 | 1300A | [Non-zero](https://codeforces.com/contest/1300/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1300/A%20-%20Non-zero/solution.cpp) |
 | 1301A | [Three Strings](https://codeforces.com/contest/1301/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1301/A%20-%20Three%20Strings/solution.cpp) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
+| 1307A | [Cow and Haybales](https://codeforces.com/contest/1307/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1307/A%20-%20Cow%20and%20Haybales/solution.cpp) |
 | 1316A | [Grade Allocation](https://codeforces.com/contest/1316/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1316/A%20-%20Grade%20Allocation/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
