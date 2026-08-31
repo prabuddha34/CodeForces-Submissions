@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 667 | 32 |
+| 668 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (195)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (353)
+- [implementation](#implementation) (354)
 - [interactive](#interactive) (1)
 - [math](#math) (195)
 - [matrices](#matrices) (2)
@@ -1093,6 +1093,7 @@
 | 1194B | [Yet Another Crosses Problem](https://codeforces.com/contest/1194/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1194/B%20-%20Yet%20Another%20Crosses%20Problem/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1209B | [Koala and Lights](https://codeforces.com/contest/1209/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1209/B%20-%20Koala%20and%20Lights/solution.cpp) |
+| 1316A | [Grade Allocation](https://codeforces.com/contest/1316/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1316/A%20-%20Grade%20Allocation/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
 | 1371C | [A Cookie for You](https://codeforces.com/contest/1371/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/C%20-%20A%20Cookie%20for%20You/solution.cpp) |
