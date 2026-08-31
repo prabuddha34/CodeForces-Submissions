@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 676 | 32 |
+| 677 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (198)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (358)
+- [implementation](#implementation) (359)
 - [interactive](#interactive) (1)
 - [math](#math) (199)
 - [matrices](#matrices) (2)
@@ -1103,6 +1103,7 @@
 | 1301A | [Three Strings](https://codeforces.com/contest/1301/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1301/A%20-%20Three%20Strings/solution.cpp) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
 | 1307A | [Cow and Haybales](https://codeforces.com/contest/1307/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1307/A%20-%20Cow%20and%20Haybales/solution.cpp) |
+| 1315A | [Dead Pixel](https://codeforces.com/contest/1315/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1315/A%20-%20Dead%20Pixel/solution.cpp) |
 | 1316A | [Grade Allocation](https://codeforces.com/contest/1316/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1316/A%20-%20Grade%20Allocation/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
