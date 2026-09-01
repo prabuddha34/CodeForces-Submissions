@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 679 | 32 |
+| 680 | 32 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (9)
 - [brute force](#brute-force) (133)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (89)
+- [constructive algorithms](#constructive-algorithms) (90)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (200)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (360)
+- [implementation](#implementation) (361)
 - [interactive](#interactive) (1)
 - [math](#math) (199)
 - [matrices](#matrices) (2)
@@ -375,6 +375,7 @@
 | 1196B | [Odd Sum Segments](https://codeforces.com/contest/1196/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1196/B%20-%20Odd%20Sum%20Segments/solution.cpp) |
 | 1305A | [Kuroni and the Gifts](https://codeforces.com/contest/1305/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1305/A%20-%20Kuroni%20and%20the%20Gifts/solution.cpp) |
 | 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.cpp) |
+| 1372A | [Omkar and Completion](https://codeforces.com/contest/1372/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1372/A%20-%20Omkar%20and%20Completion/solution.cpp) |
 | 1375B | [Neighbor Grid](https://codeforces.com/contest/1375/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1375/B%20-%20Neighbor%20Grid/solution.cpp) |
 | 1381A1 | [Prefix Flip (Easy Version)](https://codeforces.com/contest/1381/problem/A1) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1381/A1%20-%20Prefix%20Flip%20(Easy%20Version)/solution.cpp) |
 | 1384A | [Common Prefixes](https://codeforces.com/contest/1384/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1384/A%20-%20Common%20Prefixes/solution.cpp) |
@@ -1111,6 +1112,7 @@
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1369B | [AccurateLee](https://codeforces.com/contest/1369/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1369/B%20-%20AccurateLee/solution.cpp) |
 | 1371C | [A Cookie for You](https://codeforces.com/contest/1371/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1371/C%20-%20A%20Cookie%20for%20You/solution.cpp) |
+| 1372A | [Omkar and Completion](https://codeforces.com/contest/1372/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1372/A%20-%20Omkar%20and%20Completion/solution.cpp) |
 | 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
 | 1422B | [Nice Matrix](https://codeforces.com/contest/1422/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1422/B%20-%20Nice%20Matrix/solution.cpp) |
