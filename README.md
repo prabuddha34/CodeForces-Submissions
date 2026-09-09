@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 685 | 32 |
+| 686 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (39)
 - [bitmasks](#bitmasks) (9)
-- [brute force](#brute-force) (133)
+- [brute force](#brute-force) (134)
 - [combinatorics](#combinatorics) (16)
 - [constructive algorithms](#constructive-algorithms) (91)
 - [data structures](#data-structures) (29)
@@ -32,7 +32,7 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (362)
 - [interactive](#interactive) (1)
-- [math](#math) (201)
+- [math](#math) (202)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (48)
@@ -270,6 +270,7 @@
 | 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
 | 1399C | [Boats Competition](https://codeforces.com/contest/1399/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1399/C%20-%20Boats%20Competition/solution.cpp) |
 | 1407B | [Big Vova](https://codeforces.com/contest/1407/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1407/B%20-%20Big%20Vova/solution.cpp) |
+| 1415A | [Prison Break](https://codeforces.com/contest/1415/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1415/A%20-%20Prison%20Break/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
 | 1476B | [Inflation](https://codeforces.com/contest/1476/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1476/B%20-%20Inflation/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
@@ -1315,6 +1316,7 @@
 | 1392A | [Omkar and Password](https://codeforces.com/contest/1392/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1392/A%20-%20Omkar%20and%20Password/solution.cpp) |
 | 1407B | [Big Vova](https://codeforces.com/contest/1407/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1407/B%20-%20Big%20Vova/solution.cpp) |
 | 1413A | [Finding Sasuke](https://codeforces.com/contest/1413/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1413/A%20-%20Finding%20Sasuke/solution.cpp) |
+| 1415A | [Prison Break](https://codeforces.com/contest/1415/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1415/A%20-%20Prison%20Break/solution.cpp) |
 | 1419B | [Stairs](https://codeforces.com/contest/1419/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1419/B%20-%20Stairs/solution.cpp) |
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1422B | [Nice Matrix](https://codeforces.com/contest/1422/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1422/B%20-%20Nice%20Matrix/solution.cpp) |
