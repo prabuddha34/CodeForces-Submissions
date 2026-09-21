@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 693 | 32 |
+| 694 | 32 |
 
 ---
 
@@ -32,10 +32,10 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (364)
 - [interactive](#interactive) (1)
-- [math](#math) (206)
+- [math](#math) (207)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
-- [number theory](#number-theory) (48)
+- [number theory](#number-theory) (49)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -1347,6 +1347,7 @@
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
 | 1506A | [Strange Table](https://codeforces.com/contest/1506/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/A%20-%20Strange%20Table/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
+| 1514A | [Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1514/A%20-%20Perfectly%20Imperfect%20Array/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
 | 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.cpp) |
 | 1574B | [Combinatorics Homework](https://codeforces.com/contest/1574/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1574/B%20-%20Combinatorics%20Homework/solution.cpp) |
@@ -1421,6 +1422,7 @@
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
+| 1514A | [Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1514/A%20-%20Perfectly%20Imperfect%20Array/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
 
