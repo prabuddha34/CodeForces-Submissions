@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 699 | 32 |
+| 700 | 32 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (9)
 - [brute force](#brute-force) (135)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (95)
+- [constructive algorithms](#constructive-algorithms) (96)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (80)
+- [sortings](#sortings) (81)
 - [strings](#strings) (61)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -398,6 +398,7 @@
 | 1513A | [Array and Peaks](https://codeforces.com/contest/1513/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1513/A%20-%20Array%20and%20Peaks/solution.cpp) |
 | 1515A | [Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1515/A%20-%20Phoenix%20and%20Gold/solution.cpp) |
 | 1523B | [Lord of the Values](https://codeforces.com/contest/1523/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1523/B%20-%20Lord%20of%20the%20Values/solution.cpp) |
+| 1526A | [Mean Inequality](https://codeforces.com/contest/1526/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1526/A%20-%20Mean%20Inequality/solution.cpp) |
 | 1547D | [Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/D%20-%20Co-growing%20Sequence/solution.cpp) |
 | 1602B | [Divine Array](https://codeforces.com/contest/1602/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1602/B%20-%20Divine%20Array/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
@@ -1534,6 +1535,7 @@
 | 1424G | [Years](https://codeforces.com/contest/1424/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1424/G%20-%20Years/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
 | 1495A | [Diamond Miner](https://codeforces.com/contest/1495/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1495/A%20-%20Diamond%20Miner/solution.cpp) |
+| 1526A | [Mean Inequality](https://codeforces.com/contest/1526/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1526/A%20-%20Mean%20Inequality/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
