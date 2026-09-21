@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 691 | 32 |
+| 692 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (204)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (362)
+- [implementation](#implementation) (363)
 - [interactive](#interactive) (1)
 - [math](#math) (206)
 - [matrices](#matrices) (2)
@@ -1131,6 +1131,7 @@
 | 1493B | [Planet Lapituletti](https://codeforces.com/contest/1493/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1493/B%20-%20Planet%20Lapituletti/solution.cpp) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
 | 1506B | [Partial Replacement](https://codeforces.com/contest/1506/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1506/B%20-%20Partial%20Replacement/solution.cpp) |
+| 1512B | [Almost Rectangle](https://codeforces.com/contest/1512/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1512/B%20-%20Almost%20Rectangle/solution.cpp) |
 | 1512C | [A-B Palindrome](https://codeforces.com/contest/1512/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1512/C%20-%20A-B%20Palindrome/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
