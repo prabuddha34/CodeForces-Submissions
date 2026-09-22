@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 702 | 32 |
+| 704 | 32 |
 
 ---
 
@@ -16,21 +16,21 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (39)
 - [bitmasks](#bitmasks) (9)
-- [brute force](#brute-force) (136)
+- [brute force](#brute-force) (137)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (98)
+- [constructive algorithms](#constructive-algorithms) (99)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (28)
+- [dp](#dp) (29)
 - [dsu](#dsu) (3)
 - [expression parsing](#expression-parsing) (4)
 - [games](#games) (11)
 - [geometry](#geometry) (19)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (207)
+- [greedy](#greedy) (209)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (365)
+- [implementation](#implementation) (366)
 - [interactive](#interactive) (1)
 - [math](#math) (211)
 - [matrices](#matrices) (2)
@@ -278,6 +278,7 @@
 | 1493B | [Planet Lapituletti](https://codeforces.com/contest/1493/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1493/B%20-%20Planet%20Lapituletti/solution.cpp) |
 | 1498A | [GCD Sum](https://codeforces.com/contest/1498/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1498/A%20-%20GCD%20Sum/solution.cpp) |
 | 1536A | [Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1536/A%20-%20Omkar%20and%20Bad%20Story/solution.cpp) |
+| 1538A | [Stone Game](https://codeforces.com/contest/1538/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1538/A%20-%20Stone%20Game/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
 | 1555B | [Two Tables](https://codeforces.com/contest/1555/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1555/B%20-%20Two%20Tables/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
@@ -402,6 +403,7 @@
 | 1526A | [Mean Inequality](https://codeforces.com/contest/1526/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1526/A%20-%20Mean%20Inequality/solution.cpp) |
 | 1529A | [Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1529/A%20-%20Eshag%20Loves%20Big%20Arrays/solution.cpp) |
 | 1536A | [Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1536/A%20-%20Omkar%20and%20Bad%20Story/solution.cpp) |
+| 1541A | [Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1541/A%20-%20Pretty%20Permutations/solution.cpp) |
 | 1547D | [Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/D%20-%20Co-growing%20Sequence/solution.cpp) |
 | 1602B | [Divine Array](https://codeforces.com/contest/1602/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1602/B%20-%20Divine%20Array/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
@@ -485,6 +487,7 @@
 | 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
 | 1485B | [Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1485/B%20-%20Replace%20and%20Keep%20Sorted/solution.cpp) |
+| 1538A | [Stone Game](https://codeforces.com/contest/1538/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1538/A%20-%20Stone%20Game/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
 
@@ -761,6 +764,8 @@
 | 1516A | [Tit for Tat](https://codeforces.com/contest/1516/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1516/A%20-%20Tit%20for%20Tat/solution.cpp) |
 | 1529A | [Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1529/A%20-%20Eshag%20Loves%20Big%20Arrays/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
+| 1538A | [Stone Game](https://codeforces.com/contest/1538/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1538/A%20-%20Stone%20Game/solution.cpp) |
+| 1541A | [Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1541/A%20-%20Pretty%20Permutations/solution.cpp) |
 | 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.cpp) |
 | 1547D | [Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/D%20-%20Co-growing%20Sequence/solution.cpp) |
 | 1574B | [Combinatorics Homework](https://codeforces.com/contest/1574/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1574/B%20-%20Combinatorics%20Homework/solution.cpp) |
@@ -1145,6 +1150,7 @@
 | 1513A | [Array and Peaks](https://codeforces.com/contest/1513/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1513/A%20-%20Array%20and%20Peaks/solution.cpp) |
 | 1523A | [Game of Life](https://codeforces.com/contest/1523/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1523/A%20-%20Game%20of%20Life/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
+| 1541A | [Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1541/A%20-%20Pretty%20Permutations/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
 | 1602B | [Divine Array](https://codeforces.com/contest/1602/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1602/B%20-%20Divine%20Array/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
