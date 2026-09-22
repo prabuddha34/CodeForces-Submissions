@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 701 | 32 |
+| 702 | 32 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (39)
 - [bitmasks](#bitmasks) (9)
-- [brute force](#brute-force) (135)
+- [brute force](#brute-force) (136)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (97)
+- [constructive algorithms](#constructive-algorithms) (98)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -277,6 +277,7 @@
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1493B | [Planet Lapituletti](https://codeforces.com/contest/1493/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1493/B%20-%20Planet%20Lapituletti/solution.cpp) |
 | 1498A | [GCD Sum](https://codeforces.com/contest/1498/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1498/A%20-%20GCD%20Sum/solution.cpp) |
+| 1536A | [Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1536/A%20-%20Omkar%20and%20Bad%20Story/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
 | 1555B | [Two Tables](https://codeforces.com/contest/1555/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1555/B%20-%20Two%20Tables/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
@@ -400,6 +401,7 @@
 | 1523B | [Lord of the Values](https://codeforces.com/contest/1523/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1523/B%20-%20Lord%20of%20the%20Values/solution.cpp) |
 | 1526A | [Mean Inequality](https://codeforces.com/contest/1526/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1526/A%20-%20Mean%20Inequality/solution.cpp) |
 | 1529A | [Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1529/A%20-%20Eshag%20Loves%20Big%20Arrays/solution.cpp) |
+| 1536A | [Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1536/A%20-%20Omkar%20and%20Bad%20Story/solution.cpp) |
 | 1547D | [Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1547/D%20-%20Co-growing%20Sequence/solution.cpp) |
 | 1602B | [Divine Array](https://codeforces.com/contest/1602/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1602/B%20-%20Divine%20Array/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
