@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 705 | 32 |
+| 706 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (39)
 - [bitmasks](#bitmasks) (9)
-- [brute force](#brute-force) (137)
+- [brute force](#brute-force) (138)
 - [combinatorics](#combinatorics) (16)
 - [constructive algorithms](#constructive-algorithms) (99)
 - [data structures](#data-structures) (29)
@@ -281,6 +281,7 @@
 | 1538A | [Stone Game](https://codeforces.com/contest/1538/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1538/A%20-%20Stone%20Game/solution.cpp) |
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
 | 1555B | [Two Tables](https://codeforces.com/contest/1555/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1555/B%20-%20Two%20Tables/solution.cpp) |
+| 1633A | [Div. 7](https://codeforces.com/contest/1633/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1633/A%20-%20Div.%207/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 
 ### combinatorics
