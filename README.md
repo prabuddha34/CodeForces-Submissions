@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 718 | 32 |
+| 719 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (39)
 - [bitmasks](#bitmasks) (10)
-- [brute force](#brute-force) (140)
+- [brute force](#brute-force) (141)
 - [combinatorics](#combinatorics) (16)
 - [constructive algorithms](#constructive-algorithms) (103)
 - [data structures](#data-structures) (29)
@@ -28,9 +28,9 @@
 - [games](#games) (11)
 - [geometry](#geometry) (19)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (214)
+- [greedy](#greedy) (215)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (371)
+- [implementation](#implementation) (372)
 - [interactive](#interactive) (1)
 - [math](#math) (214)
 - [matrices](#matrices) (2)
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (82)
+- [sortings](#sortings) (83)
 - [strings](#strings) (63)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -285,6 +285,7 @@
 | 1633A | [Div. 7](https://codeforces.com/contest/1633/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1633/A%20-%20Div.%207/solution.cpp) |
 | 1637A | [Sorting Parts](https://codeforces.com/contest/1637/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1637/A%20-%20Sorting%20Parts/solution.cpp) |
 | 1644B | [Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/B%20-%20Anti-Fibonacci%20Permutation/solution.cpp) |
+| 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 
 ### combinatorics
@@ -782,6 +783,7 @@
 | 1635A | [Min Or Sum](https://codeforces.com/contest/1635/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1635/A%20-%20Min%20Or%20Sum/solution.cpp) |
 | 1638A | [Reverse](https://codeforces.com/contest/1638/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1638/A%20-%20Reverse/solution.cpp) |
 | 1651B | [Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1651/B%20-%20Prove%20Him%20Wrong/solution.cpp) |
+| 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
@@ -1171,6 +1173,7 @@
 | 1644B | [Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/B%20-%20Anti-Fibonacci%20Permutation/solution.cpp) |
 | 1650A | [Deletions of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1650/A%20-%20Deletions%20of%20Two%20Adjacent%20Letters/solution.cpp) |
 | 1651A | [Playoff](https://codeforces.com/contest/1651/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1651/A%20-%20Playoff/solution.cpp) |
+| 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
@@ -1570,6 +1573,7 @@
 | 1526A | [Mean Inequality](https://codeforces.com/contest/1526/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1526/A%20-%20Mean%20Inequality/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 | 1637A | [Sorting Parts](https://codeforces.com/contest/1637/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1637/A%20-%20Sorting%20Parts/solution.cpp) |
+| 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
