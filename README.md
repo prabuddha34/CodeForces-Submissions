@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 721 | 32 |
+| 722 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (39)
 - [bitmasks](#bitmasks) (10)
-- [brute force](#brute-force) (141)
+- [brute force](#brute-force) (142)
 - [combinatorics](#combinatorics) (16)
 - [constructive algorithms](#constructive-algorithms) (103)
 - [data structures](#data-structures) (29)
@@ -32,7 +32,7 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (372)
 - [interactive](#interactive) (1)
-- [math](#math) (215)
+- [math](#math) (216)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (50)
@@ -286,6 +286,7 @@
 | 1637A | [Sorting Parts](https://codeforces.com/contest/1637/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1637/A%20-%20Sorting%20Parts/solution.cpp) |
 | 1644B | [Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/B%20-%20Anti-Fibonacci%20Permutation/solution.cpp) |
 | 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
+| 1657A | [Integer Moves](https://codeforces.com/contest/1657/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1657/A%20-%20Integer%20Moves/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 
 ### combinatorics
@@ -1395,6 +1396,7 @@
 | 1638A | [Reverse](https://codeforces.com/contest/1638/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1638/A%20-%20Reverse/solution.cpp) |
 | 1646A | [Square Counting](https://codeforces.com/contest/1646/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1646/A%20-%20Square%20Counting/solution.cpp) |
 | 1656A | [Good Pairs](https://codeforces.com/contest/1656/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1656/A%20-%20Good%20Pairs/solution.cpp) |
+| 1657A | [Integer Moves](https://codeforces.com/contest/1657/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1657/A%20-%20Integer%20Moves/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
