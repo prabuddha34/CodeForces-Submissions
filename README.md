@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 716 | 32 |
+| 717 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (213)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (370)
+- [implementation](#implementation) (371)
 - [interactive](#interactive) (1)
 - [math](#math) (214)
 - [matrices](#matrices) (2)
@@ -1168,6 +1168,7 @@
 | 1644A | [Doors and Keys](https://codeforces.com/contest/1644/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/A%20-%20Doors%20and%20Keys/solution.cpp) |
 | 1644B | [Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/B%20-%20Anti-Fibonacci%20Permutation/solution.cpp) |
 | 1650A | [Deletions of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1650/A%20-%20Deletions%20of%20Two%20Adjacent%20Letters/solution.cpp) |
+| 1651A | [Playoff](https://codeforces.com/contest/1651/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1651/A%20-%20Playoff/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
