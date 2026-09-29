@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 715 | 32 |
+| 716 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (213)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (369)
+- [implementation](#implementation) (370)
 - [interactive](#interactive) (1)
 - [math](#math) (214)
 - [matrices](#matrices) (2)
@@ -40,7 +40,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (82)
-- [strings](#strings) (62)
+- [strings](#strings) (63)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (19)
@@ -1167,6 +1167,7 @@
 | 1602B | [Divine Array](https://codeforces.com/contest/1602/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1602/B%20-%20Divine%20Array/solution.cpp) |
 | 1644A | [Doors and Keys](https://codeforces.com/contest/1644/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/A%20-%20Doors%20and%20Keys/solution.cpp) |
 | 1644B | [Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/B%20-%20Anti-Fibonacci%20Permutation/solution.cpp) |
+| 1650A | [Deletions of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1650/A%20-%20Deletions%20of%20Two%20Adjacent%20Letters/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
@@ -1634,6 +1635,7 @@
 | 1553B | [Reverse String](https://codeforces.com/contest/1553/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1553/B%20-%20Reverse%20String/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 | 1634A | [Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1634/A%20-%20Reverse%20and%20Concatenate/solution.cpp) |
+| 1650A | [Deletions of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1650/A%20-%20Deletions%20of%20Two%20Adjacent%20Letters/solution.cpp) |
 
 ### ternary search
 
