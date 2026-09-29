@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 719 | 32 |
+| 720 | 32 |
 
 ---
 
@@ -40,7 +40,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (83)
-- [strings](#strings) (63)
+- [strings](#strings) (64)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (19)
@@ -1643,6 +1643,7 @@
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
 | 1634A | [Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1634/A%20-%20Reverse%20and%20Concatenate/solution.cpp) |
 | 1650A | [Deletions of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1650/A%20-%20Deletions%20of%20Two%20Adjacent%20Letters/solution.cpp) |
+| 1654B | [Prefix Removals](https://codeforces.com/contest/1654/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/B%20-%20Prefix%20Removals/solution.cpp) |
 
 ### ternary search
 
