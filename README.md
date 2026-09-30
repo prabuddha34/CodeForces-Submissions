@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 729 | 32 |
+| 730 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (218)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (374)
+- [implementation](#implementation) (375)
 - [interactive](#interactive) (1)
 - [math](#math) (222)
 - [matrices](#matrices) (2)
@@ -1182,6 +1182,7 @@
 | 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
 | 1658A | [Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1658/A%20-%20Marin%20and%20Photoshoot/solution.cpp) |
 | 1668A | [Direction Change](https://codeforces.com/contest/1668/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1668/A%20-%20Direction%20Change/solution.cpp) |
+| 1671A | [String Building](https://codeforces.com/contest/1671/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1671/A%20-%20String%20Building/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
