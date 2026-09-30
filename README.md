@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 727 | 32 |
+| 728 | 32 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (10)
 - [brute force](#brute-force) (142)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (104)
+- [constructive algorithms](#constructive-algorithms) (105)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -32,7 +32,7 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (373)
 - [interactive](#interactive) (1)
-- [math](#math) (220)
+- [math](#math) (221)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (50)
@@ -416,6 +416,7 @@
 | 1644B | [Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1644/B%20-%20Anti-Fibonacci%20Permutation/solution.cpp) |
 | 1651B | [Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1651/B%20-%20Prove%20Him%20Wrong/solution.cpp) |
 | 1658A | [Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1658/A%20-%20Marin%20and%20Photoshoot/solution.cpp) |
+| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 
@@ -1406,6 +1407,7 @@
 | 1660A | [Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1660/A%20-%20Vasya%20and%20Coins/solution.cpp) |
 | 1660B | [Vlad and Candies](https://codeforces.com/contest/1660/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1660/B%20-%20Vlad%20and%20Candies/solution.cpp) |
 | 1661A | [Array Balancing](https://codeforces.com/contest/1661/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1661/A%20-%20Array%20Balancing/solution.cpp) |
+| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
