@@ -1,0 +1,25 @@
+<h2><a href="https://codeforces.com/contest/1671/problem/A" target="_blank" rel="noopener noreferrer">1671A — String Building</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1671A](https://codeforces.com/contest/1671/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. String Building</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a string $$$s$$$. You have to determine whether it is possible to build the string $$$s$$$ out of strings <span class="tex-font-style-tt">aa</span>, <span class="tex-font-style-tt">aaa</span>, <span class="tex-font-style-tt">bb</span> and/or <span class="tex-font-style-tt">bbb</span> by concatenating them. You can use the strings <span class="tex-font-style-tt">aa</span>, <span class="tex-font-style-tt">aaa</span>, <span class="tex-font-style-tt">bb</span> and/or <span class="tex-font-style-tt">bbb</span> any number of times and in any order.</p><p>For example:</p><ul> <li> <span class="tex-font-style-tt">aaaabbb</span> can be built as <span class="tex-font-style-tt">aa</span> $$$+$$$ <span class="tex-font-style-tt">aa</span> $$$+$$$ <span class="tex-font-style-tt">bbb</span>; </li><li> <span class="tex-font-style-tt">bbaaaaabbb</span> can be built as <span class="tex-font-style-tt">bb</span> $$$+$$$ <span class="tex-font-style-tt">aaa</span> $$$+$$$ <span class="tex-font-style-tt">aa</span> $$$+$$$ <span class="tex-font-style-tt">bbb</span>; </li><li> <span class="tex-font-style-tt">aaaaaa</span> can be built as <span class="tex-font-style-tt">aa</span> $$$+$$$ <span class="tex-font-style-tt">aa</span> $$$+$$$ <span class="tex-font-style-tt">aa</span>; </li><li> <span class="tex-font-style-tt">abab</span> cannot be built from <span class="tex-font-style-tt">aa</span>, <span class="tex-font-style-tt">aaa</span>, <span class="tex-font-style-tt">bb</span> and/or <span class="tex-font-style-tt">bbb</span>. </li></ul></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$t$$$ ($$$1 \le t \le 1000$$$) — the number of test cases.</p><p>Each test case consists of one line containing the string $$$s$$$ ($$$1 \le |s| \le 50$$$), consisting of characters <span class="tex-font-style-tt">a</span> and/or <span class="tex-font-style-tt">b</span>.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print <span class="tex-font-style-tt">YES</span> if it is possible to build the string $$$s$$$. Otherwise, print <span class="tex-font-style-tt">NO</span>.</p><p>You may print each letter in any case (for example, <span class="tex-font-style-tt">YES</span>, <span class="tex-font-style-tt">yes</span>, <span class="tex-font-style-tt">Yes</span> will all be recognized as positive answer, <span class="tex-font-style-tt">NO</span>, <span class="tex-font-style-tt">no</span> and <span class="tex-font-style-tt">nO</span> will all be recognized as negative answer).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003149815282768793" id="id002673097262942463" class="input-output-copier">Copy</div></div><pre id="id003149815282768793"><div class="test-example-line test-example-line-even test-example-line-0">8</div><div class="test-example-line test-example-line-odd test-example-line-1">aaaabbb</div><div class="test-example-line test-example-line-even test-example-line-2">bbaaaaabbb</div><div class="test-example-line test-example-line-odd test-example-line-3">aaaaaa</div><div class="test-example-line test-example-line-even test-example-line-4">abab</div><div class="test-example-line test-example-line-odd test-example-line-5">a</div><div class="test-example-line test-example-line-even test-example-line-6">b</div><div class="test-example-line test-example-line-odd test-example-line-7">aaaab</div><div class="test-example-line test-example-line-even test-example-line-8">bbaaa</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0004007420227367264" id="id002505023983552678" class="input-output-copier">Copy</div></div><pre id="id0004007420227367264">YES
+YES
+YES
+NO
+NO
+NO
+NO
+YES
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>The first four test cases of the example are described in the statement.</p></div>
