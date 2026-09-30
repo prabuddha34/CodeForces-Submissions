@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 724 | 32 |
+| 725 | 32 |
 
 ---
 
@@ -28,11 +28,11 @@
 - [games](#games) (11)
 - [geometry](#geometry) (19)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (216)
+- [greedy](#greedy) (217)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (373)
 - [interactive](#interactive) (1)
-- [math](#math) (217)
+- [math](#math) (218)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (50)
@@ -787,6 +787,7 @@
 | 1651B | [Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1651/B%20-%20Prove%20Him%20Wrong/solution.cpp) |
 | 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
 | 1657B | [XY Sequence](https://codeforces.com/contest/1657/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1657/B%20-%20XY%20Sequence/solution.cpp) |
+| 1660A | [Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1660/A%20-%20Vasya%20and%20Coins/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
@@ -1401,6 +1402,7 @@
 | 1656A | [Good Pairs](https://codeforces.com/contest/1656/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1656/A%20-%20Good%20Pairs/solution.cpp) |
 | 1657A | [Integer Moves](https://codeforces.com/contest/1657/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1657/A%20-%20Integer%20Moves/solution.cpp) |
 | 1658A | [Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1658/A%20-%20Marin%20and%20Photoshoot/solution.cpp) |
+| 1660A | [Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1660/A%20-%20Vasya%20and%20Coins/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
