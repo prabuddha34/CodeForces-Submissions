@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 731 | 32 |
+| 732 | 32 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (10)
 - [brute force](#brute-force) (142)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (105)
+- [constructive algorithms](#constructive-algorithms) (106)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (218)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (376)
+- [implementation](#implementation) (377)
 - [interactive](#interactive) (1)
 - [math](#math) (223)
 - [matrices](#matrices) (2)
@@ -417,6 +417,7 @@
 | 1651B | [Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1651/B%20-%20Prove%20Him%20Wrong/solution.cpp) |
 | 1658A | [Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1658/A%20-%20Marin%20and%20Photoshoot/solution.cpp) |
 | 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.cpp) |
+| 1672B | [I love AAAB](https://codeforces.com/contest/1672/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1672/B%20-%20I%20love%20AAAB/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 
@@ -1185,6 +1186,7 @@
 | 1668A | [Direction Change](https://codeforces.com/contest/1668/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1668/A%20-%20Direction%20Change/solution.cpp) |
 | 1671A | [String Building](https://codeforces.com/contest/1671/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1671/A%20-%20String%20Building/solution.cpp) |
 | 1672A | [Log Chopping](https://codeforces.com/contest/1672/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1672/A%20-%20Log%20Chopping/solution.cpp) |
+| 1672B | [I love AAAB](https://codeforces.com/contest/1672/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1672/B%20-%20I%20love%20AAAB/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
