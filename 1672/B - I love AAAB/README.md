@@ -1,0 +1,21 @@
+<h2><a href="https://codeforces.com/contest/1672/problem/B" target="_blank" rel="noopener noreferrer">1672B — I love AAAB</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1672B](https://codeforces.com/contest/1672/problem/B) |
+
+## Topics
+`constructive algorithms` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. I love AAAB</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Let's call a string <span class="tex-font-style-bf">good</span> if its length is at least $$$2$$$ and all of its characters are $$$\texttt{A}$$$ except for the last character which is $$$\texttt{B}$$$. The good strings are $$$\texttt{AB},\texttt{AAB},\texttt{AAAB},\ldots$$$. Note that $$$\texttt{B}$$$ is <span class="tex-font-style-bf">not</span> a good string.</p><p>You are given an initially empty string $$$s_1$$$.</p><p>You can perform the following operation any number of times: </p><ul> <li> Choose any position of $$$s_1$$$ and insert some good string in that position. </li></ul><p>Given a string $$$s_2$$$, can we turn $$$s_1$$$ into $$$s_2$$$ after some number of operations?</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains a single integer $$$t$$$ ($$$1 \leq t \leq 10^4$$$) — the number of test cases. The description of the test cases follows.</p><p>The first line of each test case contains a single string $$$s_2$$$ ($$$1 \leq |s_2| \leq 2 \cdot 10^5$$$).</p><p>It is guaranteed that $$$s_2$$$ consists of only the characters $$$\texttt{A}$$$ and $$$\texttt{B}$$$.</p><p>It is guaranteed that the sum of $$$|s_2|$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print "<span class="tex-font-style-tt">YES</span>" (without quotes) if we can turn $$$s_1$$$ into $$$s_2$$$ after some number of operations, and "<span class="tex-font-style-tt">NO</span>" (without quotes) otherwise.</p><p>You can output "<span class="tex-font-style-tt">YES</span>" and "<span class="tex-font-style-tt">NO</span>" in any case (for example, strings "<span class="tex-font-style-tt">yEs</span>", "<span class="tex-font-style-tt">yes</span>" and "<span class="tex-font-style-tt">Yes</span>" will be recognized as a positive response).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00056669925911903896" id="id00046131394423100325" class="input-output-copier">Copy</div></div><pre id="id00056669925911903896"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">AABAB</div><div class="test-example-line test-example-line-even test-example-line-2">ABB</div><div class="test-example-line test-example-line-odd test-example-line-3">AAAAAAAAB</div><div class="test-example-line test-example-line-even test-example-line-4">A</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0029132921681676793" id="id005534423842440688" class="input-output-copier">Copy</div></div><pre id="id0029132921681676793">YES
+NO
+YES
+NO
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, we transform $$$s_1$$$ as such: $$$\varnothing \to \color{red}{\texttt{AAB}} \to \texttt{A}\color{red}{\texttt{AB}}\texttt{AB}$$$.</p><p>In the third test case, we transform $$$s_1$$$ as such: $$$\varnothing \to \color{red}{\texttt{AAAAAAAAB}}$$$.</p><p>In the second and fourth test case, it can be shown that it is impossible to turn $$$s_1$$$ into $$$s_2$$$.</p></div>
