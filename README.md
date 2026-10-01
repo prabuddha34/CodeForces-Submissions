@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 734 | 32 |
+| 735 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (220)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (378)
+- [implementation](#implementation) (379)
 - [interactive](#interactive) (1)
 - [math](#math) (224)
 - [matrices](#matrices) (2)
@@ -1192,6 +1192,7 @@
 | 1672A | [Log Chopping](https://codeforces.com/contest/1672/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1672/A%20-%20Log%20Chopping/solution.cpp) |
 | 1672B | [I love AAAB](https://codeforces.com/contest/1672/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1672/B%20-%20I%20love%20AAAB/solution.cpp) |
 | 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
+| 1678A | [Tokitsukaze and All Zero Sequence](https://codeforces.com/contest/1678/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1678/A%20-%20Tokitsukaze%20and%20All%20Zero%20Sequence/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
