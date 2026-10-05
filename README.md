@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 742 | 32 |
+| 743 | 32 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [games](#games) (14)
 - [geometry](#geometry) (19)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (224)
+- [greedy](#greedy) (225)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (381)
 - [interactive](#interactive) (1)
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (85)
+- [sortings](#sortings) (86)
 - [strings](#strings) (67)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -805,6 +805,7 @@
 | 1682A | [Palindromic Indices](https://codeforces.com/contest/1682/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1682/A%20-%20Palindromic%20Indices/solution.cpp) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1689/A%20-%20Lex%20String/solution.cpp) |
 | 1691A | [Beat The Odds](https://codeforces.com/contest/1691/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1691/A%20-%20Beat%20The%20Odds/solution.cpp) |
+| 1692B | [All Distinct](https://codeforces.com/contest/1692/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/B%20-%20All%20Distinct/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
@@ -1620,6 +1621,7 @@
 | 1654A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1654/A%20-%20Maximum%20Cake%20Tastiness/solution.cpp) |
 | 1656A | [Good Pairs](https://codeforces.com/contest/1656/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1656/A%20-%20Good%20Pairs/solution.cpp) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1689/A%20-%20Lex%20String/solution.cpp) |
+| 1692B | [All Distinct](https://codeforces.com/contest/1692/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/B%20-%20All%20Distinct/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
