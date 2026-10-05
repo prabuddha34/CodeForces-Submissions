@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 743 | 32 |
+| 744 | 32 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (225)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (381)
+- [implementation](#implementation) (382)
 - [interactive](#interactive) (1)
 - [math](#math) (228)
 - [matrices](#matrices) (2)
@@ -1205,6 +1205,7 @@
 | 1678A | [Tokitsukaze and All Zero Sequence](https://codeforces.com/contest/1678/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1678/A%20-%20Tokitsukaze%20and%20All%20Zero%20Sequence/solution.cpp) |
 | 1681B | [Card Trick](https://codeforces.com/contest/1681/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1681/B%20-%20Card%20Trick/solution.cpp) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1689/A%20-%20Lex%20String/solution.cpp) |
+| 1692C | [Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/C%20-%20Where's%20the%20Bishop%3F/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
