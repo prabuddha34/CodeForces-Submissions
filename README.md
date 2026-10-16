@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 753 | 32 |
+| 754 | 32 |
 
 ---
 
@@ -28,9 +28,9 @@
 - [games](#games) (14)
 - [geometry](#geometry) (19)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (231)
+- [greedy](#greedy) (232)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (385)
+- [implementation](#implementation) (386)
 - [interactive](#interactive) (1)
 - [math](#math) (230)
 - [matrices](#matrices) (2)
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (89)
+- [sortings](#sortings) (90)
 - [strings](#strings) (68)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -819,6 +819,7 @@
 | 1733A | [Consecutive Sum](https://codeforces.com/contest/1733/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1733/A%20-%20Consecutive%20Sum/solution.cpp) |
 | 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1736A | [Make A Equal to B](https://codeforces.com/contest/1736/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1736/A%20-%20Make%20A%20Equal%20to%20B/solution.cpp) |
+| 1738A | [Glory Addicts](https://codeforces.com/contest/1738/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1738/A%20-%20Glory%20Addicts/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
@@ -1222,6 +1223,7 @@
 | 1694A | [Creep](https://codeforces.com/contest/1694/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1694/A%20-%20Creep/solution.cpp) |
 | 1697A | [Parkway Walk](https://codeforces.com/contest/1697/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1697/A%20-%20Parkway%20Walk/solution.cpp) |
 | 1703C | [Cypher](https://codeforces.com/contest/1703/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1703/C%20-%20Cypher/solution.cpp) |
+| 1738A | [Glory Addicts](https://codeforces.com/contest/1738/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1738/A%20-%20Glory%20Addicts/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
@@ -1643,6 +1645,7 @@
 | 1692B | [All Distinct](https://codeforces.com/contest/1692/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/B%20-%20All%20Distinct/solution.cpp) |
 | 1733A | [Consecutive Sum](https://codeforces.com/contest/1733/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1733/A%20-%20Consecutive%20Sum/solution.cpp) |
 | 1736A | [Make A Equal to B](https://codeforces.com/contest/1736/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1736/A%20-%20Make%20A%20Equal%20to%20B/solution.cpp) |
+| 1738A | [Glory Addicts](https://codeforces.com/contest/1738/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1738/A%20-%20Glory%20Addicts/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
