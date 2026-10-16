@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 751 | 32 |
+| 752 | 32 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (10)
 - [brute force](#brute-force) (148)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (110)
+- [constructive algorithms](#constructive-algorithms) (111)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -28,11 +28,11 @@
 - [games](#games) (14)
 - [geometry](#geometry) (19)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (229)
+- [greedy](#greedy) (230)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (385)
 - [interactive](#interactive) (1)
-- [math](#math) (229)
+- [math](#math) (230)
 - [matrices](#matrices) (2)
 - [meet-in-the-middle](#meet-in-the-middle) (1)
 - [number theory](#number-theory) (50)
@@ -427,6 +427,7 @@
 | 1684B | [Z mod X = C](https://codeforces.com/contest/1684/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1684/B%20-%20Z%20mod%20X%20%3D%20C/solution.cpp) |
 | 1700A | [Optimal Path](https://codeforces.com/contest/1700/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1700/A%20-%20Optimal%20Path/solution.cpp) |
 | 1734B | [Bright, Nice, Brilliant](https://codeforces.com/contest/1734/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1734/B%20-%20Bright%2C%20Nice%2C%20Brilliant/solution.cpp) |
+| 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
@@ -815,6 +816,7 @@
 | 1697A | [Parkway Walk](https://codeforces.com/contest/1697/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1697/A%20-%20Parkway%20Walk/solution.cpp) |
 | 1700A | [Optimal Path](https://codeforces.com/contest/1700/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1700/A%20-%20Optimal%20Path/solution.cpp) |
 | 1733A | [Consecutive Sum](https://codeforces.com/contest/1733/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1733/A%20-%20Consecutive%20Sum/solution.cpp) |
+| 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.cpp) |
@@ -1454,6 +1456,7 @@
 | 1691A | [Beat The Odds](https://codeforces.com/contest/1691/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1691/A%20-%20Beat%20The%20Odds/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 | 1700A | [Optimal Path](https://codeforces.com/contest/1700/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1700/A%20-%20Optimal%20Path/solution.cpp) |
+| 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
