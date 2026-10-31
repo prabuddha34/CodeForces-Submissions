@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 763 | 32 |
+| 764 | 32 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (151)
 - [combinatorics](#combinatorics) (17)
 - [constructive algorithms](#constructive-algorithms) (112)
-- [data structures](#data-structures) (30)
+- [data structures](#data-structures) (31)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (29)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (233)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (392)
+- [implementation](#implementation) (393)
 - [interactive](#interactive) (1)
 - [math](#math) (232)
 - [matrices](#matrices) (2)
@@ -470,6 +470,7 @@
 | 1424G | [Years](https://codeforces.com/contest/1424/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1424/G%20-%20Years/solution.cpp) |
 | 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.cpp) |
 | 1575A | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1575/A%20-%20Another%20Sorting%20Problem/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 | 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### dfs and similar
@@ -1238,6 +1239,7 @@
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
 ### interactive
 
