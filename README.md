@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 768 | 32 |
+| 769 | 32 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (10)
 - [brute force](#brute-force) (151)
 - [combinatorics](#combinatorics) (17)
-- [constructive algorithms](#constructive-algorithms) (112)
+- [constructive algorithms](#constructive-algorithms) (113)
 - [data structures](#data-structures) (31)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -40,7 +40,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (93)
-- [strings](#strings) (71)
+- [strings](#strings) (72)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (21)
@@ -433,6 +433,7 @@
 | 1734B | [Bright, Nice, Brilliant](https://codeforces.com/contest/1734/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1734/B%20-%20Bright%2C%20Nice%2C%20Brilliant/solution.cpp) |
 | 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
+| 1758A | [SSeeeeiinngg DDoouubbllee](https://codeforces.com/contest/1758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1758/A%20-%20SSeeeeiinngg%20DDoouubbllee/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
@@ -1748,6 +1749,7 @@
 | 1682A | [Palindromic Indices](https://codeforces.com/contest/1682/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1682/A%20-%20Palindromic%20Indices/solution.cpp) |
 | 1703C | [Cypher](https://codeforces.com/contest/1703/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1703/C%20-%20Cypher/solution.cpp) |
 | 1741A | [Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1741/A%20-%20Compare%20T-Shirt%20Sizes/solution.cpp) |
+| 1758A | [SSeeeeiinngg DDoouubbllee](https://codeforces.com/contest/1758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1758/A%20-%20SSeeeeiinngg%20DDoouubbllee/solution.cpp) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
