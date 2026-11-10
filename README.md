@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 769 | 32 |
+| 770 | 32 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [games](#games) (15)
 - [geometry](#geometry) (19)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (235)
+- [greedy](#greedy) (236)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (394)
 - [interactive](#interactive) (1)
@@ -829,6 +829,7 @@
 | 1736A | [Make A Equal to B](https://codeforces.com/contest/1736/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1736/A%20-%20Make%20A%20Equal%20to%20B/solution.cpp) |
 | 1738A | [Glory Addicts](https://codeforces.com/contest/1738/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1738/A%20-%20Glory%20Addicts/solution.cpp) |
 | 1754A | [Technical Support](https://codeforces.com/contest/1754/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1754/A%20-%20Technical%20Support/solution.cpp) |
+| 1764A | [Doremy's Paint](https://codeforces.com/contest/1764/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1764/A%20-%20Doremy's%20Paint/solution.cpp) |
 | 1884B | [Haunted House](https://codeforces.com/contest/1884/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/1884/B%20-%20Haunted%20House/solution.cpp) |
 | 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/prabuddha34/CodeForces-Submissions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
